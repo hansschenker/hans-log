@@ -231,3 +231,4 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-22T12:10:40Z | file | `Rxjs\Rxjs-8-Policies-formulate-Operator-Behaviors\Rxjs-operator-policy-renaming-operators-chatgpt.md` |
 | 2026-06-22T12:10:40Z | file | `Rxjs\What-is-Rxjs-Meta-AI\what is rxjs meta ai.md` |
 | 2026-06-22T15:17:33Z | link | [RxJS operators deep dive](https://notebooklm.google.com/notebook/sample123) |
+| 2026-06-22T15:41:39Z | link | [Rxjs is an embedded DSL](https://notebooklm.google.com/notebook/2a80cdfa-ee43-4fd4-a2f3-7df2bd08eb97) |
