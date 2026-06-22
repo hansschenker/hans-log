@@ -1,4 +1,4 @@
-# Hans Activity Log
+# Hans Activity Log — [github.com/hansschenker/hans-log](https://github.com/hansschenker/hans-log)
 
 Automated tracker. Records **new files** created under `C:\Users\hanss\Local-Learning` (recursive) and **new GitHub repositories** created under [github.com/hansschenker](https://github.com/hansschenker). Scanned hourly. New entries are appended under **Activity**.
 
