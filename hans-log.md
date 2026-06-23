@@ -28,6 +28,53 @@ python log-link.py <url> <description>
 
 ---
 
+## Manual Entries
+
+*Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
+
+### 2026-06-20 Sat
+- claude-support | https://support.claude.com/fr/
+- browser-apis | https://spec.whatwg.org/
+- honox-user | https://zenn.dev/yusukebe/articles/724940fa3f2450?locale=en#summary
+- hono-creator | https://findy-code.io/media/articles/interview-yusukebe
+
+### 2026-05-30 Sat
+- llm-expert | alexej gregorev | https://alexeygrigorev.com/
+- fp-vorlesung | bremen | https://user.informatik.uni-bremen.de/clueth/lehre/pi3.ws20/lectures.html
+- sergi-mansilla | rxjs expert | https://github.com/sergi
+- rxjs-course-supergrok | C:\Users\hanss\Web\Hans\rxjs-frp-supergrok
+- hans-project | C:\Users\hanss\Local-Learning\Recall\Recall-MCP
+- rxjs-deep-dive | chatgpt | https://chatgpt.com/share/6a204081-0ebc-8327-b03e-5690e31692f3
+- rxjs-start | hans-project | https://chatgpt.com/share/6a22790c-4148-8325-a745-45cfa3392e4f
+- cloudflare-tokens | https://dash.cloudflare.com/344827f268be8155e3d7f9a2ed876123/api-tokens
+- rxjs-ssr | supergrok | https://app.recall.it/s/72afd049-9ae8-5b70-b3cb-3a0ee82efa68
+- hono-rest | simple projects sample | C:\Users\hanss\Web\Fullstack\hono
+- custom-registry | https://medium.com/@902Labs/setting-up-a-private-npm-registry-is-easier-than-you-think-455e1bd438f2
+- registry-verdaccio | ytl | https://www.youtube.com/channel/UC5i20v6o7lSjXzAHOvatt0w
+- registry-verdaccio | site | https://www.verdaccio.org/
+- tanstack-server-fns | jilles | https://jilles.me/tanstack-start-server-functions-how-they-work/
+- codex-website | jilles | https://jilles.dev/free-cloudflare-website-with-codex/
+- turboRepo-docs | https://turbo.net/docs/getting-started/guide
+- pnpm-registries | https://pnpm.io/settings#namedregistries
+- hans-project | rxjs-book | netxpert-site Observables | Claude CLI | C:\Users\hanss\Web\Hans\netxpert-site
+- hermes-llm-wiki | C:\Users\hanss\Web\Hans\rxjs-wiki-hermes
+- hans-project | insights | C:\Users\hanss\Web\Hans\rxjs-insights-antigravity
+- notebooklm-kit | https://github.com/photon-hq/notebooklm-kit/tree/main
+- agentic-os | https://github.com/itseffi/agentic-os
+- agentic-masterclass | agentic-os | https://github.com/itseffi
+- rxjs-koans | based on matthew podwysocki | hanss@Dell-5550:/mnt/c/Users/hanss/Web/Hans/matthew-podwysocki/RxJSKoans$
+- openai-codex | https://x.com/OpenAIDevs/status/2067681320281723113/video/1
+- claude-subagents | boris cherny | https://x.com/0xMovez/status/2067642452991717790/video/1
+- claude-loop | claude talk | https://x.com/0xCodez/status/2067604216529474028/video/1
+- karpath-sw-change | https://x.com/sairahul1/status/2067971149297037763/video/1
+- claude-mcp | co-creator talk | https://x.com/Zephyr_hg/status/2068029544733540688/video/1
+- karpathy-using-llm | https://x.com/s4yonnara/status/2067898082100912553/video/1
+- claude-setup | boris cherny | https://x.com/0xMovez/status/2068074207687201043/video/1
+- claude-agents | how setup agents | claude talk | https://x.com/Jeyxbt/status/2067866973497868794/video/1
+- claude-masterclass | C:\Users\hanss\Local-Learning\Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course
+
+---
+
 ## Baseline — 2026-06-20 03:27 UTC
 
 Items existing at setup. These are **not** logged as new; only items appearing after this point are recorded under Activity.
