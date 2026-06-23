@@ -63,8 +63,9 @@ for line in content.splitlines():
         cur_date = m.group(1); continue
     if line.startswith('- ') and cur_date and in_range(cur_date, start, end):
         parts = [p.strip() for p in line[2:].split('|')]
-        tag = parts[0].lower().split('-')[0] if parts else 'other'
-        manual[tag].append(line[2:].strip())
+        # First field is now explicit topic
+        topic = parts[0].lower() if parts else 'other'
+        manual[topic].append(' | '.join(parts[1:]) if len(parts) > 1 else parts[0])
 
 # ── Parse Activity table ──────────────────────────────────────────────────────
 auto = defaultdict(list)   # topic -> [item_text]

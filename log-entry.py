@@ -29,6 +29,10 @@ def build_entry(args):
         parts = [p.strip() for p in raw.split(',') if p.strip()]
     else:
         parts = [a.strip() for a in args if a.strip()]
+    # Ensure first field is a short topic (no hyphens) — if not, infer it
+    if parts and '-' in parts[0]:
+        topic = parts[0].split('-')[0]
+        parts = [topic] + parts
     return '- ' + ' | '.join(parts)
 
 def main():

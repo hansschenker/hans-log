@@ -33,469 +33,469 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-06-20 Sat
-- claude-support | https://support.claude.com/fr/
-- browser-apis | https://spec.whatwg.org/
-- honox-user | https://zenn.dev/yusukebe/articles/724940fa3f2450?locale=en#summary
-- hono-creator | https://findy-code.io/media/articles/interview-yusukebe
+- claude | claude-support | https://support.claude.com/fr/
+- web | browser-apis | https://spec.whatwg.org/
+- hono | honox-user | https://zenn.dev/yusukebe/articles/724940fa3f2450?locale=en#summary
+- hono | hono-creator | https://findy-code.io/media/articles/interview-yusukebe
 
 ### 2026-05-30 Sat
-- llm-expert | alexej gregorev | https://alexeygrigorev.com/
-- fp-vorlesung | bremen | https://user.informatik.uni-bremen.de/clueth/lehre/pi3.ws20/lectures.html
-- sergi-mansilla | rxjs expert | https://github.com/sergi
-- rxjs-course-supergrok | C:\Users\hanss\Web\Hans\rxjs-frp-supergrok
-- hans-project | C:\Users\hanss\Local-Learning\Recall\Recall-MCP
-- rxjs-deep-dive | chatgpt | https://chatgpt.com/share/6a204081-0ebc-8327-b03e-5690e31692f3
-- rxjs-start | hans-project | https://chatgpt.com/share/6a22790c-4148-8325-a745-45cfa3392e4f
-- cloudflare-tokens | https://dash.cloudflare.com/344827f268be8155e3d7f9a2ed876123/api-tokens
-- rxjs-ssr | supergrok | https://app.recall.it/s/72afd049-9ae8-5b70-b3cb-3a0ee82efa68
-- hono-rest | simple projects sample | C:\Users\hanss\Web\Fullstack\hono
-- custom-registry | https://medium.com/@902Labs/setting-up-a-private-npm-registry-is-easier-than-you-think-455e1bd438f2
-- registry-verdaccio | ytl | https://www.youtube.com/channel/UC5i20v6o7lSjXzAHOvatt0w
-- registry-verdaccio | site | https://www.verdaccio.org/
-- tanstack-server-fns | jilles | https://jilles.me/tanstack-start-server-functions-how-they-work/
-- codex-website | jilles | https://jilles.dev/free-cloudflare-website-with-codex/
-- turboRepo-docs | https://turbo.net/docs/getting-started/guide
-- pnpm-registries | https://pnpm.io/settings#namedregistries
-- hans-project | rxjs-book | netxpert-site Observables | Claude CLI | C:\Users\hanss\Web\Hans\netxpert-site
-- hermes-llm-wiki | C:\Users\hanss\Web\Hans\rxjs-wiki-hermes
-- hans-project | insights | C:\Users\hanss\Web\Hans\rxjs-insights-antigravity
-- notebooklm-kit | https://github.com/photon-hq/notebooklm-kit/tree/main
-- agentic-os | https://github.com/itseffi/agentic-os
-- agentic-masterclass | agentic-os | https://github.com/itseffi
-- rxjs-koans | based on matthew podwysocki | hanss@Dell-5550:/mnt/c/Users/hanss/Web/Hans/matthew-podwysocki/RxJSKoans$
-- openai-codex | https://x.com/OpenAIDevs/status/2067681320281723113/video/1
-- claude-subagents | boris cherny | https://x.com/0xMovez/status/2067642452991717790/video/1
-- claude-loop | claude talk | https://x.com/0xCodez/status/2067604216529474028/video/1
-- karpath-sw-change | https://x.com/sairahul1/status/2067971149297037763/video/1
-- claude-mcp | co-creator talk | https://x.com/Zephyr_hg/status/2068029544733540688/video/1
-- karpathy-using-llm | https://x.com/s4yonnara/status/2067898082100912553/video/1
-- claude-setup | boris cherny | https://x.com/0xMovez/status/2068074207687201043/video/1
-- claude-agents | how setup agents | claude talk | https://x.com/Jeyxbt/status/2067866973497868794/video/1
-- claude-masterclass | C:\Users\hanss\Local-Learning\Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course
+- ai | llm-expert | alexej gregorev | https://alexeygrigorev.com/
+- fp | fp-vorlesung | bremen | https://user.informatik.uni-bremen.de/clueth/lehre/pi3.ws20/lectures.html
+- rxjs | sergi-mansilla | rxjs expert | https://github.com/sergi
+- rxjs | rxjs-course-supergrok | C:\Users\hanss\Web\Hans\rxjs-frp-supergrok
+- hans | hans-project | C:\Users\hanss\Local-Learning\Recall\Recall-MCP
+- rxjs | rxjs-deep-dive | chatgpt | https://chatgpt.com/share/6a204081-0ebc-8327-b03e-5690e31692f3
+- rxjs | rxjs-start | hans-project | https://chatgpt.com/share/6a22790c-4148-8325-a745-45cfa3392e4f
+- cloudflare | cloudflare-tokens | https://dash.cloudflare.com/344827f268be8155e3d7f9a2ed876123/api-tokens
+- rxjs | rxjs-ssr | supergrok | https://app.recall.it/s/72afd049-9ae8-5b70-b3cb-3a0ee82efa68
+- hono | hono-rest | simple projects sample | C:\Users\hanss\Web\Fullstack\hono
+- rxjs | custom-registry | https://medium.com/@902Labs/setting-up-a-private-npm-registry-is-easier-than-you-think-455e1bd438f2
+- pnpm | registry-verdaccio | ytl | https://www.youtube.com/channel/UC5i20v6o7lSjXzAHOvatt0w
+- pnpm | registry-verdaccio | site | https://www.verdaccio.org/
+- tanstack | tanstack-server-fns | jilles | https://jilles.me/tanstack-start-server-functions-how-they-work/
+- ai | codex-website | jilles | https://jilles.dev/free-cloudflare-website-with-codex/
+- turborepo | turboRepo-docs | https://turbo.net/docs/getting-started/guide
+- pnpm | pnpm-registries | https://pnpm.io/settings#namedregistries
+- hans | hans-project | rxjs-book | netxpert-site Observables | Claude CLI | C:\Users\hanss\Web\Hans\netxpert-site
+- hermes | hermes-llm-wiki | C:\Users\hanss\Web\Hans\rxjs-wiki-hermes
+- hans | hans-project | insights | C:\Users\hanss\Web\Hans\rxjs-insights-antigravity
+- ai | notebooklm-kit | https://github.com/photon-hq/notebooklm-kit/tree/main
+- ai | agentic-os | https://github.com/itseffi/agentic-os
+- ai | agentic-masterclass | agentic-os | https://github.com/itseffi
+- rxjs | rxjs-koans | based on matthew podwysocki | hanss@Dell-5550:/mnt/c/Users/hanss/Web/Hans/matthew-podwysocki/RxJSKoans$
+- ai | openai-codex | https://x.com/OpenAIDevs/status/2067681320281723113/video/1
+- claude | claude-subagents | boris cherny | https://x.com/0xMovez/status/2067642452991717790/video/1
+- claude | claude-loop | claude talk | https://x.com/0xCodez/status/2067604216529474028/video/1
+- ai | karpath-sw-change | https://x.com/sairahul1/status/2067971149297037763/video/1
+- claude | claude-mcp | co-creator talk | https://x.com/Zephyr_hg/status/2068029544733540688/video/1
+- ai | karpathy-using-llm | https://x.com/s4yonnara/status/2067898082100912553/video/1
+- claude | claude-setup | boris cherny | https://x.com/0xMovez/status/2068074207687201043/video/1
+- claude | claude-agents | how setup agents | claude talk | https://x.com/Jeyxbt/status/2067866973497868794/video/1
+- claude | claude-masterclass | C:\Users\hanss\Local-Learning\Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course
 
 ### 2025-01-13 Mon
-- rxjs-custom | custom observable | https://github.com/gcharis/custom-observables
-- rxjs-custom | custom observable | https://medium.com/@charis.giaralis/inside-peek-of-rxjs-observables-5832a7547c83
-- rxjs-custom | custom observable | C:\Users\HP\Web\Frontend\rxjs\custom-observable\custom-observables
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-animated
-- rxjs-blog | https://blog.angular-university.io/tag/rxjs/
-- rxjs-asychronicity | https://blog.izs.me/2013/08/designing-apis-for-asynchrony/
-- rxjs-asychronicity | https://blog.ometer.com/2011/07/24/callbacks-synchronous-and-asynchronous/
-- observable-api | github.com/domfarolino
-- observable-api | github.com/domfarolino | https://github.com/WICG/observable
-- observable-api | github.com/domfarolino | https://wicg.github.io/observable/
+- rxjs | rxjs-custom | custom observable | https://github.com/gcharis/custom-observables
+- rxjs | rxjs-custom | custom observable | https://medium.com/@charis.giaralis/inside-peek-of-rxjs-observables-5832a7547c83
+- rxjs | rxjs-custom | custom observable | C:\Users\HP\Web\Frontend\rxjs\custom-observable\custom-observables
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-animated
+- rxjs | rxjs-blog | https://blog.angular-university.io/tag/rxjs/
+- rxjs | rxjs-asychronicity | https://blog.izs.me/2013/08/designing-apis-for-asynchrony/
+- rxjs | rxjs-asychronicity | https://blog.ometer.com/2011/07/24/callbacks-synchronous-and-asynchronous/
+- rxjs | observable-api | github.com/domfarolino
+- rxjs | observable-api | github.com/domfarolino | https://github.com/WICG/observable
+- rxjs | observable-api | github.com/domfarolino | https://wicg.github.io/observable/
 
 ### 2025-01-15 Wed
-- functional-javascript | Brian lonsdorf | https://github.com/DrBoolean/RecursionTalk?utm_source=chatgpt.com
-- functional-programming | https://blog.bitsrc.io/functional-programming-part-1-first-class-functions-791103984dfb
-- reactive-programming | node reactive programming | https://medium.com/@amarpreet.singh/workflows-reactive-programming-nodejs-and-me-48a43b219a97
-- javascript-monad | douglous crockford | https://github.com/borota/monad-js.git
-- typescript-monad | https://github.com/premshree/monads-typescript.git
-- typescript-monad | https://github.com/cbowdon/TsMonad.git
-- javascript-monad | https://piecioshka.github.io/slides-monads-in-javascript/#1
-- javascript-monad | https://github.com/piecioshka/slides-monads-in-javascript
-- fp-recursion | brian lonsdorf | drBoolean | https://github.com/DrBoolean/RecursionTalk
-- fp-recursion | brian lonsdorf | C:\Users\HP\Web\Frontend\javascript\functional-javascript\drboolean\RecursionTalk
-- javascript-functional | brian lonsdorf | https://github.com/DrBoolean/Practically-Functional.git
-- javascript-functional | brian lonsdorf | https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript
-- rxjs-concepts | https://dev.to/gitpaulo/reactive-programming-demystified-using-rxjs-53g5
-- rxjs-expert | victor voliva | https://github.com/voliva/RxJSX
-- rxjs-expert | https://github.com/josepot
-- rxjs-state | michael westrate | https://github.com/mweststrate/currencies-demo.git
-- rxjs-marbles | marble testing | https://medium.com/@bencabanes/marble-testing-observable-introduction-1f5ad39231c
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-crosscutting
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-state
-- rxjs-loading-indicator | ben lesh | new feed | https://github.com/benlesh/add-features-with-rxis
-- rxjs-loading-indicator | ben lesh | new feed | https://github.com/benlesh/add-features-with-rxjs.git
-- rxjs-loading-indicator | ben lesh | new feed | C:\Users\HP\Web\Frontend\rxjs\rxjs-loading-indicator-ben-lesh\add-features-with-rxjs
+- fp | functional-javascript | Brian lonsdorf | https://github.com/DrBoolean/RecursionTalk?utm_source=chatgpt.com
+- fp | functional-programming | https://blog.bitsrc.io/functional-programming-part-1-first-class-functions-791103984dfb
+- rxjs | reactive-programming | node reactive programming | https://medium.com/@amarpreet.singh/workflows-reactive-programming-nodejs-and-me-48a43b219a97
+- js | javascript-monad | douglous crockford | https://github.com/borota/monad-js.git
+- ts | typescript-monad | https://github.com/premshree/monads-typescript.git
+- ts | typescript-monad | https://github.com/cbowdon/TsMonad.git
+- js | javascript-monad | https://piecioshka.github.io/slides-monads-in-javascript/#1
+- js | javascript-monad | https://github.com/piecioshka/slides-monads-in-javascript
+- fp | fp-recursion | brian lonsdorf | drBoolean | https://github.com/DrBoolean/RecursionTalk
+- fp | fp-recursion | brian lonsdorf | C:\Users\HP\Web\Frontend\javascript\functional-javascript\drboolean\RecursionTalk
+- js | javascript-functional | brian lonsdorf | https://github.com/DrBoolean/Practically-Functional.git
+- js | javascript-functional | brian lonsdorf | https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript
+- rxjs | rxjs-concepts | https://dev.to/gitpaulo/reactive-programming-demystified-using-rxjs-53g5
+- rxjs | rxjs-expert | victor voliva | https://github.com/voliva/RxJSX
+- rxjs | rxjs-expert | https://github.com/josepot
+- rxjs | rxjs-state | michael westrate | https://github.com/mweststrate/currencies-demo.git
+- rxjs | rxjs-marbles | marble testing | https://medium.com/@bencabanes/marble-testing-observable-introduction-1f5ad39231c
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-crosscutting
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-state
+- rxjs | rxjs-loading-indicator | ben lesh | new feed | https://github.com/benlesh/add-features-with-rxis
+- rxjs | rxjs-loading-indicator | ben lesh | new feed | https://github.com/benlesh/add-features-with-rxjs.git
+- rxjs | rxjs-loading-indicator | ben lesh | new feed | C:\Users\HP\Web\Frontend\rxjs\rxjs-loading-indicator-ben-lesh\add-features-with-rxjs
 
 ### 2025-01-17 Fri
-- angular-signals | deborahk | https://github.com/DeborahK/Angular-Signals.git
-- angular-signals | deborahk | C:\Users\HP\Web\Frontend\javascript\angular-signals\deborak\Angular-Signals
+- angular | angular-signals | deborahk | https://github.com/DeborahK/Angular-Signals.git
+- angular | angular-signals | deborahk | C:\Users\HP\Web\Frontend\javascript\angular-signals\deborak\Angular-Signals
 
 ### 2025-01-18 Sat
-- rxjs-in-action | book | page 27
-- rxjs-in-action | page 52 of 300
+- rxjs | rxjs-in-action | book | page 27
+- rxjs | rxjs-in-action | page 52 of 300
 
 ### 2025-01-20 Mon
-- rxjs-api | good api description | https://www.programcreek.com/typescript/?api=rxjs.ObservableInput
-- rxjs-api | good api description | "https://www.programcreek.com/typescript/?action=search&ClassName=rxjs&submit=Search"
-- rxjs-visualizer | https://rxtutor.org/filter
-- rxjs-operator-testing | https://github.com/ReactiveX/rxjs/tree/fc3d4264395d88887cae1df2de1b931964f3e684/spec/operators
-- hans-project | rxjs-vite
-- hans-project | rxjs-animation-formulas
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-operator-explanations
-- hans-learn | fp concepts | brian lonsdorf | egghead | hans-learnings
+- rxjs | rxjs-api | good api description | https://www.programcreek.com/typescript/?api=rxjs.ObservableInput
+- rxjs | rxjs-api | good api description | "https://www.programcreek.com/typescript/?action=search&ClassName=rxjs&submit=Search"
+- rxjs | rxjs-visualizer | https://rxtutor.org/filter
+- rxjs | rxjs-operator-testing | https://github.com/ReactiveX/rxjs/tree/fc3d4264395d88887cae1df2de1b931964f3e684/spec/operators
+- hans | hans-project | rxjs-vite
+- hans | hans-project | rxjs-animation-formulas
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-operator-explanations
+- hans | hans-learn | fp concepts | brian lonsdorf | egghead | hans-learnings
 
 ### 2025-01-22 Wed
-- javascript-reduce | 10 ways to reduce | leigh hallyday | C:\Users\HP\Learning-Local\Hans-Learnings\javascript-reduce-in-10-different-ways-leigh-halliday
-- typescript-challenges | https://github.com/type-challenges/type-challenges
-- zen-observable | https://github.com/zenparsing/zen-observable
-- functional-javascript | jeremy fairbank | https://blog.jeremyfairbank.com/javascript/functional-javascript-lists-1/
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-categories
-- rxjs-expert | jan benscheid | https://medium.com/@jan.benscheid/rxjs-challenge-racing-requests-e852549cfdab
-- rxjs-operators | medium blog article series | https://medium.com/@yuvidev/rxjs-operators-section-c965d3690dd4
-- rxjs-chrome-extension | https://medium.com/@mayzyo/managing-chrome-extension-messaging-with-rxjs-d6d911901669
-- rate-limiting | throttling and debouncing | css-tricks | https://css-tricks.com/debouncing-throttling-explained-examples/
-- rxjs-switchScan | example blog | https://juzarevic.medium.com/switchscan-an-obscure-rxjs-operator-enabling-recursive-api-calls-f2b2cae58ebe
-- rxjs-operators | custom operator | iif | https://mohammedfahimullah.medium.com/rxjs-gems-i-discovered-this-week-a278a242a97f
-- rxjs-realtime | blog article | https://javascript.plainenglish.io/mastering-real-time-data-streaming-with-rxjs-a-comprehensive-guide-390e469c150b
-- rxjs-operators | buffer variants | https://javascript.plainenglish.io/rxjs-how-do-the-5-different-variations-of-the-buffer-operator-exactly-work-fc08b7a82902
-- rxjs-concepts | https://medium.com/@sm_hemel/top-most-frequently-used-rxjs-operators-2cc6babc9585
-- frp-guid | https://medium.com/@lettier/functional-reactive-programming-a0c7b08f6b67
-- frp-guid | andre staltz | https://medium.com/@andrestaltz/why-i-cannot-say-frp-but-i-just-did-d5ffaa23973b
-- fp-expert | sergei winitzki | https://github.com/winitzki?tab=repositories
-- frp-talk | bodil stokke | pinki | https://github.com/bodil/post-frp.git
-- frp-talk | bodil stokke | https://github.com/bodil/hipster.git
-- js-parser | bodil stokke | build a parser | blog | https://bodil.lol/parser-combinators/
-- frp-expert | ytl | bodil stokke | https://www.youtube.com/playlist?list=PLw5h0DiJ-9PCYkFexDaDfsWTqep7yCHCh
-- purescript-learn | phil freeman | https://leanpub.com/purescript/read
-- fp-monad | luis atenico | A monad is nothing more than an algebraic data type that follows a certain interface or protocol
-- descript-expert | https://www.youtube.com/graphicious
-- scala-reactive | erik meijer | C:\Users\HP\Web\Frontend\scala\erik-meijer\CourseraCodeSamplesReactiveProgramming
-- rxjs-playground | https://github.com/hediet/rxjs-playground.git
-- rxjs-playground | https://blog.hediet.de/
-- d3-samples | https://github.com/atul-github/d3js.git
-- d3-bouncing-ball | C:\Users\HP\Web\Frontend\d3\bouncing-ball\d3js
-- frp-expert | chris meiklejohn | https://christophermeiklejohn.com/shafty/
-- rxjs-operators | custom operators | krivanek | C:\Users\HP\Web\Frontend\rxjs\custom-operators-krivanek\stackblitz-rxjs-playground
+- js | javascript-reduce | 10 ways to reduce | leigh hallyday | C:\Users\HP\Learning-Local\Hans-Learnings\javascript-reduce-in-10-different-ways-leigh-halliday
+- ts | typescript-challenges | https://github.com/type-challenges/type-challenges
+- zen | zen-observable | https://github.com/zenparsing/zen-observable
+- fp | functional-javascript | jeremy fairbank | https://blog.jeremyfairbank.com/javascript/functional-javascript-lists-1/
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-categories
+- rxjs | rxjs-expert | jan benscheid | https://medium.com/@jan.benscheid/rxjs-challenge-racing-requests-e852549cfdab
+- rxjs | rxjs-operators | medium blog article series | https://medium.com/@yuvidev/rxjs-operators-section-c965d3690dd4
+- rxjs | rxjs-chrome-extension | https://medium.com/@mayzyo/managing-chrome-extension-messaging-with-rxjs-d6d911901669
+- rate | rate-limiting | throttling and debouncing | css-tricks | https://css-tricks.com/debouncing-throttling-explained-examples/
+- rxjs | rxjs-switchScan | example blog | https://juzarevic.medium.com/switchscan-an-obscure-rxjs-operator-enabling-recursive-api-calls-f2b2cae58ebe
+- rxjs | rxjs-operators | custom operator | iif | https://mohammedfahimullah.medium.com/rxjs-gems-i-discovered-this-week-a278a242a97f
+- rxjs | rxjs-realtime | blog article | https://javascript.plainenglish.io/mastering-real-time-data-streaming-with-rxjs-a-comprehensive-guide-390e469c150b
+- rxjs | rxjs-operators | buffer variants | https://javascript.plainenglish.io/rxjs-how-do-the-5-different-variations-of-the-buffer-operator-exactly-work-fc08b7a82902
+- rxjs | rxjs-concepts | https://medium.com/@sm_hemel/top-most-frequently-used-rxjs-operators-2cc6babc9585
+- frp | frp-guid | https://medium.com/@lettier/functional-reactive-programming-a0c7b08f6b67
+- frp | frp-guid | andre staltz | https://medium.com/@andrestaltz/why-i-cannot-say-frp-but-i-just-did-d5ffaa23973b
+- fp | fp-expert | sergei winitzki | https://github.com/winitzki?tab=repositories
+- frp | frp-talk | bodil stokke | pinki | https://github.com/bodil/post-frp.git
+- frp | frp-talk | bodil stokke | https://github.com/bodil/hipster.git
+- js | js-parser | bodil stokke | build a parser | blog | https://bodil.lol/parser-combinators/
+- frp | frp-expert | ytl | bodil stokke | https://www.youtube.com/playlist?list=PLw5h0DiJ-9PCYkFexDaDfsWTqep7yCHCh
+- purescript | purescript-learn | phil freeman | https://leanpub.com/purescript/read
+- fp | fp-monad | luis atenico | A monad is nothing more than an algebraic data type that follows a certain interface or protocol
+- descript | descript-expert | https://www.youtube.com/graphicious
+- scala | scala-reactive | erik meijer | C:\Users\HP\Web\Frontend\scala\erik-meijer\CourseraCodeSamplesReactiveProgramming
+- rxjs | rxjs-playground | https://github.com/hediet/rxjs-playground.git
+- rxjs | rxjs-playground | https://blog.hediet.de/
+- d3 | d3-samples | https://github.com/atul-github/d3js.git
+- d3 | d3-bouncing-ball | C:\Users\HP\Web\Frontend\d3\bouncing-ball\d3js
+- frp | frp-expert | chris meiklejohn | https://christophermeiklejohn.com/shafty/
+- rxjs | rxjs-operators | custom operators | krivanek | C:\Users\HP\Web\Frontend\rxjs\custom-operators-krivanek\stackblitz-rxjs-playground
 
 ### 2025-01-29 Wed
-- rxjs-conference | rxjs-asia 2021 | techknow yt | "https://www.youtube.com/watch?v=0S5ISwDaFHI&t=1893s"
-- rxjs-samples | https://github.com/benedictfischer09/observable_examples
-- fp-ts | fp-ts-rxjs | observable | https://github.com/gcanti/fp-ts-rxjs/blob/master/src/Observable.ts
-- rxjs-remote-data | https://medium.com/@gcanti/slaying-a-ui-antipattern-with-flow-5eed0cfb627b
-- rxjs-polling | kwinten pisman | C:\Users\HP\Web\Frontend\rxjs\rxjs-polling-kwinten-pisman
-- rxjs-polling | hans project | C:\Users\HP\Web\Frontend\rxjs\rxjs-polling
-- rxjs-operators | kwinten pisman | operators from scratch | https://github.com/KwintenP/rxjs-operators-from-scratch.git
-- react-rxjs | https://github.com/vire/build-react-components-from-streams-with-rxjs-and-recompose-EXAMPLES
-- egghead-repositories | https://github.com/orgs/eggheadio-projects/repositories
-- rxjs-operators | egghead | operators in depth | https://github.com/eggheadio-projects/rxjs-beyond-the-basics-operators-in-depth.git
-- rxjs-operators | egghead | operators multicasting | https://github.com/eggheadio-projects/rxjs-subjects-and-multicasting-operators
-- rxjs-operators | egghead | operators higher order | https://github.com/eggheadio-projects/use-higher-order-observables-in-rxjs-effectively.git
-- rxjs-operators | egghead | operators common mistakes | https://github.com/eggheadio-projects/save-time-avoiding-common-mistakes-using-rxjs.git
-- chrome-extension | udemy | https://github.com/JasonXian/react-chrome-extension-boilerplate.git
-- chrome-extension | hans-project | C:\Users\HP\Web\Frontend\chrome-extensions\hans\rxjs-debug
-- hans-project | rxjs-polling | C:\Users\HP\Web\Frontend\rxjs\rxjs-polling
-- rxjs-learn | strongbrew local | C:\Users\HP\Web\Frontend\rxjs\strongbrew\strongbrewio.github.io
-- chrome-extension | learn udemy | learn local | C:\Users\HP\Learning-Local\Chrome-Extensions
-- javascript-validation | https://vestjs.dev/
-- functional-programming | expert eric elliott | https://medium.com/@_ericelliott
-- rxjs-testing | ivan carballo | https://labs.ribot.co.uk/unit-testing-rxjava-6e9540d4a329
-- rxjs-docs | interfaces | https://rxjs.dev/api/?type=interface
-- rxjs-docs | operators | https://rxjs.dev/api/?type=function
-- rxjs-docs | class | https://rxjs.dev/api?type=class
-- rxjs-docs | types | https://rxjs.dev/api?type=class
-- rxjs-course | udemy | enrique oriol | https://github.com/kaikcreator/rxjs-school.git
-- javascript-vanilla | https://github.com/firtman/frontendmasters-pwa.git
-- rxjs-unsubscribe | https://akhilabhinav.medium.com/mastering-when-how-to-unsubscribe-from-the-observables-with-rxjs-0c7ee24540d7
-- javascript-shorthands | https://akhilabhinav.medium.com/10-javascript-shorthand-coding-techniques-that-will-save-your-time-79dc0838db75
-- react-youtube | api | https://github.com/abhinavakhil/Youtube-React.git
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-testsubscriber
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-testsubscriber | use case samples for rxjs-testsubsriber
-- rxjs-testing | https://github.com/sergidt/rxjs-tests.git
-- rxjs-alarm | https://github.com/sergidt/frp-alarm-system.git
-- haskell-type-defintions | explained | http://www.zvon.org/other/haskell/Outputglobal/index.html
-- rxjava-masterclass | https://github.com/tldrandroid/rxjava-the-complete-masterclass.git
-- rxjava-expert | pascal welsch | https://pascalwelsch.com/
-- rxjava-tutorial | dan lew | https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
-- rxjava-tutorial | dan lew | rxjava export
-- build-your-own-x | https://github.com/abdellah-ch/build-your-own-x
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-testsubscriber
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-testing
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-classification-domain-use-case-operators
-- rxjs-course | Leela Web Dev | ytl | https://github.com/leelanarasimha/rxjs-basics.git
-- rxjs-use-cases | use case samples | https://github.com/JayKan/RxJS-Playground
-- fp-remotedata | https://github.com/devexperts/remote-data-ts
-- rxjs-carousel | niklas wortmann | https://github.com/niklas-wortmann/practice-makes-perfect/tree/master/code/carousel
-- rxjs-carousel | david leitner | https://github.com/duffleit/compound-components-in-angular.git
-- online-drawing | https://www.tldraw.com/
-- online-drawing | api for canvas | https://tldraw.dev/
-- rxjs-color | C57CC0
-- rxjs-color | C5257E
-- nicholas-jamieson | debuggging 1 | https://ncjamieson.com/debugging-rxjs-part-1-tooling/
-- nicholas-jamieson | debuggging 2 | https://ncjamieson.com/debugging-rxjs-part-2-logging/
-- nicholas-jamieson | mulitcast secret | https://ncjamieson.com/multicasts-secret/
-- nicholas-jamieson | publish and share | https://ncjamieson.com/understanding-publish-and-share/
-- nicholas-jamieson | refcount | https://ncjamieson.com/how-to-use-refcount/
-- nicholas-jamieson | observables with type guards | https://ncjamieson.com/how-to-use-type-guards-with-observables/
-- nicholas-jamieson | reduce action | https://ncjamieson.com/how-to-reduce-action-boilerplate/
-- nicholas-jamieson | understanding subjects | https://ncjamieson.com/understanding-subjects/
-- nicholas-jamieson | understanding subjects | https://ncjamieson.com/closed-subjects/
-- nicholas-jamieson | composing subscriptions | https://ncjamieson.com/composing-subscriptions/
-- nicholas-jamieson | operator expand with ajax | https://ncjamieson.com/understanding-expand/
-- nicholas-jamieson | understand switchMap | https://ncjamieson.com/when-to-use-switchmap/
-- nicholas-jamieson | understand public and share | https://ncjamieson.com/understanding-publish-and-share/
-- javascript-xmlhttprequeset | mdn | https://github.com/mdn/learning-area/blob/main/javascript/apis/fetching-data/can-store-xhr/can-script.js
-- rxjs-ajax | https://jaywoz.medium.com/ground-control-to-major-tom-http-calls-in-rxjs-1d47ba964b6c
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\ajax-with-progress
-- hans-project | rxjs-feed-reader | C:\Users\HP\Web\Frontend\rxjs\rxjs-feed-reader
-- hans-project | rxts-query | C:\Users\HP\Web\Frontend\rxjs\rxts-query
-- json-visualizer | https://jsoncrack.com/editor
-- dexie-tutorial | https://dexie.org/docs/Tutorial/
-- rxjs-tutorial | online | https://app.studyraid.com/en/read/11887/378445/observable-streams-and-their-role-in-reactive-programming
-- typescript-testing | https://tstyche.org/guide/introduction
-- purescript-tutorial | ytl | https://www.youtube.com/playlist?list=PLBAMhqKy7jTvGxQSnUMmgUHTABuqXm4_a
-- rxjs-rxdb | https://jaredforsyth.com/posts/local-first-database-rxdb-pouchdb/
-- rxjs-alphabetinvasion | https://github.com/Reactive-Extensions/RxJS/tree/master/examples
-- signals-joy-of-code | yt | https://github.com/joysofcode/signals
-- elm-walkthrough | https://blog.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app
-- typescript-effects | Tyler Steinberger | https://github.com/TylorS/typed.git
-- category-theory | workshop | applied category theory | https://math.ucr.edu/home/baez/ACT/
-- rxjs-visualizer | https://rxjs-visualize.explosionpills.com/audit
-- fp-combinators | what are combinators | https://www.tutorchase.com/answers/a-level/computer-science/what-are-combinators--and-how-are-they-used-in-functional-programming
-- rxjs-form-validation | luis aviles | https://luixaviles.com/2020/12/form-validation-using-rxjs-typescript/
-- rxjs-infinite-scrolling | https://github.com/ashwin-sureshkumar/angular-infinite-scroller
-- rxjs-colr | e6088c
-- hans-project | rxjs-mvu | claude ai sonnet | C:\Users\HP\Web\Frontend\rxjs\rxjs-mvu
-- rxjs-marbles | official rxjs.dev marble diagrams | https://github.com/david-driscoll/RxJS-1/tree/master/docs_app/assets/images/marble-diagrams
-- rxjs-marbles | official rxjs.dev marble diagrams | C:\Users\HP\Web\Frontend\rxjs\rxjs-marble-diagrams
-- rxjs-axios | https://github.com/david-driscoll/axios-rx
-- rxjs-operators | rxjs debug operator | colum ferry | C:\Users\HP\Web\Hans\daily
-- rxjs-operators | rxjs debug operator | C:\Users\HP\Web\Frontend\rxjs\colum-ferry\rxjs-debug-operator
-- text-translate | r toromanisch | https://www.supertext.com/de-DE
-- haskell-course | university course | https://www.youtube.com/playlist?list=PLHRF-X-NtQR4MZBvm05NshPIEI8ELID5m
-- rxjs-workshop | matt podwysocki | https://github.com/mattpodwysocki/jsday-workshop-2016/tree/master
-- rxjs-workshop | bitspook | https://github.com/bitspook/rxjs-workshop-nov-2015
-- rxjs-workshop | bitspook | yarr | https://github.com/bitspook/yarr
-- rxjs-samples | matt podwysocki | https://github.com/Reactive-Extensions/RxJS/tree/master/examples
-- rxjs-workshop | online | matt podwysocki | https://reactivex.io/learnrx/
-- rxjs-workshop | strongbrew | C:\Users\HP\Web\Hans\daily
-- rxjs-workshop | strongbrew | https://github.com/strongbrewio/rx-advanced-workshop.git
-- rxjs-fetch-pages | zkipping oasis | https://github.com/zjkipping/fetch-all-pages-rxjs.git
-- rxjs-fetch-pages | zkipping oasis | https://github.com/zjkipping/active-toasts-operator-rxjs.git
-- recursion-schemas | intro article | https://blog.sumtypeofway.com/posts/introduction-to-recursion-schemes.html
-- functional-expert | reid evans
-- functional-expert | reid evans | https://medium.com/@reidev275/creating-a-type-safe-dsl-for-filtering-in-typescript-53fe68a7942e
-- functional-expert | reid evans | https://www.youtube.com/@reidevans2076
-- higher-order | hof in haskell | https://101wiki.softlang.org/Script:Higher-order_functions_in_Haskell
-- array-methods | jack harrington | https://github.com/jherr/arrays-made-easy.git
-- array-methods | jack harrington | https://www.youtube.com/playlist?list=PLNqp92_EXZBJmAHWnJbVnXsl71hiHCrQh
-- rxjs-masterclass | https://github.com/Frontend-direction/rxjs_masterclass.git
-- rxjs-basics | https://github.com/Frontend-direction/rxjs_basics
-- git-command | count lines of code in repo | "git ls-files | xargs wc -l"
-- rxjs-workshop | rxjs espanol | https://github.com/Klerith/rxjs-ejercicios
-- linq-videos | https://learn.microsoft.com/en-us/shows/c-advanced/introduction-to-language-integrated-query-linq--c-advanced-1-of-8
-- ai-mcp | https://github.com/modelcontextprotocol
-- ai-mcp | https://modelcontextprotocol.io/introduction
-- rxjs-expert | https://medium.com/@nandeepbarochiya
-- model-based | testing | https://en.wikipedia.org/wiki/Model-based_testing
-- model-based | testing | https://www.lambdatest.com/learning-hub/model-based-testing
-- hans-project | C:\Users\HP\Web\Frontend\claude\snake-game-mbt
-- property-based | testing | article | https://dev.to/zelenya/proper-and-basic-property-based-testing-3311
-- property-based | testing | yt | https://www.youtube.com/watch?v=FS_VJOQfogc
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\dominic-elm
-- hans-project | rxjs-snake-actions | C:\Users\HP\Web\Frontend\rxjs\rxjs-snake-actions
-- hans-project | rxjs-snake-actions | origin https://github.com/hansschenker/rxjs-snake-actions.git
-- hans-subscriptions | create transcripts from videos | 20$ mo | restream.io
-- hans-project | windsurf snake game fp style with rules file | C:\Users\HP\Web\Frontend\rxjs\rxjs-snake-game-fp
-- hans-project | rxjs snake game fp style windsurf | C:\Users\HP\Web\Frontend\rxjs\rxjs-snake-game-fp
-- hans-project | https://github.com/hansschenker/rxjs-mvu-frp
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-mvu-frp | updated with Windsurf
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-todo-yarr
-- hans-project | rxjs-mvu-frp | https://github.com/hansschenker/rxjs-mvu-frp.git | chatgpt mvu pattern revue
-- rxdb-intro | https://dev.to/smrifat1411/exploring-rxdb-friend-of-a-js-developer-2oh0
-- json5-specification | https://spec.json5.org/
-- mvu-thomas-bandt | https://thomasbandt.com/model-view-update
-- json-tutorial | gopinav | codevolution | https://github.com/gopinav/json-server-tutorials
-- fp-ts | routing | ytl | https://www.youtube.com/playlist?list=PLDQLXeWSQx3-slUe20drQnfi28nLvBpiK
-- fp-ts | use in functional coding stye | https://dev.to/gcanti/interoperability-with-non-functional-code-using-fp-ts-432e
-- fp-series | giulio canti | https://dev.to/gcanti/functional-design-combinators-14pn
-- fp-ts | ytl | mrfunctor | https://www.youtube.com/playlist?list=PLUMXrUa_EuePN94nJ2hAui5nWDj8RO3lH
-- fp-typescript | ytl | web village voyage | https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo
-- redux-advanced | daniel stern | https://github.com/danielstern/advanced-redux.git
-- hans-sport | hoka bondi 8 43 2/3 | 105.-
-- hans-sport | hoka bondi 8 43 2/3 | 105.- | https://dstock.ch/kasse/
-- fp-expert | paul gray | https://paulgray.net/tag/typescript
-- fp-expert | dave gray | https://github.com/frontendfixer/typescript-tutorial
-- rxjs-visualizer | https://rx-viz.vercel.app/
-- rxjs-visualizer | https://github.com/moroshko/rxviz
-- advanced-typescript | dmytro danylov | https://www.youtube.com/playlist?list=PLFL823koLiuvqsk4-t0DfQ9WVi8pOk2Vq
-- fp-101 | Victor Boutte | https://www.youtube.com/playlist?list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV
-- rxjs-game | pony game | boddil stokke | https://github.com/bodil/boogaloo
-- rxjs-game | pony game | boddil stokke | "https://www.youtube.com/watch?v=x8mmAu7ZR9Y&list=PLw5h0DiJ-9PCYkFexDaDfsWTqep7yCHCh&index=7&t=1157s"
-- typescript-library | boddil stokke | https://github.com/bodil/core.git
-- typescript-type-level | gabriel vergnaud | https://github.com/gvergnaud/type-level-typescript-workshop
-- github-repo | victor bouttee | https://github.com/monsieurBoutte/rxdemo
-- fp-programming | victor bouttee | https://github.com/monsieurBoutte/fp-101-series
-- fp-expert | tyler steinberger | tasskEither | https://github.com/TylorS
-- indexeddb-rxdb | sample | https://github.com/Rowadz/RxDB-real-time-node-yt
-- javascript-testing | vitest | igor babko | https://www.youtube.com/watch?v=E7Iz5XVhlxM
-- typescript-tool | tsup | https://tsup.egoist.dev/#install
-- coding-practice | git | https://github.com/changesets/changesets
-- coding-practice | typescript compiling | tsup | https://tsup.egoist.dev/#what-can-it-bundle
-- repo-download | https://repomix.com/
-- dsl-building | https://github.com/dslmeinte/Building-User-Friendly-DSLs-code
-- dsl-building | https://github.com/dslmeinte/twitch-sharp-dsl.git
-- dsl-building | https://www.youtube.com/watch?v=sxgXj0APVjU
-- vite-stypescript-npm | starter | https://github.com/ageddesi/vite-ts-package-starter
-- npm-package | leigh halliday | https://www.leighhalliday.com/publish-npm-package
-- mobx-redux | lee halliday | https://www.leighhalliday.com/easy-mobx-redux-comparison
-- hans-project | C:\Users\HP\Web\Frontend\tag-template-literals\virtual-template
-- javascript-indexeddb | masterclass | https://praveensingh.net/blog/javascript-indexeddb/
-- javascript-indexeddb | masterclass | https://www.youtube.com/watch?v=SoGNd6ShtEE
+- rxjs | rxjs-conference | rxjs-asia 2021 | techknow yt | "https://www.youtube.com/watch?v=0S5ISwDaFHI&t=1893s"
+- rxjs | rxjs-samples | https://github.com/benedictfischer09/observable_examples
+- fp | fp-ts | fp-ts-rxjs | observable | https://github.com/gcanti/fp-ts-rxjs/blob/master/src/Observable.ts
+- rxjs | rxjs-remote-data | https://medium.com/@gcanti/slaying-a-ui-antipattern-with-flow-5eed0cfb627b
+- rxjs | rxjs-polling | kwinten pisman | C:\Users\HP\Web\Frontend\rxjs\rxjs-polling-kwinten-pisman
+- rxjs | rxjs-polling | hans project | C:\Users\HP\Web\Frontend\rxjs\rxjs-polling
+- rxjs | rxjs-operators | kwinten pisman | operators from scratch | https://github.com/KwintenP/rxjs-operators-from-scratch.git
+- react | react-rxjs | https://github.com/vire/build-react-components-from-streams-with-rxjs-and-recompose-EXAMPLES
+- egghead | egghead-repositories | https://github.com/orgs/eggheadio-projects/repositories
+- rxjs | rxjs-operators | egghead | operators in depth | https://github.com/eggheadio-projects/rxjs-beyond-the-basics-operators-in-depth.git
+- rxjs | rxjs-operators | egghead | operators multicasting | https://github.com/eggheadio-projects/rxjs-subjects-and-multicasting-operators
+- rxjs | rxjs-operators | egghead | operators higher order | https://github.com/eggheadio-projects/use-higher-order-observables-in-rxjs-effectively.git
+- rxjs | rxjs-operators | egghead | operators common mistakes | https://github.com/eggheadio-projects/save-time-avoiding-common-mistakes-using-rxjs.git
+- chrome | chrome-extension | udemy | https://github.com/JasonXian/react-chrome-extension-boilerplate.git
+- chrome | chrome-extension | hans-project | C:\Users\HP\Web\Frontend\chrome-extensions\hans\rxjs-debug
+- hans | hans-project | rxjs-polling | C:\Users\HP\Web\Frontend\rxjs\rxjs-polling
+- rxjs | rxjs-learn | strongbrew local | C:\Users\HP\Web\Frontend\rxjs\strongbrew\strongbrewio.github.io
+- chrome | chrome-extension | learn udemy | learn local | C:\Users\HP\Learning-Local\Chrome-Extensions
+- js | javascript-validation | https://vestjs.dev/
+- fp | functional-programming | expert eric elliott | https://medium.com/@_ericelliott
+- rxjs | rxjs-testing | ivan carballo | https://labs.ribot.co.uk/unit-testing-rxjava-6e9540d4a329
+- rxjs | rxjs-docs | interfaces | https://rxjs.dev/api/?type=interface
+- rxjs | rxjs-docs | operators | https://rxjs.dev/api/?type=function
+- rxjs | rxjs-docs | class | https://rxjs.dev/api?type=class
+- rxjs | rxjs-docs | types | https://rxjs.dev/api?type=class
+- rxjs | rxjs-course | udemy | enrique oriol | https://github.com/kaikcreator/rxjs-school.git
+- js | javascript-vanilla | https://github.com/firtman/frontendmasters-pwa.git
+- rxjs | rxjs-unsubscribe | https://akhilabhinav.medium.com/mastering-when-how-to-unsubscribe-from-the-observables-with-rxjs-0c7ee24540d7
+- js | javascript-shorthands | https://akhilabhinav.medium.com/10-javascript-shorthand-coding-techniques-that-will-save-your-time-79dc0838db75
+- react | react-youtube | api | https://github.com/abhinavakhil/Youtube-React.git
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-testsubscriber
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-testsubscriber | use case samples for rxjs-testsubsriber
+- rxjs | rxjs-testing | https://github.com/sergidt/rxjs-tests.git
+- rxjs | rxjs-alarm | https://github.com/sergidt/frp-alarm-system.git
+- haskell | haskell-type-defintions | explained | http://www.zvon.org/other/haskell/Outputglobal/index.html
+- rxjava | rxjava-masterclass | https://github.com/tldrandroid/rxjava-the-complete-masterclass.git
+- rxjava | rxjava-expert | pascal welsch | https://pascalwelsch.com/
+- rxjava | rxjava-tutorial | dan lew | https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
+- rxjava | rxjava-tutorial | dan lew | rxjava export
+- build | build-your-own-x | https://github.com/abdellah-ch/build-your-own-x
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-testsubscriber
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-testing
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-classification-domain-use-case-operators
+- rxjs | rxjs-course | Leela Web Dev | ytl | https://github.com/leelanarasimha/rxjs-basics.git
+- rxjs | rxjs-use-cases | use case samples | https://github.com/JayKan/RxJS-Playground
+- fp | fp-remotedata | https://github.com/devexperts/remote-data-ts
+- rxjs | rxjs-carousel | niklas wortmann | https://github.com/niklas-wortmann/practice-makes-perfect/tree/master/code/carousel
+- rxjs | rxjs-carousel | david leitner | https://github.com/duffleit/compound-components-in-angular.git
+- online | online-drawing | https://www.tldraw.com/
+- online | online-drawing | api for canvas | https://tldraw.dev/
+- rxjs | rxjs-color | C57CC0
+- rxjs | rxjs-color | C5257E
+- nicholas | nicholas-jamieson | debuggging 1 | https://ncjamieson.com/debugging-rxjs-part-1-tooling/
+- nicholas | nicholas-jamieson | debuggging 2 | https://ncjamieson.com/debugging-rxjs-part-2-logging/
+- nicholas | nicholas-jamieson | mulitcast secret | https://ncjamieson.com/multicasts-secret/
+- nicholas | nicholas-jamieson | publish and share | https://ncjamieson.com/understanding-publish-and-share/
+- nicholas | nicholas-jamieson | refcount | https://ncjamieson.com/how-to-use-refcount/
+- nicholas | nicholas-jamieson | observables with type guards | https://ncjamieson.com/how-to-use-type-guards-with-observables/
+- nicholas | nicholas-jamieson | reduce action | https://ncjamieson.com/how-to-reduce-action-boilerplate/
+- nicholas | nicholas-jamieson | understanding subjects | https://ncjamieson.com/understanding-subjects/
+- nicholas | nicholas-jamieson | understanding subjects | https://ncjamieson.com/closed-subjects/
+- nicholas | nicholas-jamieson | composing subscriptions | https://ncjamieson.com/composing-subscriptions/
+- nicholas | nicholas-jamieson | operator expand with ajax | https://ncjamieson.com/understanding-expand/
+- nicholas | nicholas-jamieson | understand switchMap | https://ncjamieson.com/when-to-use-switchmap/
+- nicholas | nicholas-jamieson | understand public and share | https://ncjamieson.com/understanding-publish-and-share/
+- js | javascript-xmlhttprequeset | mdn | https://github.com/mdn/learning-area/blob/main/javascript/apis/fetching-data/can-store-xhr/can-script.js
+- rxjs | rxjs-ajax | https://jaywoz.medium.com/ground-control-to-major-tom-http-calls-in-rxjs-1d47ba964b6c
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\ajax-with-progress
+- hans | hans-project | rxjs-feed-reader | C:\Users\HP\Web\Frontend\rxjs\rxjs-feed-reader
+- hans | hans-project | rxts-query | C:\Users\HP\Web\Frontend\rxjs\rxts-query
+- json | json-visualizer | https://jsoncrack.com/editor
+- dexie | dexie-tutorial | https://dexie.org/docs/Tutorial/
+- rxjs | rxjs-tutorial | online | https://app.studyraid.com/en/read/11887/378445/observable-streams-and-their-role-in-reactive-programming
+- ts | typescript-testing | https://tstyche.org/guide/introduction
+- purescript | purescript-tutorial | ytl | https://www.youtube.com/playlist?list=PLBAMhqKy7jTvGxQSnUMmgUHTABuqXm4_a
+- rxjs | rxjs-rxdb | https://jaredforsyth.com/posts/local-first-database-rxdb-pouchdb/
+- rxjs | rxjs-alphabetinvasion | https://github.com/Reactive-Extensions/RxJS/tree/master/examples
+- signals | signals-joy-of-code | yt | https://github.com/joysofcode/signals
+- elm | elm-walkthrough | https://blog.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app
+- ts | typescript-effects | Tyler Steinberger | https://github.com/TylorS/typed.git
+- category | category-theory | workshop | applied category theory | https://math.ucr.edu/home/baez/ACT/
+- rxjs | rxjs-visualizer | https://rxjs-visualize.explosionpills.com/audit
+- fp | fp-combinators | what are combinators | https://www.tutorchase.com/answers/a-level/computer-science/what-are-combinators--and-how-are-they-used-in-functional-programming
+- rxjs | rxjs-form-validation | luis aviles | https://luixaviles.com/2020/12/form-validation-using-rxjs-typescript/
+- rxjs | rxjs-infinite-scrolling | https://github.com/ashwin-sureshkumar/angular-infinite-scroller
+- rxjs | rxjs-colr | e6088c
+- hans | hans-project | rxjs-mvu | claude ai sonnet | C:\Users\HP\Web\Frontend\rxjs\rxjs-mvu
+- rxjs | rxjs-marbles | official rxjs.dev marble diagrams | https://github.com/david-driscoll/RxJS-1/tree/master/docs_app/assets/images/marble-diagrams
+- rxjs | rxjs-marbles | official rxjs.dev marble diagrams | C:\Users\HP\Web\Frontend\rxjs\rxjs-marble-diagrams
+- rxjs | rxjs-axios | https://github.com/david-driscoll/axios-rx
+- rxjs | rxjs-operators | rxjs debug operator | colum ferry | C:\Users\HP\Web\Hans\daily
+- rxjs | rxjs-operators | rxjs debug operator | C:\Users\HP\Web\Frontend\rxjs\colum-ferry\rxjs-debug-operator
+- text | text-translate | r toromanisch | https://www.supertext.com/de-DE
+- haskell | haskell-course | university course | https://www.youtube.com/playlist?list=PLHRF-X-NtQR4MZBvm05NshPIEI8ELID5m
+- rxjs | rxjs-workshop | matt podwysocki | https://github.com/mattpodwysocki/jsday-workshop-2016/tree/master
+- rxjs | rxjs-workshop | bitspook | https://github.com/bitspook/rxjs-workshop-nov-2015
+- rxjs | rxjs-workshop | bitspook | yarr | https://github.com/bitspook/yarr
+- rxjs | rxjs-samples | matt podwysocki | https://github.com/Reactive-Extensions/RxJS/tree/master/examples
+- rxjs | rxjs-workshop | online | matt podwysocki | https://reactivex.io/learnrx/
+- rxjs | rxjs-workshop | strongbrew | C:\Users\HP\Web\Hans\daily
+- rxjs | rxjs-workshop | strongbrew | https://github.com/strongbrewio/rx-advanced-workshop.git
+- rxjs | rxjs-fetch-pages | zkipping oasis | https://github.com/zjkipping/fetch-all-pages-rxjs.git
+- rxjs | rxjs-fetch-pages | zkipping oasis | https://github.com/zjkipping/active-toasts-operator-rxjs.git
+- recursion | recursion-schemas | intro article | https://blog.sumtypeofway.com/posts/introduction-to-recursion-schemes.html
+- fp | functional-expert | reid evans
+- fp | functional-expert | reid evans | https://medium.com/@reidev275/creating-a-type-safe-dsl-for-filtering-in-typescript-53fe68a7942e
+- fp | functional-expert | reid evans | https://www.youtube.com/@reidevans2076
+- higher | higher-order | hof in haskell | https://101wiki.softlang.org/Script:Higher-order_functions_in_Haskell
+- array | array-methods | jack harrington | https://github.com/jherr/arrays-made-easy.git
+- array | array-methods | jack harrington | https://www.youtube.com/playlist?list=PLNqp92_EXZBJmAHWnJbVnXsl71hiHCrQh
+- rxjs | rxjs-masterclass | https://github.com/Frontend-direction/rxjs_masterclass.git
+- rxjs | rxjs-basics | https://github.com/Frontend-direction/rxjs_basics
+- git | git-command | count lines of code in repo | "git ls-files | xargs wc -l"
+- rxjs | rxjs-workshop | rxjs espanol | https://github.com/Klerith/rxjs-ejercicios
+- linq | linq-videos | https://learn.microsoft.com/en-us/shows/c-advanced/introduction-to-language-integrated-query-linq--c-advanced-1-of-8
+- ai | ai-mcp | https://github.com/modelcontextprotocol
+- ai | ai-mcp | https://modelcontextprotocol.io/introduction
+- rxjs | rxjs-expert | https://medium.com/@nandeepbarochiya
+- model | model-based | testing | https://en.wikipedia.org/wiki/Model-based_testing
+- model | model-based | testing | https://www.lambdatest.com/learning-hub/model-based-testing
+- hans | hans-project | C:\Users\HP\Web\Frontend\claude\snake-game-mbt
+- property | property-based | testing | article | https://dev.to/zelenya/proper-and-basic-property-based-testing-3311
+- property | property-based | testing | yt | https://www.youtube.com/watch?v=FS_VJOQfogc
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\dominic-elm
+- hans | hans-project | rxjs-snake-actions | C:\Users\HP\Web\Frontend\rxjs\rxjs-snake-actions
+- hans | hans-project | rxjs-snake-actions | origin https://github.com/hansschenker/rxjs-snake-actions.git
+- hans | hans-subscriptions | create transcripts from videos | 20$ mo | restream.io
+- hans | hans-project | windsurf snake game fp style with rules file | C:\Users\HP\Web\Frontend\rxjs\rxjs-snake-game-fp
+- hans | hans-project | rxjs snake game fp style windsurf | C:\Users\HP\Web\Frontend\rxjs\rxjs-snake-game-fp
+- hans | hans-project | https://github.com/hansschenker/rxjs-mvu-frp
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-mvu-frp | updated with Windsurf
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-todo-yarr
+- hans | hans-project | rxjs-mvu-frp | https://github.com/hansschenker/rxjs-mvu-frp.git | chatgpt mvu pattern revue
+- rxdb | rxdb-intro | https://dev.to/smrifat1411/exploring-rxdb-friend-of-a-js-developer-2oh0
+- json5 | json5-specification | https://spec.json5.org/
+- mvu | mvu-thomas-bandt | https://thomasbandt.com/model-view-update
+- json | json-tutorial | gopinav | codevolution | https://github.com/gopinav/json-server-tutorials
+- fp | fp-ts | routing | ytl | https://www.youtube.com/playlist?list=PLDQLXeWSQx3-slUe20drQnfi28nLvBpiK
+- fp | fp-ts | use in functional coding stye | https://dev.to/gcanti/interoperability-with-non-functional-code-using-fp-ts-432e
+- fp | fp-series | giulio canti | https://dev.to/gcanti/functional-design-combinators-14pn
+- fp | fp-ts | ytl | mrfunctor | https://www.youtube.com/playlist?list=PLUMXrUa_EuePN94nJ2hAui5nWDj8RO3lH
+- fp | fp-typescript | ytl | web village voyage | https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo
+- redux | redux-advanced | daniel stern | https://github.com/danielstern/advanced-redux.git
+- hans | hans-sport | hoka bondi 8 43 2/3 | 105.-
+- hans | hans-sport | hoka bondi 8 43 2/3 | 105.- | https://dstock.ch/kasse/
+- fp | fp-expert | paul gray | https://paulgray.net/tag/typescript
+- fp | fp-expert | dave gray | https://github.com/frontendfixer/typescript-tutorial
+- rxjs | rxjs-visualizer | https://rx-viz.vercel.app/
+- rxjs | rxjs-visualizer | https://github.com/moroshko/rxviz
+- advanced | advanced-typescript | dmytro danylov | https://www.youtube.com/playlist?list=PLFL823koLiuvqsk4-t0DfQ9WVi8pOk2Vq
+- fp | fp-101 | Victor Boutte | https://www.youtube.com/playlist?list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV
+- rxjs | rxjs-game | pony game | boddil stokke | https://github.com/bodil/boogaloo
+- rxjs | rxjs-game | pony game | boddil stokke | "https://www.youtube.com/watch?v=x8mmAu7ZR9Y&list=PLw5h0DiJ-9PCYkFexDaDfsWTqep7yCHCh&index=7&t=1157s"
+- ts | typescript-library | boddil stokke | https://github.com/bodil/core.git
+- ts | typescript-type-level | gabriel vergnaud | https://github.com/gvergnaud/type-level-typescript-workshop
+- github | github-repo | victor bouttee | https://github.com/monsieurBoutte/rxdemo
+- fp | fp-programming | victor bouttee | https://github.com/monsieurBoutte/fp-101-series
+- fp | fp-expert | tyler steinberger | tasskEither | https://github.com/TylorS
+- indexeddb | indexeddb-rxdb | sample | https://github.com/Rowadz/RxDB-real-time-node-yt
+- js | javascript-testing | vitest | igor babko | https://www.youtube.com/watch?v=E7Iz5XVhlxM
+- ts | typescript-tool | tsup | https://tsup.egoist.dev/#install
+- coding | coding-practice | git | https://github.com/changesets/changesets
+- coding | coding-practice | typescript compiling | tsup | https://tsup.egoist.dev/#what-can-it-bundle
+- repo | repo-download | https://repomix.com/
+- dsl | dsl-building | https://github.com/dslmeinte/Building-User-Friendly-DSLs-code
+- dsl | dsl-building | https://github.com/dslmeinte/twitch-sharp-dsl.git
+- dsl | dsl-building | https://www.youtube.com/watch?v=sxgXj0APVjU
+- vite | vite-stypescript-npm | starter | https://github.com/ageddesi/vite-ts-package-starter
+- npm | npm-package | leigh halliday | https://www.leighhalliday.com/publish-npm-package
+- mobx | mobx-redux | lee halliday | https://www.leighhalliday.com/easy-mobx-redux-comparison
+- hans | hans-project | C:\Users\HP\Web\Frontend\tag-template-literals\virtual-template
+- js | javascript-indexeddb | masterclass | https://praveensingh.net/blog/javascript-indexeddb/
+- js | javascript-indexeddb | masterclass | https://www.youtube.com/watch?v=SoGNd6ShtEE
 
 ### 2025-04-09 Wed
-- javascript-indexeddb | https://github.com/mohitkumartoshniwal/indexeddb
-- indexeddb-sample | mdn sample | https://github.com/mdn/dom-examples/tree/main/to-do-notifications
-- hans-project | C:\Users\HP\Web\Frontend\indexeddb\indexeddb-todo-claude-js
-- typescript-type-theory | https://ivov.dev/notes/typescript-and-set-theory
-- rxjs-rate-limiter | https://ivov.dev/notes/rate-limiter
-- typescript-expert | ivan ovejero | https://ivov.dev/notes/typescript-and-set-theory
-- indexeddb-typescript | https://github.com/falcosan/TS_IndexedDB
-- indexeddb-typescript | https://aprograma.com/blog/indexeddb-in-typescript
-- indexeddb-dexie | https://dexie.org/docs/Typescript
-- indexeddb-typescript | https://javascript.plainenglish.io/working-with-indexeddb-in-typescript-react-ad504a1bdae3
-- indexeddb-typescript | https://github.com/vposd/typescript-indexeddb.git
-- indexeddb-rxdb | https://github.com/joshuamorony/quicklist-rxdb
-- indexeddb-rxjs | scoopabase | "https://www.youtube.com/watch?v=ds2xNGTsfWo&t=156s"
-- indexeddb-info | https://dev.to/alexeagleson/how-to-use-indexeddb-to-store-data-for-your-web-application-in-the-browser-1o90
-- indexeddb-info | https://javascript.info/indexeddb
-- learn-convex | https://docs.convex.dev/tutorial
-- indexeddb-chrom-protocol | https://chromedevtools.github.io/devtools-protocol/tot/IndexedDB/
-- indexeddb-masterclass | "https://www.youtube.com/watch?v=SoGNd6ShtEE&t=480s"
-- indexeddb-masterclass | https://praveensingh.net/blog/javascript-runtime/
-- hans-sport | run calculator | https://vdoto2.com/calculator/
-- AI-tool | xenova | https://github.com/xenova?tab=repositories
-- AI-tool | hugging face | https://huggingface.co/docs/huggingface.js/index
-- rxjs-expert | enrique oriol | https://github.com/kaikcreator
-- rxjs-expert | enrique oriol | https://github.com/kaikcreator/rxjs-school.git
-- pinecone-typescript | sdk | https://sdk.pinecone.io/typescript/
-- hans-learning | LLM Fundamentals | C:\Users\HP\Learning-Local\AI\llms-mastery-transformers-generative-course\llms-mastery-transformers-generative-course
-- hans-project | web scraping rxjs.dev | C:\Users\HP\Web\Frontend\web-scraping\rxjs-dev-scraping
-- openai-codex | npm i -g @openai/codex
-- react-learn | tony alicea | C:\Users\HP\Learning-Local\React\understanding-react-course\understanding-react-course
-- web-scraping | adrian horning | https://github.com/adrianhorning08?tab=repositories
-- document-converter | online convert markdown to text | https://cloudconvert.com/md-to-txt
-- react-patterns | krasimir tsonev book | code | https://github.com/krasimir/react-in-patterns/tree/master/code
-- rxjs-docs | C:\Users\HP\Learning-Local\RxJs\_Rxjs-Workshop\_course-v2\rxjs-github-repo-docs
-- rxjs-posts | refactored Deborah Kurata | C:\Users\HP\Web\Frontend\rxjs\deborahk\Angular-posts\post-mgmt-v17
-- hans-project | deborah kurata post-mgmt refactored to rxjs ts | https://github.com/hansschenker/post-mgmt-rxjs
-- rxjs-docs | github repo docs | text files | C:\Users\HP\Learning-Local\RxJs\_Rxjs-Workshop\_course-v2\rxjs-github-repo-docs
-- rxjs-webscraping | github repo | scape imdb | https://github.com/jacobgoh101/web-scraping-with-rxjs.git
-- rxjs-webscraping | github repo | scape imdb | https://dev.to/jacobgoh101/simple--customizable-web-scraper-using-rxjs-and-node-1on7
-- freecodecamp-rxjs | https://www.freecodecamp.org/news/tag/rxjs/
-- rxjs-webscraper | freecodecamp | https://www.freecodecamp.org/news/how-to-build-a-simple-customizable-web-scraper-using-rxjs-and-node-6858cfe82a39/
-- rxjs-webscraper | freecodecamp | https://github.com/jacobgoh101/web-scraping-with-rxjs
-- rxjs-pagination | mladen | https://github.com/jakovljevic-mladen/react-pagination-rx-streams.git
-- rxjs-challenges | mladen | https://github.com/jakovljevic-mladen/RxRiddles-TypeScript.git
-- rxjs-categories | blog articles on rxjs categories | https://medium.com/@nandeepbarochiya
-- web-scraping | use ai | https://docs.agentql.com/home
-- hans-project | C:\Users\HP\Web\Hans\daily
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\yarr-bitspook-simple-vite
-- rxjs-debug-operator | column ferry | https://dev.to/coly010/improve-rxjs-debugging-3iph
-- react-rxjs-state-managemen | https://github.com/guillemsarda/react-rxjs-state-management?ref=pkgstats.com
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-observer-spy
-- rxjs-operators | matthew podwysocki | https://github.com/Reactive-Extensions/RxJS/tree/master/doc/api/core/operators
-- rxjs-workshop | matthew podwysocki | 2016 | https://github.com/mattpodwysocki/jsday-workshop-2016.git
-- rxjs-mvu | matthew podwysocki | https://github.com/mattpodwysocki/rx-fluxish.git
-- rxjs-combination | blog article | https://www.digitalocean.com/community/tutorials/rxjs-operators-forkjoin-zip-combinelatest-withlatestfrom
-- rxjs-learn | brian troncone | github | https://github.com/btroncone/learn-rxjs
-- rxjs-typescript | ts used in ngrx | https://www.youtube.com/watch?v=GHPdNbdM4FQ
-- hans-project | TestSubscriber.ts | C:\Users\HP\Web\Frontend\rxjs\rxjs-observer-spy
-- rxjs-medium | https://medium.com/tag/rxjs
-- rxjs-medium | https://medium.com/tag/rxjs/recommended
-- rxjs-operators | medium article series | https://medium.com/@yuvidev/rxjs-operators-section-c965d3690dd4
-- rxjs-websocket | sample | https://github.com/craigsh/rxjs-ws-demo.git
-- rxjs-series | https://github.com//Yuvaraj-2001
-- hans-project | reactive-object | C:\Users\HP\Web\Frontend\rxjs\reactive-object
-- rxjs-state-machine | door sample | https://github.com/sekretk/RxJsSimpleStateMachine.git
-- fp-expery | https://ybogomolov.me/type-level-uuid
-- fp-expery | https://github.com/YBogomolov/workshop-edsl-in-typescript.git
-- typescript-dsl | https://www.youtube.com/watch?v=hTnxaB52awA
-- fp-concepts | fp concepts explained | https://medium.com/valtech-ch/functional-programming-concepts-explained-in-javascript-16133b441936
-- rxjs-expert | shriyans bhatnagar | https://github.com/shrynx
-- hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-minimal
-- hans-project | rxjs ts mvu props state | C:\Users\HP\Web\Frontend\rxjs\hannah-howard-rxreact
-- npm-template | ts tsup template | https://github.com/marcellothiry/ts-esm-npm-package-template
-- hans-project | rx-object | reactive object model view | C:\Users\HP\Web\Frontend\rxjs\rx-object
-- rxjs-concurrency | blog article | https://www.oidaisdes.org/rxjs-concurrent-request-sequence.en/
-- rxjs-concurrency | blog article | https://medium.com/@deaniusdev/rxjs-concurrency-modes-a-deeper-dive-with-rx-helper-6a464364767d
-- linq-operators | amichai mantinband | https://www.youtube.com/watch?v=7-P6Mxl5elg
-- hans-project | rxjs-linq | fp based rxjs | rxjs-fp | no class keyword | C:\Users\HP\Web\Frontend\rxjs\rxjs-linq\fp-observable.ts
-- rxjs-linq | documentation | https://ienumerable.js.org/docs/introduction/Motivation.html
-- linq-creator | https://yoshifumi7.rssing.com/chan-75830109/latest-article3.php
-- rxjs-reactive-object | enhanced with observe | C:\Users\HP\Web\Frontend\rxjs\reactive-object
-- open-llm | llm python | https://github.com/LinkedInLearning/level-up-LLM-applications-development-with-LangChain-and-OpenAI-3892086.git
-- open-llm | llm python | C:\Users\HP\Learning-Local\AI\LevelUp-LLM-Openai\level-up-llm-applications-development
-- linq-operators | documentation | linq to rxjs chatgpt | https://learn.microsoft.com/en-us/dotnet/csharp/linq/standard-query-			operators/
+- js | javascript-indexeddb | https://github.com/mohitkumartoshniwal/indexeddb
+- indexeddb | indexeddb-sample | mdn sample | https://github.com/mdn/dom-examples/tree/main/to-do-notifications
+- hans | hans-project | C:\Users\HP\Web\Frontend\indexeddb\indexeddb-todo-claude-js
+- ts | typescript-type-theory | https://ivov.dev/notes/typescript-and-set-theory
+- rxjs | rxjs-rate-limiter | https://ivov.dev/notes/rate-limiter
+- ts | typescript-expert | ivan ovejero | https://ivov.dev/notes/typescript-and-set-theory
+- indexeddb | indexeddb-typescript | https://github.com/falcosan/TS_IndexedDB
+- indexeddb | indexeddb-typescript | https://aprograma.com/blog/indexeddb-in-typescript
+- indexeddb | indexeddb-dexie | https://dexie.org/docs/Typescript
+- indexeddb | indexeddb-typescript | https://javascript.plainenglish.io/working-with-indexeddb-in-typescript-react-ad504a1bdae3
+- indexeddb | indexeddb-typescript | https://github.com/vposd/typescript-indexeddb.git
+- indexeddb | indexeddb-rxdb | https://github.com/joshuamorony/quicklist-rxdb
+- indexeddb | indexeddb-rxjs | scoopabase | "https://www.youtube.com/watch?v=ds2xNGTsfWo&t=156s"
+- indexeddb | indexeddb-info | https://dev.to/alexeagleson/how-to-use-indexeddb-to-store-data-for-your-web-application-in-the-browser-1o90
+- indexeddb | indexeddb-info | https://javascript.info/indexeddb
+- learn | learn-convex | https://docs.convex.dev/tutorial
+- indexeddb | indexeddb-chrom-protocol | https://chromedevtools.github.io/devtools-protocol/tot/IndexedDB/
+- indexeddb | indexeddb-masterclass | "https://www.youtube.com/watch?v=SoGNd6ShtEE&t=480s"
+- indexeddb | indexeddb-masterclass | https://praveensingh.net/blog/javascript-runtime/
+- hans | hans-sport | run calculator | https://vdoto2.com/calculator/
+- ai | AI-tool | xenova | https://github.com/xenova?tab=repositories
+- ai | AI-tool | hugging face | https://huggingface.co/docs/huggingface.js/index
+- rxjs | rxjs-expert | enrique oriol | https://github.com/kaikcreator
+- rxjs | rxjs-expert | enrique oriol | https://github.com/kaikcreator/rxjs-school.git
+- pinecone | pinecone-typescript | sdk | https://sdk.pinecone.io/typescript/
+- hans | hans-learning | LLM Fundamentals | C:\Users\HP\Learning-Local\AI\llms-mastery-transformers-generative-course\llms-mastery-transformers-generative-course
+- hans | hans-project | web scraping rxjs.dev | C:\Users\HP\Web\Frontend\web-scraping\rxjs-dev-scraping
+- ai | openai-codex | npm i -g @openai/codex
+- react | react-learn | tony alicea | C:\Users\HP\Learning-Local\React\understanding-react-course\understanding-react-course
+- web | web-scraping | adrian horning | https://github.com/adrianhorning08?tab=repositories
+- document | document-converter | online convert markdown to text | https://cloudconvert.com/md-to-txt
+- react | react-patterns | krasimir tsonev book | code | https://github.com/krasimir/react-in-patterns/tree/master/code
+- rxjs | rxjs-docs | C:\Users\HP\Learning-Local\RxJs\_Rxjs-Workshop\_course-v2\rxjs-github-repo-docs
+- rxjs | rxjs-posts | refactored Deborah Kurata | C:\Users\HP\Web\Frontend\rxjs\deborahk\Angular-posts\post-mgmt-v17
+- hans | hans-project | deborah kurata post-mgmt refactored to rxjs ts | https://github.com/hansschenker/post-mgmt-rxjs
+- rxjs | rxjs-docs | github repo docs | text files | C:\Users\HP\Learning-Local\RxJs\_Rxjs-Workshop\_course-v2\rxjs-github-repo-docs
+- rxjs | rxjs-webscraping | github repo | scape imdb | https://github.com/jacobgoh101/web-scraping-with-rxjs.git
+- rxjs | rxjs-webscraping | github repo | scape imdb | https://dev.to/jacobgoh101/simple--customizable-web-scraper-using-rxjs-and-node-1on7
+- freecodecamp | freecodecamp-rxjs | https://www.freecodecamp.org/news/tag/rxjs/
+- rxjs | rxjs-webscraper | freecodecamp | https://www.freecodecamp.org/news/how-to-build-a-simple-customizable-web-scraper-using-rxjs-and-node-6858cfe82a39/
+- rxjs | rxjs-webscraper | freecodecamp | https://github.com/jacobgoh101/web-scraping-with-rxjs
+- rxjs | rxjs-pagination | mladen | https://github.com/jakovljevic-mladen/react-pagination-rx-streams.git
+- rxjs | rxjs-challenges | mladen | https://github.com/jakovljevic-mladen/RxRiddles-TypeScript.git
+- rxjs | rxjs-categories | blog articles on rxjs categories | https://medium.com/@nandeepbarochiya
+- web | web-scraping | use ai | https://docs.agentql.com/home
+- hans | hans-project | C:\Users\HP\Web\Hans\daily
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\yarr-bitspook-simple-vite
+- rxjs | rxjs-debug-operator | column ferry | https://dev.to/coly010/improve-rxjs-debugging-3iph
+- react | react-rxjs-state-managemen | https://github.com/guillemsarda/react-rxjs-state-management?ref=pkgstats.com
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-observer-spy
+- rxjs | rxjs-operators | matthew podwysocki | https://github.com/Reactive-Extensions/RxJS/tree/master/doc/api/core/operators
+- rxjs | rxjs-workshop | matthew podwysocki | 2016 | https://github.com/mattpodwysocki/jsday-workshop-2016.git
+- rxjs | rxjs-mvu | matthew podwysocki | https://github.com/mattpodwysocki/rx-fluxish.git
+- rxjs | rxjs-combination | blog article | https://www.digitalocean.com/community/tutorials/rxjs-operators-forkjoin-zip-combinelatest-withlatestfrom
+- rxjs | rxjs-learn | brian troncone | github | https://github.com/btroncone/learn-rxjs
+- rxjs | rxjs-typescript | ts used in ngrx | https://www.youtube.com/watch?v=GHPdNbdM4FQ
+- hans | hans-project | TestSubscriber.ts | C:\Users\HP\Web\Frontend\rxjs\rxjs-observer-spy
+- rxjs | rxjs-medium | https://medium.com/tag/rxjs
+- rxjs | rxjs-medium | https://medium.com/tag/rxjs/recommended
+- rxjs | rxjs-operators | medium article series | https://medium.com/@yuvidev/rxjs-operators-section-c965d3690dd4
+- rxjs | rxjs-websocket | sample | https://github.com/craigsh/rxjs-ws-demo.git
+- rxjs | rxjs-series | https://github.com//Yuvaraj-2001
+- hans | hans-project | reactive-object | C:\Users\HP\Web\Frontend\rxjs\reactive-object
+- rxjs | rxjs-state-machine | door sample | https://github.com/sekretk/RxJsSimpleStateMachine.git
+- fp | fp-expery | https://ybogomolov.me/type-level-uuid
+- fp | fp-expery | https://github.com/YBogomolov/workshop-edsl-in-typescript.git
+- ts | typescript-dsl | https://www.youtube.com/watch?v=hTnxaB52awA
+- fp | fp-concepts | fp concepts explained | https://medium.com/valtech-ch/functional-programming-concepts-explained-in-javascript-16133b441936
+- rxjs | rxjs-expert | shriyans bhatnagar | https://github.com/shrynx
+- hans | hans-project | C:\Users\HP\Web\Frontend\rxjs\rxjs-minimal
+- hans | hans-project | rxjs ts mvu props state | C:\Users\HP\Web\Frontend\rxjs\hannah-howard-rxreact
+- npm | npm-template | ts tsup template | https://github.com/marcellothiry/ts-esm-npm-package-template
+- hans | hans-project | rx-object | reactive object model view | C:\Users\HP\Web\Frontend\rxjs\rx-object
+- rxjs | rxjs-concurrency | blog article | https://www.oidaisdes.org/rxjs-concurrent-request-sequence.en/
+- rxjs | rxjs-concurrency | blog article | https://medium.com/@deaniusdev/rxjs-concurrency-modes-a-deeper-dive-with-rx-helper-6a464364767d
+- linq | linq-operators | amichai mantinband | https://www.youtube.com/watch?v=7-P6Mxl5elg
+- hans | hans-project | rxjs-linq | fp based rxjs | rxjs-fp | no class keyword | C:\Users\HP\Web\Frontend\rxjs\rxjs-linq\fp-observable.ts
+- rxjs | rxjs-linq | documentation | https://ienumerable.js.org/docs/introduction/Motivation.html
+- linq | linq-creator | https://yoshifumi7.rssing.com/chan-75830109/latest-article3.php
+- rxjs | rxjs-reactive-object | enhanced with observe | C:\Users\HP\Web\Frontend\rxjs\reactive-object
+- open | open-llm | llm python | https://github.com/LinkedInLearning/level-up-LLM-applications-development-with-LangChain-and-OpenAI-3892086.git
+- open | open-llm | llm python | C:\Users\HP\Learning-Local\AI\LevelUp-LLM-Openai\level-up-llm-applications-development
+- linq | linq-operators | documentation | linq to rxjs chatgpt | https://learn.microsoft.com/en-us/dotnet/csharp/linq/standard-query-			operators/
 
 ### 2025-05-05 Mon
-- stypescript-expert | titian cernicova-dragomir | C:\Users\HP\Web\Frontend\typescript\titian-cernicova-dragomir
-- hans-project | json placeholder api users todos | fromfetch | error handling | C:\Users\HP\Web\Frontend\rxjs\rxjs-json-placeholder
-- rxjs-articles | https://blog.bitsrc.io/rxjs-explained-a-comprehensive-guide-to-reactive-programming-with-angular-part-1-d619e48f44a4
-- hans-project | ts-ui | typescript jsx replacement | todo
-- rxjs-time-based | brian troncone | https://github.com/btroncone/learn-rxjs/blob/master/concepts/time-based-operators-comparison.md
-- turbobit-vue | https://scanlibs.com/vue-js-essentials-course/
-- javascript-save-file | save json file locally | https://eligrey.com/blog/saving-generated-files-on-the-client-side/
-- rxjs-cookbook | nikola mitrovic | https://github.com/PacktPublishing/RxJS-Cookbook-for-Reactive-Programming
-- rxjs-receipes | adam lubek | brian troncone | https://www.learnrxjs.io/learn-rxjs/recipes
-- rxjs-legendapp-state | https://legendapp.com/open-source/state/v3/
-- rxjs-reactivity | blog article | reactivley | https://milomg.dev/2022-12-01/reactivity
+- stypescript | stypescript-expert | titian cernicova-dragomir | C:\Users\HP\Web\Frontend\typescript\titian-cernicova-dragomir
+- hans | hans-project | json placeholder api users todos | fromfetch | error handling | C:\Users\HP\Web\Frontend\rxjs\rxjs-json-placeholder
+- rxjs | rxjs-articles | https://blog.bitsrc.io/rxjs-explained-a-comprehensive-guide-to-reactive-programming-with-angular-part-1-d619e48f44a4
+- hans | hans-project | ts-ui | typescript jsx replacement | todo
+- rxjs | rxjs-time-based | brian troncone | https://github.com/btroncone/learn-rxjs/blob/master/concepts/time-based-operators-comparison.md
+- turbobit | turbobit-vue | https://scanlibs.com/vue-js-essentials-course/
+- js | javascript-save-file | save json file locally | https://eligrey.com/blog/saving-generated-files-on-the-client-side/
+- rxjs | rxjs-cookbook | nikola mitrovic | https://github.com/PacktPublishing/RxJS-Cookbook-for-Reactive-Programming
+- rxjs | rxjs-receipes | adam lubek | brian troncone | https://www.learnrxjs.io/learn-rxjs/recipes
+- rxjs | rxjs-legendapp-state | https://legendapp.com/open-source/state/v3/
+- rxjs | rxjs-reactivity | blog article | reactivley | https://milomg.dev/2022-12-01/reactivity
 
 ### 2025-05-14 Wed
-- git-gpt | npm install -g @laststance/git-gpt-commit
-- rxjs-introduction | playful rx introduction erik meijer | https://github.com/aigor/rx-presentation
-- rx-expert | rodney littles II | microsoft | https://www.youtube.com/@rlittlesii/search?query=rx
-- rxjs-events | made first-class | In RxJS | events are elevated to the status of first-class citizens by modeling them as values of the type Observable
-- ai-llm-engineering | udemy course | hans | https://github.com/ed-donner/llm_engineering/blob/main/README.md
-- ai-llm-engineering | udemy course | hans | https://edwarddonner.com/2024/11/13/llm-engineering-resources/
-- ai-llm-engineering | udemy course | hans | https://github.com/ed-donner/llm_engineering
-- rxjs-monadic | the monad pattern. This involves wrapping values into a monadic context and enabling chaining of operations on those wrapped values in a predictable and composable way.
-- rxjs-tutorials | https://github.com/ReactiveX/reactivex.github.io/blob/develop/tutorials.markdown
-- javascript-flatMap | nums.flatMap(n = | n * 10]);
-- rxjs-mergeMap | (the  is always a map-and-flatten step:
-- rxjs-tool | rxvision | https://github.com/jaredly/rxvision
-- rxjs-node | josef flakes | wroclaw | https://github.com/marblejs/marble.git
-- rxjs-node | josef flakes | wroclaw | Marble.js - functional reactive Node.js framework for building server-side applications | based on TypeScript and RxJS.
-- functional-expert | webvillage | ytl | https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo
-- rxjs-backpressure | https://itnext.io/lossless-backpressure-in-rxjs-b6de30a1b6d4
-- rxjs-node | https://javascript.plainenglish.io/how-i-created-an-event-driven-backend-with-rxjs-server-sent-events-and-expressjs-9f8be1ffc123
-- rxjs-node | https://www.twilio.com/en-us/blog/async-js-rxjs-observables-rest-api-nodejs
-- rxjs-tutorial | https://jstobigdata.com/rxjs/rxjs-scheduler/
-- rxjs-schedulers | https://jstobigdata.com/rxjs/rxjs-scheduler/
-- rxjs-push-pull | https://medium.com/@_JeffPoole/thoughts-on-push-vs-pull-architectures-666f1eab20c2
-- architecture-expert | yt | bytemonk | https://www.youtube.com/watch?v=2WYjtfRyHzQ
-- medium-rxjs | https://medium.com/tag/rxjs
-- dev-to-rxjs | https://dev.to/t/rxjs
-- rxjs-transformation | dev agrwal | https://dev.to/devagr/transformations-in-reactivity-1nn5
-- learn-webhooks | https://github.com/TwilioDevEd/webhooks-course.git
-- tech-expert | yt | bytemonk | https://www.youtube.com/watch?v=FEkXjNFrL1o
-- rxjs-sse | sse blog articel | https://javascript.plainenglish.io/how-i-created-an-event-driven-backend-with-rxjs-server-sent-events-and-expressjs-9f8be1ffc123
-- rxjs-sse | https://javascript.plainenglish.io/how-i-created-an-event-driven-backend-with-rxjs-server-sent-events-and-expressjs-9f8be1ffc123
-- rxjs-sse | https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/
-- rxjs-sse | podwysocki | gist | https://gist.github.com/mattpodwysocki/69872d2f7ae6d0180155
-- rxjs-observable | redifined | https://github.com/cedmandocdoc/redefining-observable
-- rxjs-observable | redifined
-- rxjs-operators | luca del puppo | article series | https://dev.to/this-is-learning/rxjs-transformation-operators-173o
-- ai-llms | chatgpt | claude | kimi | mistral | gemini.google | notebooklm.google | windsurf | gro3 | copilot | qwen3
-- chatgpt-project | C:\Users\HP\Web\Frontend\rxjs\chatgpt\chatgpt-rxjs-css
-- chatgpt-css | rxcss to rxjstocss rewrite in fp style | C:\Users\HP\Web\Frontend\rxjs\rxjstocss-1
-- rxjs-searchbar | https://github.com/rajmayank/RxJS-Search-Bar
-- chatgpt-hans | C:/Users/HP/Web/Frontend/rxjs/chatgpt/chatgpt-rxjs-web-animations
-- rxjs-groupBy | sam julien and mike ryan | https://github.com/samjulien/rxjs-groupby-basic
-- rxjs-docs | https://dzhavat.github.io/2020/01/03/getting-started-with-contributing-to-rxjs-docs.html
-- javascript-fp-features | grok3 | 22-05-2025
-- rxjs-nodeReadableStream | https://nodejs.org/en/learn/modules/how-to-use-streams
-- rxjs-one-line | https://observablehq.com/@argyleink/redux-in-a-single-function-with-rxjs
-- rxjs-one-line | http://rudiyardley.com/redux-single-line-of-code-rxjs/
-- rxjs-course | claude.ai 'rxjs-deep-dive' fully created course
-- rxjs-resources | https://github.com/radiovisual/functional-programming-resources
-- hans-tool | audio/video to text | 26.05.2026 | 97chf
-- hans-tool | audio/video to text | 26.05.2026 | 97chf | https://app.cockatoo.com/dashboard
-- mermaid-editor | https://github.com/jhusain/mermaid-live-editor
-- rxjs-jafar-husain | http://reactivex.io/learnrx/
-- rx-workshop | code samples | https://github.com/FabienArcellier/rx-workshop
-- rxjs-buffer | ringbuffer | https://medium.com/@jan.benscheid/why-i-love-rxjs-a-ring-buffer-in-4-lines-of-code-6270e2492b24
-- rxjs-contrib | rxjs contrib github repo | https://github.com/Reactive-Extensions/RxJS-Contrib.git
-- rxjs-course | create course with AI | https://app.studyraid.com/en/read/11887/378464/time-window-operations
-- hans-tool | course creator | https://app.studyraid.com/
-- hans-tool | edraw wondershare trial | creditcard 02.06.2025 | https://www.edraw.ai/app/templates
-- dsl-definition | a dsl is a language in a language | https://grok.com/chat/9e4d4850-1a6d-40e4-84f5-2a5fb472942f?referrer=x
-- hans-bett | 900.- | 3X300 | https://www.beliani.ch/polsterbett-leinenoptik-hellbeige-elektrisch-verstellbar-80-x-200-cm-duke.html
-- hans-bett | schlafsofa | 400 | https://www.tutti.ch/de/vi/aargau/haushalt/moebel/homcom-schlafsofa-schlafcouch-3-sitzer/72020197
-- mermaid | freecodecamp.org | https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/
-- hans-project | rxjs to mermaid diagram | C:\Users\HP\Web\Frontend\rxjs\mermaid\rxjs-to-mermaid-chatgpt
+- git | git-gpt | npm install -g @laststance/git-gpt-commit
+- rxjs | rxjs-introduction | playful rx introduction erik meijer | https://github.com/aigor/rx-presentation
+- rx | rx-expert | rodney littles II | microsoft | https://www.youtube.com/@rlittlesii/search?query=rx
+- rxjs | rxjs-events | made first-class | In RxJS | events are elevated to the status of first-class citizens by modeling them as values of the type Observable
+- ai | ai-llm-engineering | udemy course | hans | https://github.com/ed-donner/llm_engineering/blob/main/README.md
+- ai | ai-llm-engineering | udemy course | hans | https://edwarddonner.com/2024/11/13/llm-engineering-resources/
+- ai | ai-llm-engineering | udemy course | hans | https://github.com/ed-donner/llm_engineering
+- rxjs | rxjs-monadic | the monad pattern. This involves wrapping values into a monadic context and enabling chaining of operations on those wrapped values in a predictable and composable way.
+- rxjs | rxjs-tutorials | https://github.com/ReactiveX/reactivex.github.io/blob/develop/tutorials.markdown
+- js | javascript-flatMap | nums.flatMap(n = | n * 10]);
+- rxjs | rxjs-mergeMap | (the  is always a map-and-flatten step:
+- rxjs | rxjs-tool | rxvision | https://github.com/jaredly/rxvision
+- rxjs | rxjs-node | josef flakes | wroclaw | https://github.com/marblejs/marble.git
+- rxjs | rxjs-node | josef flakes | wroclaw | Marble.js - functional reactive Node.js framework for building server-side applications | based on TypeScript and RxJS.
+- fp | functional-expert | webvillage | ytl | https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo
+- rxjs | rxjs-backpressure | https://itnext.io/lossless-backpressure-in-rxjs-b6de30a1b6d4
+- rxjs | rxjs-node | https://javascript.plainenglish.io/how-i-created-an-event-driven-backend-with-rxjs-server-sent-events-and-expressjs-9f8be1ffc123
+- rxjs | rxjs-node | https://www.twilio.com/en-us/blog/async-js-rxjs-observables-rest-api-nodejs
+- rxjs | rxjs-tutorial | https://jstobigdata.com/rxjs/rxjs-scheduler/
+- rxjs | rxjs-schedulers | https://jstobigdata.com/rxjs/rxjs-scheduler/
+- rxjs | rxjs-push-pull | https://medium.com/@_JeffPoole/thoughts-on-push-vs-pull-architectures-666f1eab20c2
+- architecture | architecture-expert | yt | bytemonk | https://www.youtube.com/watch?v=2WYjtfRyHzQ
+- medium | medium-rxjs | https://medium.com/tag/rxjs
+- dev | dev-to-rxjs | https://dev.to/t/rxjs
+- rxjs | rxjs-transformation | dev agrwal | https://dev.to/devagr/transformations-in-reactivity-1nn5
+- learn | learn-webhooks | https://github.com/TwilioDevEd/webhooks-course.git
+- tech | tech-expert | yt | bytemonk | https://www.youtube.com/watch?v=FEkXjNFrL1o
+- rxjs | rxjs-sse | sse blog articel | https://javascript.plainenglish.io/how-i-created-an-event-driven-backend-with-rxjs-server-sent-events-and-expressjs-9f8be1ffc123
+- rxjs | rxjs-sse | https://javascript.plainenglish.io/how-i-created-an-event-driven-backend-with-rxjs-server-sent-events-and-expressjs-9f8be1ffc123
+- rxjs | rxjs-sse | https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/
+- rxjs | rxjs-sse | podwysocki | gist | https://gist.github.com/mattpodwysocki/69872d2f7ae6d0180155
+- rxjs | rxjs-observable | redifined | https://github.com/cedmandocdoc/redefining-observable
+- rxjs | rxjs-observable | redifined
+- rxjs | rxjs-operators | luca del puppo | article series | https://dev.to/this-is-learning/rxjs-transformation-operators-173o
+- ai | ai-llms | chatgpt | claude | kimi | mistral | gemini.google | notebooklm.google | windsurf | gro3 | copilot | qwen3
+- chatgpt | chatgpt-project | C:\Users\HP\Web\Frontend\rxjs\chatgpt\chatgpt-rxjs-css
+- chatgpt | chatgpt-css | rxcss to rxjstocss rewrite in fp style | C:\Users\HP\Web\Frontend\rxjs\rxjstocss-1
+- rxjs | rxjs-searchbar | https://github.com/rajmayank/RxJS-Search-Bar
+- chatgpt | chatgpt-hans | C:/Users/HP/Web/Frontend/rxjs/chatgpt/chatgpt-rxjs-web-animations
+- rxjs | rxjs-groupBy | sam julien and mike ryan | https://github.com/samjulien/rxjs-groupby-basic
+- rxjs | rxjs-docs | https://dzhavat.github.io/2020/01/03/getting-started-with-contributing-to-rxjs-docs.html
+- js | javascript-fp-features | grok3 | 22-05-2025
+- rxjs | rxjs-nodeReadableStream | https://nodejs.org/en/learn/modules/how-to-use-streams
+- rxjs | rxjs-one-line | https://observablehq.com/@argyleink/redux-in-a-single-function-with-rxjs
+- rxjs | rxjs-one-line | http://rudiyardley.com/redux-single-line-of-code-rxjs/
+- rxjs | rxjs-course | claude.ai 'rxjs-deep-dive' fully created course
+- rxjs | rxjs-resources | https://github.com/radiovisual/functional-programming-resources
+- hans | hans-tool | audio/video to text | 26.05.2026 | 97chf
+- hans | hans-tool | audio/video to text | 26.05.2026 | 97chf | https://app.cockatoo.com/dashboard
+- mermaid | mermaid-editor | https://github.com/jhusain/mermaid-live-editor
+- rxjs | rxjs-jafar-husain | http://reactivex.io/learnrx/
+- rx | rx-workshop | code samples | https://github.com/FabienArcellier/rx-workshop
+- rxjs | rxjs-buffer | ringbuffer | https://medium.com/@jan.benscheid/why-i-love-rxjs-a-ring-buffer-in-4-lines-of-code-6270e2492b24
+- rxjs | rxjs-contrib | rxjs contrib github repo | https://github.com/Reactive-Extensions/RxJS-Contrib.git
+- rxjs | rxjs-course | create course with AI | https://app.studyraid.com/en/read/11887/378464/time-window-operations
+- hans | hans-tool | course creator | https://app.studyraid.com/
+- hans | hans-tool | edraw wondershare trial | creditcard 02.06.2025 | https://www.edraw.ai/app/templates
+- dsl | dsl-definition | a dsl is a language in a language | https://grok.com/chat/9e4d4850-1a6d-40e4-84f5-2a5fb472942f?referrer=x
+- hans | hans-bett | 900.- | 3X300 | https://www.beliani.ch/polsterbett-leinenoptik-hellbeige-elektrisch-verstellbar-80-x-200-cm-duke.html
+- hans | hans-bett | schlafsofa | 400 | https://www.tutti.ch/de/vi/aargau/haushalt/moebel/homcom-schlafsofa-schlafcouch-3-sitzer/72020197
+- mermaid | mermaid | freecodecamp.org | https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/
+- hans | hans-project | rxjs to mermaid diagram | C:\Users\HP\Web\Frontend\rxjs\mermaid\rxjs-to-mermaid-chatgpt
 
 ---
 
