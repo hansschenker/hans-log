@@ -45,6 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-06-23 Tue
+- sport | t-shirt-logo | created wolf image logo, reminds me of local wolf park | C:/Users/hanss/Local-Learning/Hans-Sport
 - sport | trail-running | 2x week Wed+Sun ~25k ~1000m alt | goal: Davos trail 68k 2600m alt 2026-07-end
 
 ### 2026-06-20 Sat
