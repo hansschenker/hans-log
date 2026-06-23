@@ -232,3 +232,5 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-22T12:10:40Z | file | `Rxjs\What-is-Rxjs-Meta-AI\what is rxjs meta ai.md` |
 | 2026-06-22T15:17:33Z | link | [RxJS operators deep dive](https://notebooklm.google.com/notebook/sample123) |
 | 2026-06-22T15:41:39Z | link | [Rxjs is an embedded DSL](https://notebooklm.google.com/notebook/2a80cdfa-ee43-4fd4-a2f3-7df2bd08eb97) |
+| 2026-06-23T00:00:00Z | link | [VO2max training playlist](https://www.youtube.com/watch?v=qyBktlORaiw&list=PLrGxo-5Uw8gKER3D2hGPAo_yO1JRFY-Q2&index=1) |
+| 2026-06-23T00:01:00Z | link | [Claude VO2max summary](https://claude.ai/chat/a8ae56bf-c794-4288-aaab-8ef569501ef3) |
