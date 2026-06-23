@@ -45,6 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-06-23 Tue
+- claude | master-claude-code-course | lectures 1-15 watched | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course
 - sport | t-shirt-logo | created wolf image logo, reminds me of local wolf park | C:/Users/hanss/Local-Learning/Hans-Sport
 - sport | trail-running | 2x week Wed+Sun ~25k ~1000m alt | goal: Davos trail 68k 2600m alt 2026-07-end
 
@@ -766,6 +767,12 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf-1.png` |
 | 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf-2.png` |
 | 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf-2a.jpg` |
-| 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf-3.jpg` |
-| 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf.png` |
-| 2026-06-23T09:37:56Z | link | sport | [Learn what VO2max training looks like](https://notebooklm.google.com/notebook/5a4ce1f6-6966-4277-b404-4218fdf17c28) |
+| 2026-06-23T08:11:08Z || 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\The_VO₂max_Blueprint.pptx` |
+| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\optimized_wolf_shutterstock-1a-jpeg.jpg` |
+| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1.png` |
+| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a-3500pix.jpg` |
+| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a-50percent.jpg` |
+| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a-jpeg.jpg` |
+| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a-reduced.jpg` |
+| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a.png` |
+| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock.png` |
