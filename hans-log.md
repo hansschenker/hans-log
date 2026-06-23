@@ -734,3 +734,37 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-23T00:00:00Z | link | sport | [VO2max training playlist](https://www.youtube.com/watch?v=qyBktlORaiw&list=PLrGxo-5Uw8gKER3D2hGPAo_yO1JRFY-Q2&index=1) |
 | 2026-06-23T00:01:00Z | link | sport | [Claude VO2max summary](https://claude.ai/chat/a8ae56bf-c794-4288-aaab-8ef569501ef3) |
 | 2026-06-23T06:00:14Z | link | sport | [VO2max improvement with training and running](https://claude.ai/share/f6581c99-4f1f-4fae-b7d0-968c54b5d7cf) |
+| 2026-06-23T07:11:16Z | file | meta | `Hans-Log\manual-input.txt` |
+| 2026-06-23T07:11:16Z | file | sport | `Hans-Sport\vo2max fifth vital sign NotebookLM Mind Map.png` |
+| 2026-06-23T07:11:16Z | file | sport | `Hans-Sport\vo2max-graphic-age-min-1.png` |
+| 2026-06-23T07:11:16Z | file | sport | `Hans-Sport\vo2max-graphic-age-min.png` |
+| 2026-06-23T07:11:16Z | file | sport | `Hans-Sport\vo2max-graphic-age.png` |
+| 2026-06-23T07:11:16Z | file | sport | `Hans-Sport\vo2max-graphic.png` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare.html` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\3591.895e6835321222bf.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\69397.895e6835321222bf.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\Logo.png` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\beacon.min.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\cf-app.895e6835321222bf.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\cf-fragments.895e6835321222bf.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\otBannerSdk.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\otSDKStub.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\powered_by_logo.svg` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\remoteEntry.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\runtime.895e6835321222bf.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\s.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\saved_resource(1).html` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\saved_resource(2).html` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\saved_resource.html` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\sw-register.Bo4LLX6q.js.download` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\Account home _ Gian.schenker@gmail.com's Account _ Cloudflare_files\unnamed.jpg` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\github-recovery-codes.txt` |
+| 2026-06-23T07:11:16Z | file |  | `Netxpert\netxpert-connection-hansschenker-github-io-and-cli.txt` |
+| 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\shutterstock_2568814381.eps` |
+| 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\wolf_shutterstock.eps` |
+| 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf-1.png` |
+| 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf-2.png` |
+| 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf-2a.jpg` |
+| 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf-3.jpg` |
+| 2026-06-23T08:11:08Z | file | sport | `Hans-Sport\xtrails-wolf.png` |
+| 2026-06-23T09:37:56Z | link | sport | [Learn what VO2max training looks like](https://notebooklm.google.com/notebook/5a4ce1f6-6966-4277-b404-4218fdf17c28) |
