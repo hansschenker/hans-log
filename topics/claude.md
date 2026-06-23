@@ -1,0 +1,180 @@
+# CLAUDE
+*All claude entries from [hans-log](../hans-log.md) — auto-generated, do not edit.*
+
+## 2026-06-22
+- [file] `Claude-Chromium\chrome-from-claude.txt`
+
+## 2026-06-20 Sat
+- [manual] claude-support | https://support.claude.com/fr/
+
+## 2026-06-20
+- [file] `Claude\_png\claude-can-do-that.png`
+- [file] `Claude\_png\ai-concepts-to-know.png`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\001 Introduction - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\002 Let CC Decide What to Watch - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\003 Install Claude Code (MacOS) - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\004 Installing Warp (for MacOS) - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\005 Install Claude Code (Windows) - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\006 Terminal Commands (for Beginners) - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\007 A Quick Build - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\008 Using Git for Version Control - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\009 VSCode Version - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\010 Session Management - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\011 _clear - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\012 _rewind - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\013 Using Screenshots - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\014 _model - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\015 Reasoning Effort - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\016 _status & _config - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\017 Background Tasks & Bashes - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\018 Permissions - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\019 Tab Accept Permissions - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\020 Dangerously Skip Permissions - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\021 Auto Permission Mode - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\022 _context - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\023 _usage - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\024 Custom Slash Commands - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\025 Bash Mode - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\026 Settings Json - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\027 Planning Mode - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\028 Improved Plan Mode - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\029 Continuing Plan in New Context Window - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\030 Ask User Question Tool - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\031 Ask User Question Example - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\032 Spec Developer - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\033 Checking After Spec Developer - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\034 Benefits of Spec Developer - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\035 _init & Claude.md - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\036 Advanced CLAUDE.md - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\037 Hierarchical CLAUDE.md - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\038 Project & User Rules - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\039 CLAUDE.md Best Practices - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\040 CLAUDE.md Conditions - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\041 CLAUDE.md Cleanup - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\042 Memory.MD - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\043 MCP Servers - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\044 Claude.ai MCP Servers (aka Connectors) - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\045 MCP Search Tool - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\046 Code Mode - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\047 Claude in Chrome MCP - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\048 Claude in Chrome Real World Examples - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\049 Chrome Javascript Tool - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\050 Gif Creator Tool - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\051 Claude Code Web & Mobile - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\052 _teleport - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\053 Claude Code Desktop - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\054 Desktop Browser Preview - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\055 Claude Code for Slack - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\056 GitHub App - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\057 Subagents - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\058 Quick Spawning Subagents - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\059 --agent - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\060 Async Tasks & Subagents - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\061 Explore Subagent - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\062 Improving Explore Subagent - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\063 Subagent Memories - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\064 Forked Subagents - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\065 _batch - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\066 Dynamic Workflows - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\067 1M Token Context - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\068 Simple Repetitive Tasks - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\069 Starting Afresh - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\070 Scout, Worker, Synthesizer - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\071 Claude Code Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\072 Creating Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\073 Types of Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\074 Arguments for Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\075 Real World Skill Example 1 - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\076 Real World Skill Example 2 - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\077 Specifying Models for Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\078 Forked Contexts for Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\079 Allowed Tools for Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\080 Disable Model Invoked Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\081 Specifying Agents for Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\082 Combining Skills & Subagents - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\083 How Models Switch with Skills - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\084 find-skills Skill - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\085 Plug Ins - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\086 Official Plugin Marketplace - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\087 Claude MD Management Plugin - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\088 Readline Style Commands - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\089 Option P - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\090 _copy N - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\091 Stashing Prompts - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\092 Ctrl G - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\093 Hooks - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\094 Another Hook Example - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\095 Automatic Plan Reviewing with Other CLIs - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\096 Make Claude Speak to You - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\097 Connecting to Telegram - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\098 Connecting to Discord - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\099 Remote Control - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\100 Routines (aka Scheduled Tasks) - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\101 Memory for Scheduled Tasks - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\102 Real World Example - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\103 API Trigger Routines - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\104 Creating a Custom Slack Bot - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\105 Codex CLI Plugin - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\106 Codex Consult Skill - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\107 Codex MCP Server - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\108 Compaction - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\109 Auto Compact and Handoff - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\110 Headless Mode & Background Workflows - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\111 Custom Statusline - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\112 _add-dir - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\113 _loop - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\114 Monitor Tool - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\115 Push Notification Tool - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\116 Push When Claude Decides - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\117 _handoff - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\118 How to Reverse Engineer Claude Code - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\119 Task List Management - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\120 Plan Directory & Archiving Plans - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\121 Archiving Plans After Clear Context - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\122 Ultraplan - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\123 Claude Code Guide Subagent - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\124 _debug - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\125 Frontend Design Skill - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\126 _autofix-pr - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\127 Scope & Settings.json - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\128 Claude Environment Variables - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\129 Fullscreen TUI & Focus - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\130 Agent View - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\131 Project Purge - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\132 Piping - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\133 Suspending & Resuming - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\134 Ultrathink - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\135 _code-review (formerly _simplify) - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\136 _code-review ultra - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\137 _advisor - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\138 System Prompt Config - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\139 Forking Sessions - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\140 _btw - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\141 Forking Sessions vs _btw - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\142 _security-review - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\143 Output Styles - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\144 Session Cleanup - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\145 _export - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\146 Verbose Output - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\147 Sandboxing - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\148 Worktrees - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\149 Enter Exit Worktree - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\150 _recap - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\151 Aliases - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\152 _team-onboarding - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\153 _fewer-permission-prompts - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\154 Customizing Auto Mode - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\155 Language Server Protocol (LSP) - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\156 Send Message Tool - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\157 Ghostty Terminal - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\158 Cmux - Master Claude Code - Agentic Coding School.mp4`
+- [file] `Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course\code.zip`
+
+## 2026-05-30 Sat
+- [manual] claude-subagents | boris cherny | https://x.com/0xMovez/status/2067642452991717790/video/1
+- [manual] claude-loop | claude talk | https://x.com/0xCodez/status/2067604216529474028/video/1
+- [manual] claude-mcp | co-creator talk | https://x.com/Zephyr_hg/status/2068029544733540688/video/1
+- [manual] claude-setup | boris cherny | https://x.com/0xMovez/status/2068074207687201043/video/1
+- [manual] claude-agents | how setup agents | claude talk | https://x.com/Jeyxbt/status/2067866973497868794/video/1
+- [manual] claude-masterclass | C:\Users\hanss\Local-Learning\Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course
+
