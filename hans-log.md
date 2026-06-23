@@ -28,6 +28,18 @@ python log-link.py <url> <description>
 
 ---
 
+## Goals
+
+*Active goals with target dates — review weekly to stay on track.*
+
+| Goal | Description | Target | Status |
+|---|---|---|---|
+| rxjs-course | Build a complete RxJS course (modules, operators, DSL concepts) | 2026-09 | active |
+| claude-mastery | Complete Master Claude Code course (158 lessons) + apply skills | 2026-08 | active |
+| davos-trail | Run Davos 68k 2600m alt — maintain Wed+Sun ~25k ~1000m training | 2026-07-end | active |
+
+---
+
 ## Manual Entries
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
