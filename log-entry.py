@@ -25,12 +25,17 @@ def today_heading():
 
 def build_entry(args):
     raw = ' '.join(args)
+    # Pipe-separated: already formatted, use as-is
+    if '|' in raw:
+        parts = [p.strip() for p in raw.split('|') if p.strip()]
+        return '- ' + ' | '.join(parts)
+    # Comma-separated shorthand
     if ',' in raw:
         parts = [p.strip() for p in raw.split(',') if p.strip()]
     else:
         parts = [a.strip() for a in args if a.strip()]
-    # Ensure first field is a short topic (no hyphens) — if not, infer it
-    if parts and '-' in parts[0]:
+    # Auto-prefix topic from simple hyphenated tag (e.g. rxjs-deep-dive -> rxjs)
+    if parts and '-' in parts[0] and ' ' not in parts[0]:
         topic = parts[0].split('-')[0]
         parts = [topic] + parts
     return '- ' + ' | '.join(parts)
