@@ -1,7 +1,35 @@
 #!/usr/bin/env python3
 """hans-log tracker: append newly created files (Local-Learning) and new GitHub
 repos (github.com/hansschenker) to hans-log.md. Run hourly. Idempotent."""
-import os, sys, json, glob, datetime, urllib.request
+import os, sys, json, glob, datetime, urllib.request, re
+
+FOLDER_TOPICS = {
+    'rxjs': 'rxjs', 'claude': 'claude', 'domain-specific': 'dsl',
+    'functional-programming': 'fp', 'state-machine': 'state-machine',
+    'a-state': 'state-machine', 'hans-sport': 'sport',
+    'cloudflare': 'cloudflare', 'voidzero': 'voidzero', 'void': 'voidzero',
+    'tanstack': 'tanstack', 'nuxt': 'nuxt', 'meta-frameworks': 'meta',
+    'monorepo': 'monorepo', 'unjs': 'unjs', 'linear': 'linear',
+    'hermes': 'hermes', 'recall': 'recall', 'rpc': 'rpc', 'pnpm': 'pnpm',
+    'hans-admin': 'admin', 'dell': 'admin', 'animations': 'animations',
+    'hans-log': 'meta', 'linq': 'dotnet', 'ai': 'ai',
+}
+
+def file_topic(rel_path):
+    top = re.split(r'[/\\]', rel_path)[0].lower()
+    for k, v in FOLDER_TOPICS.items():
+        if top.startswith(k):
+            return v
+    return ''
+
+def repo_topic(name):
+    n = name.lower()
+    if 'rxjs' in n: return 'rxjs'
+    if 'cloudflare' in n or 'fullstack' in n: return 'cloudflare'
+    if 'fitness' in n: return 'sport'
+    if 'pnpm' in n: return 'pnpm'
+    if 'vite' in n or 'rsc' in n: return 'meta'
+    return ''
 
 def log(m): print(m, flush=True)
 
@@ -53,10 +81,10 @@ except Exception as e:
 # Append rows.
 rows = []
 for rel in sorted(new_files):
-    rows.append("| %s | file | `%s` |" % (now, rel))
+    rows.append("| %s | file | %s | `%s` |" % (now, file_topic(rel), rel))
 for nm, ca in sorted(new_repos, key=lambda x: x[1]):
-    rows.append("| %s | repo | [%s](https://github.com/%s/%s) (created %s) |"
-                % (now, nm, st["github_user"], nm, ca[:10]))
+    rows.append("| %s | repo | %s | [%s](https://github.com/%s/%s) (created %s) |"
+                % (now, repo_topic(nm), nm, st["github_user"], nm, ca[:10]))
 if rows:
     with open(LOG_MD, "a", encoding="utf-8") as f:
         f.write("\n".join(rows) + "\n")
