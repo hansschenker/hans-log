@@ -46,6 +46,7 @@ python log-link.py <url> <description>
 
 ### 2026-06-24 Tue
 - sport | trail-run-walk-run | 33.5k 1200m elevation 6h33min
+- claude | master-claude-code-course | lectures 15-20: background tasks, bash permissions, local/project/user settings, --dangerously-skip-permissions, custom slash commands vs skills, ! run bash, plan mode (plans saved), new session for big plans, ask claude questions | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course1
 
 ### 2026-06-23 Tue
 - claude | mermaid-diagram-generator-skill | learn from ray-os how the mermaid-diagram-generator skill works
