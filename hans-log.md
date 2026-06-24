@@ -45,7 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-06-24 Tue
-- claude | claude-mastery-plan | goal claude-mastery plan created, start 2026-06-24, 10 weeks 2hrs/day, 158 lessons in 5 phases, target 2026-08-31 | C:/Users/hanss/Claude/claude-mastery/claude-mastery-plan.md
+- claude | claude-mastery-goal | goal claude-mastery plan created, start 2026-06-24, 10 weeks 2hrs/day, 158 lessons in 5 phases, target 2026-08-31 | C:/Users/hanss/Claude/claude-mastery/claude-mastery-plan.md
 - claude | project-manager | Claude Code is now my project manager and helping hand to finish started projects
 - sport | davos-trail-plan | goal davos-trail plan created, start 2026-06-24, 5 weeks 2x/week Wed+Sun, race 68k 2600m target 2026-07-26 | C:/Users/hanss/Local-Learning/Hans-Sport/Running/davos-trail-plan.md
 - rxjs | rxjs-deep-dive-course-dir | official directory for rxjs deep dive course | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course
