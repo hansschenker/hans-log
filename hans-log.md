@@ -48,6 +48,7 @@ python log-link.py <url> <description>
 - claude | claude-mastery-goal | goal claude-mastery plan created, start 2026-06-24, 10 weeks 2hrs/day, 158 lessons in 5 phases, target 2026-08-31 | C:/Users/hanss/Claude/claude-mastery/claude-mastery-plan.md
 - claude | project-manager | Claude Code is now my project manager and helping hand to finish started projects
 - sport | davos-trail-plan | goal davos-trail plan created, start 2026-06-24, 5 weeks 2x/week Wed+Sun, race 68k 2600m target 2026-07-26 | C:/Users/hanss/Local-Learning/Hans-Sport/Running/davos-trail-plan.md
+- rxjs | rxjs-course-setup | worked on course setup and planning 2hrs | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course
 - rxjs | rxjs-deep-dive-course-dir | official directory for rxjs deep dive course | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course
 - rxjs | rxjs-course-plan | goal rxjs-course plan created, start 2026-06-24, 14 weeks 2hrs/day, 8 modules + operator reference + capstone, target 2026-09-30 | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course/rxjs-course-plan.md
 - sport | trail-run-walk-run | 33.5k 1200m elevation 6h33min
