@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(update-config)",
+      "Bash(\"C:/Program Files/Git/bin/bash.exe\" \"C:/Users/hanss/.claude/hooks/video-file-watcher.sh\")",
+      "Bash(echo \"exit: $?\")",
+      "Bash(where jq *)",
+      "Bash(\"C:/Program Files/nodejs/node.exe\" \"C:/Users/hanss/.claude/hooks/video-file-watcher.js\")",
+      "Bash(C:/Program Files/nodejs/node.exe *)",
+      "Bash(\"C:/Program Files/nodejs/node.exe\" \"C:/Users/hanss/.claude/hooks/hans-log-morning-digest.js\")"
+    ]
+  }
+}
