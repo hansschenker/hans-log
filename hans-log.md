@@ -44,7 +44,12 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-06-24 Tue
+- sport | trail-run-walk-run | 33.5k 1200m elevation 6h33min
+
 ### 2026-06-23 Tue
+- claude | mermaid-diagram-generator-skill | learn from ray-os how the mermaid-diagram-generator skill works
+- claude | ray-os-mermaid | learn from ray-os how to generate mermaid diagrams | C:/Users/hanss/Web/ai/claude/ray-os/projects/agentic-coding-school
 - claude | master-claude-code-course | lectures 1-15 watched | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course
 - sport | t-shirt-logo | created wolf image logo, reminds me of local wolf park | C:/Users/hanss/Local-Learning/Hans-Sport
 - sport | trail-running | 2x week Wed+Sun ~25k ~1000m alt | goal: Davos trail 68k 2600m alt 2026-07-end
@@ -773,6 +778,7 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a-3500pix.jpg` |
 | 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a-50percent.jpg` |
 | 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a-jpeg.jpg` |
-| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a-reduced.jpg` |
-| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock-1a.png` |
-| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shutterstock.png` |
+| 2026-06-23T10:11:03Z | file | sport | `Hans-Sport\wolf_shuttersto| 2026| 2026-06-23T15:10:52Z | file | ai | `AI\Claude\_docs\claude-workflows.txt` |
+|
+| 2026-06-23T13:10:48Z | file | ai | `AI\_docs\ai-mat-pocock.txt` |
+| 2026-06-23T14:10:48Z | repo |  | [hans-ai](https://github.com/hansschenker/hans-ai) (created 2026-06-23) |
