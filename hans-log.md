@@ -21,10 +21,10 @@ python log-link.py <url> <description>
 
 | Area | What I'm working on | Since |
 |---|---|---|
-| rxjs | Course modules, operator policies, embedded DSL study | 2026-06 |
-| claude | Master Claude Code course, building Claude Code skills | 2026-06 |
-| dsl | Domain-Specific Languages theory and patterns | 2026-06 |
-| sport | VO2max training research, endurance planning | 2026-06 |
+| sport | Davos trail 68k 2600m race prep — 2x/week Wed+Sun ~25k ~1000m, race 2026-07-26 | 2026-06 |
+| claude | Master Claude Code course (30/158 done) — Claude Code as daily project manager | 2026-06 |
+| rxjs | Building RxJS Deep Dive Course — 8 modules + operator reference + capstone, plan started | 2026-06 |
+| dsl | DSL theory feeding into rxjs course — pipelines as DSL, operator language design | 2026-06 |
 
 ---
 
