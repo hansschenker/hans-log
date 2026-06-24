@@ -45,6 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-06-24 Tue
+- rxjs | rxjs-deep-dive-course-dir | official directory for rxjs deep dive course | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course
 - rxjs | rxjs-course-plan | goal rxjs-course plan created, start 2026-06-24, 14 weeks 2hrs/day, 8 modules + operator reference + capstone, target 2026-09-30 | C:/Users/hanss/hans-log/rxjs-course-plan.md
 - sport | trail-run-walk-run | 33.5k 1200m elevation 6h33min
 - claude | master-claude-code-course | lectures 15-30: background tasks, bash permissions, local/project/user settings, --dangerously-skip-permissions, custom slash commands vs skills, ! run bash, plan mode (plans saved), new session for big plans, ask claude questions | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course1
