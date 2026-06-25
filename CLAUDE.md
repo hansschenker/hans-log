@@ -55,6 +55,8 @@ Stored format:
 ```
 Example: `log gai: Vitepress overview | https://share.google/aimode/... | docs | static site generator for markdown-based docs`
 
+When the user says "show last 10 entries", read `hans-log.md` and display the 10 most recent entries from `## Manual Entries` as a table with columns: #, Date, Tag, Entry.
+
 When the user says "push it", run `git push` on the hans-log repo.
 
 ## Goals & Plans
