@@ -3,7 +3,7 @@
 "log_dir": "C:\\Users\\hanss\\hans-log",
 "github_user": "hansschenker",
 "created": "2026-06-20T03:27:54Z",
-"last_scan": "2026-06-24T13:10:46Z",
+"last_scan": "2026-06-25T13:10:45Z",
 "repo_baseline_time": "2026-06-23T13:36:46Z",
 "known_repos": [
 "cloudflare-fullstack-template",
@@ -1243,6 +1243,25 @@
 "Hans-Sport\\wolf_shutterstock.png": 1782202334.4633844,
 "AI\\Claude\\_docs\\use-mermaid-skill-ray-os.txt": 1782220049.2621787,
 "AI\\_docs\\ai-mat-pocock.txt": 1782217942.1822507,
-"AI\\Claude\\_docs\\claude-workflows.txt": 1782226323.7427537
+"AI\\Claude\\_docs\\claude-workflows.txt": 1782226323.7427537,
+"Hans-Sport\\Peter Reaburn_The-Masters-Athlete.pdf": 1782369773.3240173,
+"Hans-Sport\\reaburn-masters-athlete-reference.md": 1782369247.3686852,
+"Hans-Sport\\reaburn-masters-athlete-reference.pdf": 1782369284.9425921,
+"Hans-Sport\\Study Guide_ VO₂max as the Master Metric for Longevity and Healthspan.md": 1782378152.5198352,
+"Hans-Sport\\the-masters-athlete-understanding-the-role-of.pdf": 1782369725.267301,
+"Hans-Sport\\VO2_Max__Master_Metric.mp4": 1782377798.320896,
+"Hans-Sport\\Running\\davos-trail-plan.md": 1782308697.141331,
+"Rxjs\\Rxjs-course-plan-claude-hans-log\\rxjs-course-plan.txt": 1782308116.2112572,
+"Rxjs\\Rxjs-Deep-Dive-Course\\rxjs-course-plan.md": 1782308983.7807965,
+"Vitepress\\Comprehensive Study Guide_ VitePress and Sätteri for Technical Documentation.md": 1782374505.5765207,
+"Vitepress\\Interactive_Documentation_Blueprint.pptx": 1782373450.6740468,
+"Vitepress\\Mastering_VitePress___Docs.mp4": 1782373953.5109732,
+"Vitepress\\Mastering_VitePress___Docs_guide.mp4": 1782374332.34512,
+"Vitepress\\vitepress vs vaetteri NotebookLM Mind Map.png": 1782362382.2322745,
+"Claude\\claude file importance NotebookLM Mind Map.png": 1782382343.3729625,
+"Claude\\Claude_Context_Architecture.pptx": 1782384906.9627697,
+"Claude\\Hierarchical Claude.md and Project Rules Study Guide.md": 1782389433.7910068,
+"Claude\\_docs\\claude-file-improver.txt": 1782383422.7405324,
+"Claude\\master-claude-code-course\\_lectures\\Hierarchical Claude.md and Project Rules Study Guide.md": 1782389433.7910068
 }
 }

@@ -814,5 +814,5 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-25T10:10:54Z | file |  | `Vitepress\vitepress vs vaetteri NotebookLM Mind Map.png` |
 | 2026-06-25T12:12:49Z | file | claude | `Claude\Claude_Context_Architecture.pptx` |
 | 2026-06-25T12:12:49Z | file | claude | `Claude\Hierarchical Claude.md and Project Rules Study Guide.md` |
-| 2026-06-25T12:12:49Z | file | claude | `Claude\_docs\claude-file-improver.txt` |
-| 2026-06-25T12:12:49Z | file | claude | `Claude\claude file importance NotebookLM Mind Map.png` |
+| 2026-06-25T12:| 2026-06-25T13:10:45Z | file | claude | `Claude\master-claude-code-course\_lectures\Hierarchical Claude.md and Project Rules Study Guide.md` |
+ookLM Mind Map.png` |
