@@ -47,13 +47,14 @@ After writing the log entry, run this 3-step workflow automatically:
 3. Commit both files and push
 If no file path is given, skip steps 1–2 and only commit the log entry.
 
-| Tag | Covers |
-|---|---|
-| `yt` | YouTube video |
-| `gai` | Google AI explanation |
-| `ai` | AI/Claude learning & work (replaces old `claude` tag) |
-| `rxjs` | RxJS course work |
-| `sport` | Running/strength |
+| Tag | Covers | Slug prefix |
+|---|---|---|
+| `yt` | YouTube video | — |
+| `ai` | All AI work (Claude, Google, OpenAI) | `ai-claude-`, `ai-google-`, `ai-openai-` |
+| `rxjs` | RxJS course work | — |
+| `sport` | Running/strength | — |
+
+For `ai` entries, start the slug with the provider prefix: `ai-claude-[topic]`, `ai-google-[topic]`, `ai-openai-[topic]`. The `gai` tag is retired — use `ai` with `ai-google-` slug prefix instead.
 </important>
 
 <important if="the user says 'note [slug]', 'add note:', or 'show note'">
