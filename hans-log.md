@@ -45,6 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-06-25 Thu
+- yt | claude-cowork-private-lesson | Claude Cowork private lesson — different ways to use Claude Cowork | Claude Cowork | https://www.youtube.com/watch?v=DW4a1Cm8nG4
 - yt | training-older-athlete | Training for the Older Athlete — run | https://www.youtube.com/watch?v=cgoBjMc1r9U
 - yt | rxjs-switchmap-deep-dive | RxJS switchMap Explained — when to cancel vs merge inner observables, key for HTTP autocomplete | https://www.youtube.com/watch?v=rUZ9CjcaCEw
 
