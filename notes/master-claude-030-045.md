@@ -55,8 +55,61 @@ The rules system was introduced primarily to support migration from Cursor, whic
 
 ## Claude Summary
 
-## NotebookLM
-[full NotebookLM study guide content | link: url or path]
+## NLM
+
+# Hierarchical Claude.md and Project Rules Study Guide
+
+This study guide provides a comprehensive overview of managing project instructions and rules within Claude Code. It focuses on optimizing context usage through hierarchical file structures and implementing granular project and user-level rules.
+
+## Short-Answer Quiz
+
+**1\. What is the primary benefit of splitting a single, large** `claude.md` **file into multiple hierarchical files?**Splitting the file reduces the amount of context used at the start of a session. By placing specific instructions in subfolders, Claude Code only loads the information relevant to the files being edited, leaving more room in the context window for actual tasks.
+
+**2\. Where are the two valid locations where a** `claude.md` **file can be placed within a project?**A `claude.md` file can exist at the root directory of the project. Alternatively, it can be placed inside a dedicated `.claude` folder.
+
+**3\. How does the loading mechanism for a top-level** `claude.md` **file differ from subfolder files?**The top-level `claude.md` file is loaded as a "system reminder" at the very beginning of every conversation, meaning it is included in every message. Subfolder files are only loaded reactively when the model decides to read a file within that specific directory.
+
+**4\. Describe how subfolder** `claude.md` **files are passed to the model during a task.**When the model uses a tool to read a file in a subfolder, Claude Code grabs the requested file and appends the contents of the local `claude.md` file to the "tool result." This information is then passed back to the model as part of that specific interaction.
+
+**5\. What occurs when a model reads a file nested within several folders that each contain a** `claude.md` **file?**The loading follows a pattern of inheritance. If a file is deep within a nested structure, Claude Code appends the `claude.md` file from its immediate folder, and then continues to append the `claude.md` files from every parent folder in the hierarchy up to the root.
+
+**6\. Where should project-based rules be stored to be recognized by the system?**Project-based rules are stored within the `.claude/rules` directory. Users can further organize these rules by creating subfolders within the `rules` folder, such as `backend` or `frontend`, and saving instructions as `.md` files.
+
+**7\. What is the function of "front matter" in a rule's Markdown file?**Front matter is a section at the beginning of the Markdown file that provides specific instructions to the system. It defines where the rule should be applied, including directory paths and specific file extensions.
+
+**8\. How are glob patterns utilized within the rules system?**Glob patterns are used in the front matter to define which files a rule applies to. They can specify entire directories (using `**/*`), specific extensions (like `.tsx`), or multiple extensions (using curly braces like `.{tsx,jsx}`).
+
+**9\. What is the distinction between project-level rules and user-level rules?**Project-level rules are stored in the project's `.claude/rules` folder and apply only to that codebase. User-level rules are stored in a global `.claude/rules` folder (typically in the home directory) and can apply to all files or projects on the user's computer.
+
+**10\. Why did Claude Code implement a rules system in addition to the** `claude.md` **file structure?**The rules system was primarily introduced to help users migrating from other platforms, such as Cursor, which use similar rule structures. It allows users to transfer existing instructions into a format Claude Code understands without converting everything into the `claude.md` format.
+
+---
+
+## Essay Questions
+
+1. **Context Management Strategy:** Analyze how the hierarchical organization of instruction files serves as a solution for context window limitations in large-scale software development.
+2. **The Role of Tool Interaction:** Explain the technical relationship between tool calls, tool results, and the appending of folder-specific instructions. How does this "reactive" loading improve model focus?
+3. **Migration and Compatibility:** Discuss the advantages of supporting glob-based rules for developers transitioning from other AI-integrated editors. Why might a developer choose the rules system over a standard hierarchical `claude.md` approach?
+4. **System Reminders vs. Appended Results:** Evaluate the strategic difference between placing information in the root `claude.md` versus a subfolder or rule file. What types of information are best suited for each?
+5. **Automation and Tooling:** Based on the use of "Proxy Man" mentioned in the source, describe how intercepting network requests can help a developer understand and optimize the behavior of agentic coding tools.
+
+---
+
+## Comprehensive Glossary
+
+| Term | Definition |
+| --- | --- |
+| .claude Folder | A hidden directory at the root of a project used to store Claude-specific configuration, including the claude.md file and the rules subfolder. |
+| Appended Tool Result | The process by which Claude Code attaches folder-specific instructions or rules to the end of a file's content before sending it back to the model. |
+| Claude.md | A Markdown file used to define best practices, coding patterns, and project-specific instructions for the AI model. |
+| Context | The limited "memory" or data processing window available to the model during a session; managing this is critical for performance in large projects. |
+| Cursor Rules | A legacy rule format from the Cursor editor that influenced the implementation of project-based rules in Claude Code. |
+| Front Matter | Metadata located at the top of a rule's Markdown file that defines application scope (e.g., include paths and extension types). |
+| Glob Pattern | A string of characters used to match file names or paths, such as **/*.ts to match all TypeScript files in any subfolder. |
+| Hierarchical Structure | An organizational method where instructions are nested in subfolders (e.g., Mac OS or Windows folders) to ensure only relevant data is loaded. |
+| Proxy Man | A tool used to intercept and inspect network requests between Claude Code and the Anthropic servers to monitor how data is being passed. |
+| System Reminder | Information from the top-level claude.md file that is injected at the beginning of every conversation to provide the model with a "big picture" overview. |
+| User Rules | Global rules stored in a user-level directory that apply across all projects on a machine rather than being restricted to a single codebase. |
 
 ## Recall.ai
 [full Recall.ai summary content | link: url or path]
