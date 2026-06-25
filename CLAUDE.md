@@ -33,9 +33,11 @@ When the user says "log [tag]: [description]", add an entry under today's date i
 - [tag] | [slug] | [description] | [path or url if given]
 ```
 
+**TUTD** = Title | Url | Topic | Description — the four fields used for `yt` and `gai` log entries.
+
 **YouTube videos** use the `yt` tag. User input format:
 ```
-log yt: [title] | [url] | [topic] | [description max 80 chars]
+log yt: [TUTD — title | url | topic | description max 80 chars]
 ```
 Stored format:
 ```
@@ -45,7 +47,7 @@ Example: `log yt: RxJS switchMap Explained | https://youtube.com/watch?v=... | r
 
 **Google AI explanations** use the `gai` tag. User input format:
 ```
-log gai: [title] | [url] | [topic] | [description max 80 chars]
+log gai: [TUTD — title | url | topic | description max 80 chars]
 ```
 Stored format:
 ```
