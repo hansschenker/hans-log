@@ -184,5 +184,12 @@ Splitting `claude.md` into subfolder files reduces context used at session start
 
 ## Personal Notes
 
+- Claude has a 4-level hierarchy: Enterprise → Project → Project.local → User
+- Keep CLAUDE.md clean — max ~200 lines; split into directory-level files that are lazy loaded
+- Don't insert common best practices Claude already knows — it wastes context on things the model handles natively
+- Split rules into different directories rather than one monolithic file
+- Sometimes a hook is better than a CLAUDE.md entry — don't default to writing a file when a hook covers it
+- Use `/improve-claude-md` command to iteratively improve CLAUDE.md quality
+
 ## Related
 - [[claude-mastery-031-045]]
