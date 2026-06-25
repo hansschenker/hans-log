@@ -12,7 +12,7 @@ VO2max is the result of all 5 vital signs working together.
 
 ## Artifacts
 - **Claude summary:** 
-- **NotebookLM:** 
+- **NotebookLM:** C:\Users\hanss\Local-Learning\Hans-Sport\Study Guide_ VO₂max as the Master Metric for Longevity and Healthspan.md
 - **Recall.ai:** https://app.recall.it/item/860ae3aa-3177-4eb4-b042-121f3d7c804f
 
 ## Notes
