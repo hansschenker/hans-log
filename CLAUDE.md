@@ -33,11 +33,15 @@ When the user says "log [tag]: [description]", add an entry under today's date i
 - [tag] | [slug] | [description] | [path or url if given]
 ```
 
-**YouTube videos** use the `yt` tag. Format:
+**YouTube videos** use the `yt` tag. User input format:
 ```
-- yt | [slug] | [video title] — [one-liner on what you learned] | [youtube url]
+log yt: [title] | [url] | [topic] | [description max 80 chars]
 ```
-Example: `log yt: RxJS switchMap deep dive — when to use switchMap vs mergeMap for HTTP requests | https://youtube.com/watch?v=...`
+Stored format:
+```
+- yt | [slug] | [title] — [description] | [topic] | [url]
+```
+Example: `log yt: RxJS switchMap Explained | https://youtube.com/watch?v=... | rxjs | when to cancel vs merge inner observables`
 
 When the user says "push it", run `git push` on the hans-log repo.
 
