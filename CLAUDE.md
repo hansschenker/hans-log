@@ -37,9 +37,13 @@ Output format:
 
 Add the entry to `hans-log.md` under `## Manual Entries` (newest day first), then commit and push.
 
-**Input format (all tags):** `log [tag]: [title] | [url or file path] | [topic] | [description max 80 chars]`
+**Input format (all tags):** `log [tag]: [title] | [file path] | [topic] | [description max 80 chars]`
 
-**Stored format (all tags):** `- [tag] | [slug] | [title] — [description] | [topic] | [url or file path]`
+**Stored format (all tags):** `- [tag] | [slug] | [title] — [description] | [topic] | notes/[slug].[ext]`
+
+After writing the log entry:
+1. Copy the file from `[file path]` into `notes/[slug].[ext]` (preserve the original file extension)
+2. If no file path is given, skip the copy step
 
 | Tag | Covers |
 |---|---|
