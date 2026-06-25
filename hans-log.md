@@ -45,6 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-06-25 Thu
+- ai | master-claude-030-045 | Master Claude Code Lectures 030–045: Manage Claude.md — Claude AI | Claude Hierarchical Structure | notes/master-claude-030-045.md
 - gai | vo2max | Vo2max fifth vital sign — vo2max is the result of all 5 vital signs working together | vo2max | https://share.google/aimode/9Z0HEDjt9JuNZRk4k
 - yt | claude-cowork-private-lesson | Claude Cowork private lesson — different ways to use Claude Cowork | Claude Cowork | https://www.youtube.com/watch?v=DW4a1Cm8nG4
 - yt | training-older-athlete | Training for the Older Athlete — run | https://www.youtube.com/watch?v=cgoBjMc1r9U
@@ -797,3 +798,21 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 |
 | 2026-06-23T13:10:48Z | file | ai | `AI\_docs\ai-mat-pocock.txt` |
 | 2026-06-23T14:10:48Z | repo |  | [hans-ai](https://github.com/hansschenker/hans-ai) (created 2026-06-23) |
+| 2026-06-25T10:10:54Z | file | sport | `Hans-Sport\Peter Reaburn_The-Masters-Athlete.pdf` |
+| 2026-06-25T10:10:54Z | file | sport | `Hans-Sport\Running\davos-trail-plan.md` |
+| 2026-06-25T10:10:54Z | file | sport | `Hans-Sport\Study Guide_ VO₂max as the Master Metric for Longevity and Healthspan.md` |
+| 2026-06-25T10:10:54Z | file | sport | `Hans-Sport\VO2_Max__Master_Metric.mp4` |
+| 2026-06-25T10:10:54Z | file | sport | `Hans-Sport\reaburn-masters-athlete-reference.md` |
+| 2026-06-25T10:10:54Z | file | sport | `Hans-Sport\reaburn-masters-athlete-reference.pdf` |
+| 2026-06-25T10:10:54Z | file | sport | `Hans-Sport\the-masters-athlete-understanding-the-role-of.pdf` |
+| 2026-06-25T10:10:54Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course\rxjs-course-plan.md` |
+| 2026-06-25T10:10:54Z | file | rxjs | `Rxjs\Rxjs-course-plan-claude-hans-log\rxjs-course-plan.txt` |
+| 2026-06-25T10:10:54Z | file |  | `Vitepress\Comprehensive Study Guide_ VitePress and Sätteri for Technical Documentation.md` |
+| 2026-06-25T10:10:54Z | file |  | `Vitepress\Interactive_Documentation_Blueprint.pptx` |
+| 2026-06-25T10:10:54Z | file |  | `Vitepress\Mastering_VitePress___Docs.mp4` |
+| 2026-06-25T10:10:54Z | file |  | `Vitepress\Mastering_VitePress___Docs_guide.mp4` |
+| 2026-06-25T10:10:54Z | file |  | `Vitepress\vitepress vs vaetteri NotebookLM Mind Map.png` |
+| 2026-06-25T12:12:49Z | file | claude | `Claude\Claude_Context_Architecture.pptx` |
+| 2026-06-25T12:12:49Z | file | claude | `Claude\Hierarchical Claude.md and Project Rules Study Guide.md` |
+| 2026-06-25T12:12:49Z | file | claude | `Claude\_docs\claude-file-improver.txt` |
+| 2026-06-25T12:12:49Z | file | claude | `Claude\claude file importance NotebookLM Mind Map.png` |
