@@ -41,9 +41,11 @@ Add the entry to `hans-log.md` under `## Manual Entries` (newest day first), the
 
 **Stored format (all tags):** `- [tag] | [slug] | [title] — [description] | [topic] | notes/[slug].[ext]`
 
-After writing the log entry:
+After writing the log entry, run this 3-step workflow automatically:
 1. Copy the file from `[file path]` into `notes/[slug].[ext]` (preserve the original file extension)
-2. If no file path is given, skip the copy step
+2. Scaffold `notes/[slug].md` — synthesize TL;DR, Key Concepts, and Content from the copied file
+3. Commit both files and push
+If no file path is given, skip steps 1–2 and only commit the log entry.
 
 | Tag | Covers |
 |---|---|
