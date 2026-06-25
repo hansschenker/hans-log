@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-06-25 Thu
+- yt | rxjs-switchmap-deep-dive | RxJS switchMap Explained — when to cancel vs merge inner observables, key for HTTP autocomplete | https://www.youtube.com/watch?v=rUZ9CjcaCEw
+
 ### 2026-06-24 Tue
 - daily-summary | end-of-day | sport: trail run 33.5k 1200m 6h33min ✅ — claude: lectures 15-30 + course plan created ✅ — rxjs: course setup + plan created ✅ — set up hans-log as personal PM tool with daily briefing, 3 goal plans, CLAUDE.md
 - claude | claude-mastery-setup | worked on course planning and project setup 2hrs | C:/Users/hanss/Claude/claude-mastery
