@@ -30,8 +30,14 @@ Format the briefing like this:
 
 When the user says "log [tag]: [description]", add an entry under today's date in `## Manual Entries` (newest day first), commit, and push. Format:
 ```
-- [tag] | [slug] | [description] | [path if given]
+- [tag] | [slug] | [description] | [path or url if given]
 ```
+
+**YouTube videos** use the `yt` tag. Format:
+```
+- yt | [slug] | [video title] — [one-liner on what you learned] | [youtube url]
+```
+Example: `log yt: RxJS switchMap deep dive — when to use switchMap vs mergeMap for HTTP requests | https://youtube.com/watch?v=...`
 
 When the user says "push it", run `git push` on the hans-log repo.
 
