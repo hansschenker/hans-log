@@ -19,13 +19,17 @@ source: yt
 ## Content
 [paste synthesized content here — merge Claude summary + NotebookLM + Recall.ai into one coherent text]
 
+## Claude Summary
+[content | link]
+
+## NotebookLM
+[content | link]
+
+## Recall.ai
+[content | link]
+
 ## Source
 - [YouTube](https://www.youtube.com/watch?v=DW4a1Cm8nG4)
-
-## Artifacts
-- **Claude summary:** 
-- **NotebookLM:** 
-- **Recall.ai:** 
 
 ## Personal Notes
 

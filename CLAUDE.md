@@ -90,13 +90,17 @@ source: [yt/gai/ai/rxjs/sport]
 ## Content
 [synthesized content merging the best from all 3 artifacts into one coherent text]
 
+## Claude Summary
+[full Claude summary content | link: url or path]
+
+## NotebookLM
+[full NotebookLM study guide content | link: url or path]
+
+## Recall.ai
+[full Recall.ai summary content | link: url or path]
+
 ## Source
 - [original url]
-
-## Artifacts
-- **Claude summary:** [url or path]
-- **NotebookLM:** [url or path]
-- **Recall.ai:** [url or path]
 
 ## Personal Notes
 [own thoughts, insights, connections]
