@@ -75,7 +75,7 @@ Sections in order:
 - **NLM** — full NotebookLM study guide content or link
 - **Recall.ai** — full Recall.ai summary content or link
 - **Source** — original url
-- **Personal Notes** — own thoughts, insights, connections
+- **Notes** — own thoughts, insights, connections
 - **Related** — `[[slug]]` links to related notes
 </important>
 
