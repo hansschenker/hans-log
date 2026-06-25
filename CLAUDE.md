@@ -28,10 +28,17 @@ Format the briefing like this:
 
 ## Logging
 
-When the user says "log [tag]: [description]", add an entry under today's date in `## Manual Entries` (newest day first), commit, and push. Format:
-```
-- [tag] | [slug] | [description] | [path or url if given]
-```
+When the user says "log [tag]: [description]", add an entry under today's date in `## Manual Entries` (newest day first), commit, and push.
+
+## Standard Tags
+
+| Tag | Covers | Format |
+|---|---|---|
+| `yt` | YouTube videos | TUTD (see below) |
+| `gai` | Google AI explanations | TUTD (see below) |
+| `ai` | AI/Claude learning & work | `- ai \| [slug] \| [description] \| [path if given]` |
+| `rxjs` | RxJS course work | `- rxjs \| [slug] \| [description] \| [path if given]` |
+| `sport` | Running + strength training | `- sport \| [slug] \| [description]` |
 
 **TUTD** = Title | Url | Topic | Description — the four fields used for `yt` and `gai` log entries.
 
