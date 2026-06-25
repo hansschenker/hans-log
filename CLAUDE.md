@@ -51,7 +51,7 @@ If no file path is given, skip steps 1–2 and only commit the log entry.
 |---|---|
 | `yt` | YouTube video |
 | `gai` | Google AI explanation |
-| `ai` | AI/Claude learning |
+| `ai` | AI/Claude learning & work (replaces old `claude` tag) |
 | `rxjs` | RxJS course work |
 | `sport` | Running/strength |
 </important>
