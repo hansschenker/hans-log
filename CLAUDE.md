@@ -69,29 +69,41 @@ All deep-dive content is saved as markdown in `notes/[slug].md` — one file per
 Template:
 
 ```markdown
+---
+slug: [slug]
+title: [Title]
+date: [YYYY-MM-DD]
+tags: [tag, topic, keyword1, keyword2]
+source: [yt/gai/ai/rxjs/sport]
+---
+
 # [Title]
 
-**Tag:** [yt/gai/ai/rxjs/sport]
-**Topic:** [topic]
-**Logged:** [date]
+## TL;DR
+[2-3 sentence synthesis — the essential takeaway]
+
+## Key Concepts
+- [concept 1]
+- [concept 2]
+- [concept 3]
+
+## Content
+[synthesized content merging the best from all 3 artifacts into one coherent text]
 
 ## Source
 - [original url]
 
-## Description
-[one-liner from log entry]
-
-## Claude Summary
-[full Claude summary content]
-
-## NotebookLM
-[full NotebookLM study guide content]
-
-## Recall.ai
-[full Recall.ai summary content]
+## Artifacts
+- **Claude summary:** [url or path]
+- **NotebookLM:** [url or path]
+- **Recall.ai:** [url or path]
 
 ## Personal Notes
 [own thoughts, insights, connections]
+
+## Related
+- [[related-slug-1]]
+- [[related-slug-2]]
 ```
 
 ## Content Entry Workflow
