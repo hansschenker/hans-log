@@ -182,7 +182,7 @@ Splitting `claude.md` into subfolder files reduces context used at session start
 ## Source
 - `C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/_lectures/Hierarchical Claude.md and Project Rules Study Guide.md`
 
-## Personal Notes
+## Notes
 
 - Claude has a 4-level hierarchy: Enterprise → Project → Project.local → User
 - Keep CLAUDE.md clean — max ~200 lines; split into directory-level files that are lazy loaded
