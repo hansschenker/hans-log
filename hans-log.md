@@ -815,4 +815,8 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-25T12:12:49Z | file | claude | `Claude\Claude_Context_Architecture.pptx` |
 | 2026-06-25T12:12:49Z | file | claude | `Claude\Hierarchical Claude.md and Project Rules Study Guide.md` |
 | 2026-06-25T12:| 2026-06-25T13:10:45Z | file | claude | `Claude\master-claude-code-course\_lectures\Hierarchical Claude.md and Project Rules Study Guide.md` |
-ookLM Mind Map.png` |
+| 2026-06-25T14:10:42Z | file | claude | `Claude\master-claude-code-course\_lectures\030-045-notes-hierarchical-claude-file-usage.md.txt` |
+| 2026-06-25T14:10:42Z | file | claude | `Claude\master-claude-code-course\_lectures\architecting Project and User rules in Claude.md` |
+| 2026-06-25T14:10:42Z | file | claude | `Claude\master-claude-code-course\_lectures\architecting Project and User rules in Claude.txt` |
+| 2026-06-25T14:10:42Z | file | claude | `Claude\master-claude-code-course\_lectures\hierarchical-architecture-explainedClaude's-hierarchical-architecture-explained-claude.md` |
+| 2026-06-25T14:10:42Z | file | claude | `Claude\master-claude-code-course\_lectures\hierarchical-claude-md-and-project-rules-study-gui-2026-06-25.md` |
