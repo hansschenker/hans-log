@@ -43,6 +43,16 @@ Stored format:
 ```
 Example: `log yt: RxJS switchMap Explained | https://youtube.com/watch?v=... | rxjs | when to cancel vs merge inner observables`
 
+**Google AI explanations** use the `gai` tag. User input format:
+```
+log gai: [title] | [url] | [topic] | [description max 80 chars]
+```
+Stored format:
+```
+- gai | [slug] | [title] — [description] | [topic] | [url]
+```
+Example: `log gai: Vitepress overview | https://share.google/aimode/... | docs | static site generator for markdown-based docs`
+
 When the user says "push it", run `git push` on the hans-log repo.
 
 ## Goals & Plans
