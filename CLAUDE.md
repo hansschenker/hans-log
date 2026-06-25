@@ -37,15 +37,17 @@ Output format:
 
 Add the entry to `hans-log.md` under `## Manual Entries` (newest day first), then commit and push.
 
-| Tag | Covers | Stored format |
-|---|---|---|
-| `yt` | YouTube video | `- yt \| [slug] \| [title] — [description] \| [topic] \| [url]` |
-| `gai` | Google AI explanation | `- gai \| [slug] \| [title] — [description] \| [topic] \| [url]` |
-| `ai` | AI/Claude learning | `- ai \| [slug] \| [description] \| [path if given]` |
-| `rxjs` | RxJS course work | `- rxjs \| [slug] \| [description] \| [path if given]` |
-| `sport` | Running/strength | `- sport \| [slug] \| [description]` |
+**Input format (all tags):** `log [tag]: [title] | [url or file path] | [topic] | [description max 80 chars]`
 
-For `yt` and `gai`, user input is: `log [tag]: [title] | [url] | [topic] | [description max 80 chars]`
+**Stored format (all tags):** `- [tag] | [slug] | [title] — [description] | [topic] | [url or file path]`
+
+| Tag | Covers |
+|---|---|
+| `yt` | YouTube video |
+| `gai` | Google AI explanation |
+| `ai` | AI/Claude learning |
+| `rxjs` | RxJS course work |
+| `sport` | Running/strength |
 </important>
 
 <important if="the user says 'note [slug]', 'add note:', or 'show note'">
