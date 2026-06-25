@@ -55,6 +55,43 @@ The rules system was introduced primarily to support migration from Cursor, whic
 
 ## Claude Summary
 
+# Claude's Hierarchical Architecture Explained
+
+## The two-directional model
+
+There are really two separate loading behaviors:
+
+**Upward (loaded in full at launch).** When you start a session, Claude Code walks *up* the directory tree from your cwd to the filesystem root, collecting every `CLAUDE.md` and `CLAUDE.local.md` it passes. All discovered files are concatenated into context, ordered from the filesystem root down to your working directory — so instructions closer to where you launched Claude are read last.
+
+**Downward (loaded on demand).** Claude also discovers CLAUDE.md files in subdirectories *under* your cwd, but loads them only when Claude reads a file in that subdirectory. This reactive, append-to-the-read-result behavior keeps a large monorepo from blowing the context budget at startup.
+
+So "hierarchy" means: **ancestors are eagerly loaded top-down; descendants are lazily loaded when touched.**
+
+## Scope ordering (broadest → most specific)
+
+1. **Managed policy** — `/etc/claude-code/CLAUDE.md` (Linux/WSL) or `/Library/Application Support/ClaudeCode/CLAUDE.md` (macOS). Org-wide, can't be excluded.
+2. **User** — `~/.claude/CLAUDE.md`. All your projects.
+3. **Project** — `./CLAUDE.md` or `./.claude/CLAUDE.md`. Team-shared via VCS.
+4. **Local** — `./CLAUDE.local.md`. Gitignored, personal-per-project.
+
+No hard override semantics — "precedence" is soft weighting from being read later (closer to cwd), not a strict last-wins rule.
+
+## `.claude/rules/` and globs
+
+Every `.md` in `.claude/rules/` is discovered recursively. A rule with no `paths` frontmatter loads at launch. Add a `paths` glob list and it becomes conditional — loads only when Claude reads a matching file. User-level rules in `~/.claude/rules/` load before project rules, giving project rules higher priority.
+
+## Three corrections to the study guide
+
+- **"System reminder."** CLAUDE.md is delivered as a user message *after* the system prompt, not as part of it — compliance is not guaranteed. After `/compact`, only the project-root CLAUDE.md is re-injected; nested files reload only the next time Claude reads a file there.
+
+- **Inheritance direction.** The guide says immediate folder is appended first, then parents up to root. It's the reverse: **root-down, immediate folder last**. Getting this backwards inverts which instruction "wins."
+
+- **"Rules exist primarily for Cursor migration."** Rules are a modularity/path-scoping mechanism for large projects. Cursor compatibility is real but incidental — `/init` reads `.cursorrules`, `.windsurfrules`, etc. and folds them in, but the rules system isn't primarily a migration shim.
+
+## @path imports vs path-scoped rules
+
+`@path` imports expand into context **at launch** (max depth four hops) — they don't save context. Path-scoped rules in `.claude/rules/` with `paths` globs defer loading. If trimming startup cost across packages, use `.claude/rules/` with globs, not `@import`.
+
 ## NLM
 
 # Hierarchical Claude.md and Project Rules Study Guide
