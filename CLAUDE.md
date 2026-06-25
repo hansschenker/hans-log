@@ -94,6 +94,17 @@ Template:
 [own thoughts, insights, connections]
 ```
 
+## Content Entry Workflow
+
+For every new piece of content (YouTube video, Google AI explanation, article):
+
+1. **Capture** — `log yt:` or `log gai:` with TUTD — quick one-liner in the log
+2. **Scaffold** — `note [slug]` — creates `notes/[slug].md` pre-filled from the log entry
+3. **Deep dive** — create 3 artifacts: Claude summary, NotebookLM notebook, Recall.ai summary
+4. **Save content** — paste actual markdown content into note sections via `add note: [slug] | [section] | [content]`, or copy exported `.md` files directly into `notes/`
+5. **Reflect** — add personal takeaway in `## Personal Notes`
+6. **Verify** — `show note [slug]` to confirm everything is in place
+
 When the user says "note [slug]", create `notes/[slug].md` pre-filled from the matching log entry.
 
 When the user says "add note: [slug] | [section] | [content or path]" (section = claude/notebooklm/recall/notes), paste the content into the matching section of `notes/[slug].md`.
