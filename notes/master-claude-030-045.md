@@ -149,7 +149,35 @@ This study guide provides a comprehensive overview of managing project instructi
 | User Rules | Global rules stored in a user-level directory that apply across all projects on a machine rather than being restricted to a single codebase. |
 
 ## Recall.ai
-[full Recall.ai summary content | link: url or path]
+
+## Architecting Project and User Rules in Claude Code
+
+The sources explain how to optimize Claude Code performance by using **hierarchical .claude.md files** and **project-based rules** to manage context limits. To prevent large configuration files from consuming too much memory, users can split instructions into **subfolders**, ensuring specific guidelines are only loaded when relevant files are accessed. This **modular approach** allows the AI to stay focused on specific sub-projects without being overwhelmed by unrelated data. The text also details how to implement **glob patterns** within rule files to target specific file extensions or directories, similar to Cursor rules. By nesting these files, developers can create a **layered system of logic** where global project rules are always present, while granular behaviours are triggered dynamically.
+
+**Key questions this covers:**
+- How can hierarchical files and folders optimize my context window?
+- What are the differences between project-based rules and user-level rules?
+- How to use glob patterns for targeted coding instructions?
+
+### Summary
+
+Splitting `claude.md` into subfolder files reduces context used at session start — only the instructions relevant to the current files are loaded. Project rules go in `.claude/rules/`, can be organized into subfolders (`backend/`, `frontend/`), and scoped with glob patterns in front matter (e.g. `**/*.{tsx,jsx}`). User-level rules in `~/.claude/rules/` apply across all projects.
+
+### Glossary
+
+| Term | Definition |
+| --- | --- |
+| `.claude` Folder | Hidden directory storing Claude-specific config, including `claude.md` and the `rules` subfolder. |
+| Appended Tool Result | Claude Code attaches folder-specific instructions to the end of a file's content before returning it to the model. |
+| Claude.md | Markdown file defining best practices, coding patterns, and project-specific instructions for the AI. |
+| Context | The limited memory/data processing window available to the model during a session. |
+| Cursor Rules | Legacy rule format from Cursor editor that influenced Claude Code's rules implementation. |
+| Front Matter | Metadata at the top of a rule file defining application scope (include paths, extension types). |
+| Glob Pattern | String matching file names/paths, e.g. `**/*.ts` to match all TypeScript files in any subfolder. |
+| Hierarchical Structure | Instructions nested in subfolders so only relevant data is loaded per directory. |
+| Proxy Man | Tool intercepting network requests between Claude Code and Anthropic servers to monitor data passing. |
+| System Reminder | Root `claude.md` content injected at conversation start to give the model a big-picture overview. |
+| User Rules | Global rules in a user-level directory applying across all projects on the machine. |
 
 ## Source
 - `C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/_lectures/Hierarchical Claude.md and Project Rules Study Guide.md`
