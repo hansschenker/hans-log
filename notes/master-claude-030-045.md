@@ -191,5 +191,15 @@ Splitting `claude.md` into subfolder files reduces context used at session start
 - Sometimes a hook is better than a CLAUDE.md entry — don't default to writing a file when a hook covers it
 - Use `/improve-claude-md` command to iteratively improve CLAUDE.md quality
 
+### On learning with AI
+
+The bottleneck in learning has never been content supply — it's always been human processing speed. You can generate 100 notes in an hour with AI, but you can only genuinely absorb 1–2 topics deeply per day. Flooding yourself with AI-generated content doesn't accelerate learning, it creates an illusion of it.
+
+The best use of AI in learning isn't to replace the slow human digestion process — it's to remove everything around it that isn't digestion. AI handles the mechanical work (copying, scaffolding, formatting, committing) so your cognitive budget goes entirely to understanding.
+
+hans-log respects the human rate limit: one topic, one note, 3 passes through the same material, personal synthesis before moving on. It optimizes for depth over breadth. For skills you actually need to use, depth wins every time.
+
+The distinction that matters: most people use AI to **collect** knowledge faster. The goal here is to **own** it — you can't complete a note without having genuinely engaged with the material from multiple angles. That friction is the feature, not a bug.
+
 ## Related
 - [[claude-mastery-031-045]]
