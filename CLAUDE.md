@@ -64,7 +64,9 @@ Example: `log gai: Vitepress overview | https://share.google/aimode/... | docs |
 
 ## Notes
 
-Each log entry can have a companion note in `notes/[slug].md` that aggregates all deep-dive artifacts. Template:
+All deep-dive content is saved as markdown in `notes/[slug].md` — one file per topic. These files serve as a local LLM knowledge base. Save actual content (not just links) into each section.
+
+Template:
 
 ```markdown
 # [Title]
@@ -73,24 +75,28 @@ Each log entry can have a companion note in `notes/[slug].md` that aggregates al
 **Topic:** [topic]
 **Logged:** [date]
 
-## Description
-[description from log entry]
-
 ## Source
 - [original url]
 
-## Artifacts
-- **Claude summary:** [path or url]
-- **NotebookLM:** [url]
-- **Recall.ai:** [url]
+## Description
+[one-liner from log entry]
 
-## Notes
-[free text]
+## Claude Summary
+[full Claude summary content]
+
+## NotebookLM
+[full NotebookLM study guide content]
+
+## Recall.ai
+[full Recall.ai summary content]
+
+## Personal Notes
+[own thoughts, insights, connections]
 ```
 
-When the user says "note [slug]", create or open `notes/[slug].md` using the template above, pre-filled from the matching log entry.
+When the user says "note [slug]", create `notes/[slug].md` pre-filled from the matching log entry.
 
-When the user says "add note: [slug] | [artifact] | [url/path]" (artifact = claude/notebooklm/recall), update the matching line in `notes/[slug].md` with the url/path.
+When the user says "add note: [slug] | [section] | [content or path]" (section = claude/notebooklm/recall/notes), paste the content into the matching section of `notes/[slug].md`.
 
 When the user says "show note [slug]", read and display `notes/[slug].md`.
 
