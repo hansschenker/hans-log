@@ -62,6 +62,40 @@ Stored format:
 ```
 Example: `log gai: Vitepress overview | https://share.google/aimode/... | docs | static site generator for markdown-based docs`
 
+## Notes
+
+Each log entry can have a companion note in `notes/[slug].md` that aggregates all deep-dive artifacts. Template:
+
+```markdown
+# [Title]
+
+**Tag:** [yt/gai/ai/rxjs/sport]
+**Topic:** [topic]
+**Logged:** [date]
+
+## Description
+[description from log entry]
+
+## Source
+- [original url]
+
+## Artifacts
+- **Claude summary:** [path or url]
+- **NotebookLM:** [url]
+- **Recall.ai:** [url]
+
+## Notes
+[free text]
+```
+
+When the user says "note [slug]", create or open `notes/[slug].md` using the template above, pre-filled from the matching log entry.
+
+When the user says "add note: [slug] | [artifact] | [url/path]" (artifact = claude/notebooklm/recall), update the matching line in `notes/[slug].md` with the url/path.
+
+When the user says "show note [slug]", read and display `notes/[slug].md`.
+
+## Commands
+
 When the user says "show last N entries", read `hans-log.md` and display the N most recent entries from `## Manual Entries` as a table with columns: #, Date, Tag, Entry.
 
 When the user says "show last N [tag] entries" (e.g. "show last 10 rxjs entries"), filter by that tag and display the N most recent matching entries as a table with columns: #, Date, Tag, Entry.
