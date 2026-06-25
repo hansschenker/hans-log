@@ -59,7 +59,7 @@ If no file path is given, skip steps 1–2 and only commit the log entry.
 <important if="the user says 'note [slug]', 'add note:', or 'show note'">
 
 - `note [slug]` — create `notes/[slug].md` pre-filled from the matching log entry using the template below
-- `add note: [slug] | [section] | [file path]` (section = claude/nlm/recall/notes) — read the file at `[file path]` and paste its content into that section of `notes/[slug].md`
+- `add note: [slug] | [section] | [file path]` (section = claude/nlm/recall/notes) — read the file at `[file path]` and paste its content into that section of `notes/[slug].md`. Must be a local file path — URLs won't work for authenticated services like Recall.ai or NotebookLM; export the content as a file first.
 - `show note [slug]` — read and display `notes/[slug].md`
 
 Note file structure:
