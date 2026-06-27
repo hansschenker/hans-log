@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-06-27 Fri
+- rxjs | rxjs-deep-dive-course | RxJS Deep Dive Course — full day building and publishing the course repo on GitHub with Claude Code | RxJS | https://github.com/hansschenker/rxjs-deep-dive-course
+
 ### 2026-06-25 Thu
 - ai | master-claude-030-045 | Master Claude Code Lectures 030–045: Manage Claude.md — Claude AI | Claude Hierarchical Structure | notes/master-claude-030-045.md
 - gai | vo2max | Vo2max fifth vital sign — vo2max is the result of all 5 vital signs working together | vo2max | https://share.google/aimode/9Z0HEDjt9JuNZRk4k
@@ -820,3 +823,43 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-25T14:10:42Z | file | claude | `Claude\master-claude-code-course\_lectures\architecting Project and User rules in Claude.txt` |
 | 2026-06-25T14:10:42Z | file | claude | `Claude\master-claude-code-course\_lectures\hierarchical-architecture-explainedClaude's-hierarchical-architecture-explained-claude.md` |
 | 2026-06-25T14:10:42Z | file | claude | `Claude\master-claude-code-course\_lectures\hierarchical-claude-md-and-project-rules-study-gui-2026-06-25.md` |
+| 2026-06-26T00:11:31Z | file | claude | `Claude\master-claude-code-course\_lectures\030-045\030-045-notes-hierarchical-claude-file-usage.md.txt` |
+| 2026-06-26T00:11:31Z | file | claude | `Claude\master-claude-code-course\_lectures\030-045\Hierarchical Claude.md and Project Rules Study Guide.md` |
+| 2026-06-26T00:11:31Z | file | claude | `Claude\master-claude-code-course\_lectures\030-045\architecting Project and User rules in Claude.md` |
+| 2026-06-26T00:11:31Z | file | claude | `Claude\master-claude-code-course\_lectures\030-045\architecting Project and User rules in Claude.txt` |
+| 2026-06-26T00:11:31Z | file | claude | `Claude\master-claude-code-course\_lectures\030-045\hierarchical-architecture-explainedClaude's-hierarchical-architecture-explained-claude.md` |
+| 2026-06-26T00:11:31Z | file | claude | `Claude\master-claude-code-course\_lectures\030-045\hierarchical-claude-md-and-project-rules-study-gui-2026-06-25.md` |
+| 2026-06-26T05:09:52Z | file | ai | `AI\ai future NotebookLM Mind Map.png` |
+| 2026-06-26T05:09:52Z | file | ai | `AI\ai_future_Refracted_Humanity.pptx` |
+| 2026-06-26T05:09:52Z | file | rxjs | `Rxjs\Rxjs-Full\rxjs full claude NotebookLM Mind Map.png` |
+| 2026-06-26T06:10:40Z | file | ai | `AI\Agentic-Coding-School\Agent-Workflows\My Design Flow - My Daily Workflows - Agentic Coding School.ts` |
+| 2026-06-26T06:10:40Z | file | rxjs | `Rxjs\Rxjs-Course-AI-Based\Hybrid_AI_Blueprint.pptx` |
+| 2026-06-26T06:10:40Z | file | rxjs | `Rxjs\Rxjs-Course-AI-Based\Reactive_Edge_Architecture.pptx` |
+| 2026-06-26T06:10:40Z | file | rxjs | `Rxjs\Rxjs-Course-AI-Based\RxJS-Full_on_CF_Workers.mp4` |
+| 2026-06-26T06:10:40Z | file | rxjs | `Rxjs\Rxjs-Course-AI-Based\combine frontier with local model NotebookLM Mind Map.png` |
+| 2026-06-26T06:10:40Z | file | rxjs | `Rxjs\Rxjs-Course-AI-Based\notebooklm-report-the-sovereign-ai-revolution-how-your-standard-offi-2026-06-26.md` |
+| 2026-06-26T08:10:46Z | file |  | `Agentic-Coding-Ray-Amjad\agentic-coding-workflows-ray-amjad.txt` |
+| 2026-06-26T08:10:46Z | file | rxjs | `Rxjs\Rxjs-Course-AI-Based\rxjs-skills.png` |
+| 2026-06-26T08:10:46Z | repo | rxjs | [rxjs-orchestrator-skill](https://github.com/hansschenker/rxjs-orchestrator-skill) (created 2026-06-26) |
+| 2026-06-26T09:10:44Z | file | rxjs | `Rxjs\Rxjs-Skills\rxjs triage README.md` |
+| 2026-06-26T09:10:44Z | repo |  | [dashy](https://github.com/hansschenker/dashy) (created 2026-06-26) |
+| 2026-06-26T12:17:42Z | repo | rxjs | [rxjs-operator-vue](https://github.com/hansschenker/rxjs-operator-vue) (created 2026-06-26) |
+| 2026-06-26T14:11:16Z | file | rxjs | `Rxjs\Rxjs-Full\cloud and local model combination tsconfig.json` |
+| 2026-06-26T14:11:16Z | file | rxjs | `Rxjs\Rxjs-Full\fullstack files claude desktop all files.zip` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\Architecting_Time.pptx` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\RxJS Deep Dive chatgpt suggestions.docx` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\RxJS Deep Dive chatgpt suggestions.pdf` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\RxJS_Deep_Dive_Rewritten_Course.md` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\RxJS_Deep_Dive_Rewritten_Course.pdf` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\Rxjs Deep Dive Gemini extended.md` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\claude-improvements-and-course-writing.txt` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\course-artifacts.md` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\notebooklm-report-advanced-rxjs-reactive-architecture-a-comprehensiv-2026-06-27.md` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\notebooklm-report-rxjs-deep-dive-comprehensive-course-manual-2026-06-27.md` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\notebooklm-report-rxjs-deep-dive-the-comprehensive-manual-for-reacti-2026-06-27.md` |
+| 2026-06-27T08:10:33Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\rxjs deep dive NotebookLM Mind Map.png` |
+| 2026-06-27T10:10:31Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\Script Promo Template.md` |
+| 2026-06-27T10:10:31Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\Udemy Optimization Guide.pdf` |
+| 2026-06-27T10:10:31Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\rxjs-zen-statements-x-com.txt` |
+| 2026-06-27T10:10:31Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\udemy course creation NotebookLM Mind Map.png` |
+| 2026-06-27T11:10:44Z | repo | rxjs | [rxjs-deep-dive-course](https://github.com/hansschenker/rxjs-deep-dive-course) (created 2026-06-27) |
