@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "clean-coder": {
+      "source": "dexhorthy/slopfiles",
+      "sourceType": "github",
+      "skillPath": "plugins/clean-coder/skills/clean-coder/SKILL.md",
+      "computedHash": "353157b61cd866120b240df8a21bd423dacb68dc8d3e235fd83b198da3b76ae0"
+    },
+    "html-presentations": {
+      "source": "dexhorthy/slopfiles",
+      "sourceType": "github",
+      "skillPath": "plugins/html-presentations/skills/html-presentations/SKILL.md",
+      "computedHash": "6ba07c8ac0c6c63072fcb08877235878d4a8c3f6e029cb6c62036c9c13e7be7d"
+    },
+    "improve-claude-md": {
+      "source": "dexhorthy/slopfiles",
+      "sourceType": "github",
+      "skillPath": "plugins/improve-claude-md/skills/improve-claude-md/SKILL.md",
+      "computedHash": "27e3ef1847732d859cc8c8583ffb9768ebd18804fefae0fde718fe69dbf875d4"
+    }
+  }
+}
