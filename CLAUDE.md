@@ -37,22 +37,43 @@ Output format:
 
 Add the entry to `hans-log.md` under `## Manual Entries` (newest day first), then commit and push.
 
-**Input format (all tags):** `log [tag]: [title] | [file path] | [topic] | [description max 80 chars]`
+There are two input variants depending on whether the entry has a local file or a URL:
 
-**Stored format (all tags):** `- [tag] | [slug] | [title] — [description] | [topic] | notes/[slug].[ext]`
+**File-based tags (ai, rxjs, sport):**
+- Input: `log [tag]: [title] | [file path] | [topic] | [description max 80 chars]`
+- Stored: `- [tag] | [slug] | [title] — [description] | [topic] | notes/[slug].[ext]`
+- Workflow: copy file → scaffold note → commit+push
 
-After writing the log entry, run this 3-step workflow automatically:
+**URL-based tags (yt, ytpl):**
+- Input: `log [tag]: [title] | [url] | [topic] | [description max 80 chars]`
+- Stored: `- [tag] | [slug] | [title] — [description] | [topic] | [url]`
+- Workflow: write log entry → commit+push (no file to copy; URL is stored inline)
+
+For file-based entries, run this 3-step workflow automatically:
 1. Copy the file from `[file path]` into `notes/[slug].[ext]` (preserve the original file extension)
 2. Scaffold `notes/[slug].md` — synthesize TL;DR, Key Concepts, and Content from the copied file
 3. Commit both files and push
 If no file path is given, skip steps 1–2 and only commit the log entry.
 
-| Tag | Covers | Slug prefix |
-|---|---|---|
-| `yt` | YouTube video | — |
-| `ai` | All AI work (Claude, Google, OpenAI) | `ai-claude-`, `ai-google-`, `ai-openai-` |
-| `rxjs` | RxJS course work | — |
-| `sport` | Running/strength | — |
+| Tag | Covers | Slug prefix | URL or file |
+|---|---|---|---|
+| `yt` | YouTube video watched | — | URL |
+| `ytpl` | YouTube playlist created | `ytpl-` | URL |
+| `ai` | All AI work (Claude, Google, OpenAI) | `ai-claude-`, `ai-google-`, `ai-openai-` | file |
+| `rxjs` | RxJS course work | — | file |
+| `sport` | Running/strength | — | file |
+
+**`yt` example:**
+```
+log yt: RxJS switchMap Explained | https://www.youtube.com/watch?v=rUZ9CjcaCEw | RxJS | when to cancel vs merge inner observables
+```
+Stored as: `- yt | rxjs-switchmap-explained | RxJS switchMap Explained — when to cancel vs merge inner observables | RxJS | https://www.youtube.com/watch?v=rUZ9CjcaCEw`
+
+**`ytpl` example:**
+```
+log ytpl: RxJS Operators Playlist | https://www.youtube.com/playlist?list=PLxxxxx | RxJS | curated list of RxJS operator deep dives
+```
+Stored as: `- ytpl | ytpl-rxjs-operators | RxJS Operators Playlist — curated list of RxJS operator deep dives | RxJS | https://www.youtube.com/playlist?list=PLxxxxx`
 
 For `ai` entries, start the slug with the provider prefix: `ai-claude-[topic]`, `ai-google-[topic]`, `ai-openai-[topic]`. The `gai` tag is retired — use `ai` with `ai-google-` slug prefix instead.
 </important>
@@ -65,7 +86,7 @@ For `ai` entries, start the slug with the provider prefix: `ai-claude-[topic]`, 
 
 Note file structure:
 
-Frontmatter: `slug`, `title`, `date`, `tags`, `source` (yt/gai/ai/rxjs/sport)
+Frontmatter: `slug`, `title`, `date`, `tags`, `source` (yt/ytpl/ai/rxjs/sport)
 
 Sections in order:
 - **TL;DR** — 2–3 sentence synthesis
