@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-06-28 Sun
+- sport | run-walk-run | run-walk-run — 31k 1000m elevation 5hrs 50mins | trailrun training
+
 ### 2026-06-27 Fri
 - rxjs | rxjs-deep-dive-course | RxJS Deep Dive Course — full day building and publishing the course repo on GitHub with Claude Code | RxJS | https://github.com/hansschenker/rxjs-deep-dive-course
 
