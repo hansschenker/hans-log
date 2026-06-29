@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-06-29 Mon
+- yt | docling-pdf-for-ai-rag | Docling — prepare pdf and other doc formats for working with AI and RAG | AI/RAG | https://www.youtube.com/watch?v=-OM3pqCL8ek&list=PLDWmb8v30mVo&index=21
+
 ### 2026-06-28 Sun
 - sport | run-walk-run | run-walk-run — 31k 1000m elevation 5hrs 50mins | trailrun training
 
@@ -866,3 +869,7 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-27T10:10:31Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\rxjs-zen-statements-x-com.txt` |
 | 2026-06-27T10:10:31Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\udemy course creation NotebookLM Mind Map.png` |
 | 2026-06-27T11:10:44Z | repo | rxjs | [rxjs-deep-dive-course](https://github.com/hansschenker/rxjs-deep-dive-course) (created 2026-06-27) |
+| 2026-06-28T14:10:24Z | file | ai | `AI\Claude-Obsidian-LLM-Wiki\Build a Self Improving Claude Knowledge Base.mp4` |
+| 2026-06-28T14:10:24Z | file | ai | `AI\Claude-Obsidian-LLM-Wiki\Copy of Knowledge Base Prompt Obsidian.md` |
+| 2026-06-28T14:10:24Z | file | ai | `AI\Local-Context\local-context-SKILL-claude.md` |
+| 2026-06-29T04:10:36Z | file | ai | `AI\Recall-Export-2026-06-29\Recall_export_2026-06-29T05-42-09.zip` |
