@@ -42,12 +42,18 @@ with open(STATE, encoding="utf-8") as f:
     st = json.load(f)
 
 # Locate the watch directory on the current mount.
-watch = os.path.join(os.path.dirname(LOG_DIR), "Local-Learning")
-if not os.path.isdir(watch):
-    cand = glob.glob("/sessions/*/mnt/Local-Learning")
-    watch = cand[0] if cand else watch
-if not os.path.isdir(watch):
-    log("ERROR: Local-Learning folder not accessible at " + watch); sys.exit(1)
+# Folder was renamed/moved over time; try known names in order.
+WATCH_NAMES = ["Learning-Local-Backup", "Local-Learning"]
+watch = ""
+for _name in WATCH_NAMES:
+    cand_local = os.path.join(os.path.dirname(LOG_DIR), _name)
+    if os.path.isdir(cand_local):
+        watch = cand_local; break
+    cand = glob.glob("/sessions/*/mnt/" + _name)
+    if cand:
+        watch = cand[0]; break
+if not watch or not os.path.isdir(watch):
+    log("ERROR: watch folder not accessible (tried: %s)" % ", ".join(WATCH_NAMES)); sys.exit(1)
 
 now = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 known_files = st.get("known_files", {})

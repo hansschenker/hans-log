@@ -870,6 +870,27 @@ AI (135), Animations (3), Claude (27), Cloudflare (2), Cloudflare-Backpine (10),
 | 2026-06-27T10:10:31Z | file | rxjs | `Rxjs\Rxjs-Deep-Dive-Course-NotebookLM\udemy course creation NotebookLM Mind Map.png` |
 | 2026-06-27T11:10:44Z | repo | rxjs | [rxjs-deep-dive-course](https://github.com/hansschenker/rxjs-deep-dive-course) (created 2026-06-27) |
 | 2026-06-28T14:10:24Z | file | ai | `AI\Claude-Obsidian-LLM-Wiki\Build a Self Improving Claude Knowledge Base.mp4` |
-| 2026-06-28T14:10:24Z | file | ai | `AI\Claude-Obsidian-LLM-Wiki\Copy of Knowledge Base Prompt Obsidian.md` |
-| 2026-06-28T14:10:24Z | file | ai | `AI\Local-Context\local-context-SKILL-claude.md` |
+| 2026-06-28T14:10:24Z | file | ai | `AI\Claude-Obsidian-LLM-Wiki\Copy of Knowledge Base Prompt O| 2026-06-29T07:11:23Z | file |  | `Docling\docling-notes.txt` |
+ext\local-context-SKILL-claude.md` |
 | 2026-06-29T04:10:36Z | file | ai | `AI\Recall-Export-2026-06-29\Recall_export_2026-06-29T05-42-09.zip` |
+| 2026-06-30T06:11:13Z | file |  | `Docling\Docling_Data_Refinery.pptx` |
+| 2026-06-30T06:11:13Z | file |  | `Docling\Docling_s_Rise.mp4` |
+| 2026-06-30T06:11:13Z | file |  | `Docling\docling NotebookLM Mind Map.png` |
+| 2026-06-30T06:11:13Z | file | sport | `Hans-Sport\Stark_durch_die_Dekade_65-75.docx` |
+| 2026-06-30T06:11:13Z | repo | rxjs | [rxjs-code-refactored](https://github.com/hansschenker/rxjs-code-refactored) (created 2026-06-29) |
+| 2026-06-30T10:21:27Z | file |  | `Docling\Docling-RAG-diagram 1.png` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\Docling-RAG-diagram.png` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\Integrating Docling With OpenSearch for Advanced RAG and Agentic Applications - Cesar Berrospi Ramis.mp4` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\LangFlow 01.png` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\RAG 01.png` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\RAG 02.png` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\RAG 03.png` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\RAG 04.png` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\RAG using Cloudflare Worker AI.mp4` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\docling NotebookLM Mind Map 1.png` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\docling advanced layout analysis.pdf` |
+| 2026-06-30T10:21:27Z | file |  | `Docling\docling paper ibm.pdf` |
+| 2026-06-30T10:21:27Z | file |  | `Langflow\Visual_Document_Processing.mp4` |
+| 2026-06-30T10:21:27Z | file |  | `Langflow\Visual_RAG_with_Docling_and_Langflow.pptx` |
+| 2026-06-30T10:21:27Z | file |  | `Langflow\langflow NotebookLM Mind Map.png` |
+| 2026-06-30T10:24:29Z | file | ai | `AI\RAG\RAG vs Agentic workflow Architecting_Intelligence.pptx` |
