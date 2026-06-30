@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-06-30 Tue
+- ai | ai-docling-intro-llm-4 | Docling an intro to LLM 4 — Docling is the preparation for LLM | Docling | https://www.youtube.com/watch?v=zSA7ylHP6AY&list=PLDWmb8v30mVo&index=1
+
 ### 2026-06-29 Mon
 - yt | docling-pdf-for-ai-rag | Docling — prepare pdf and other doc formats for working with AI and RAG | AI/RAG | https://www.youtube.com/watch?v=-OM3pqCL8ek&list=PLDWmb8v30mVo&index=21
 
