@@ -6,9 +6,9 @@ Personal knowledge log: daily entries, structured notes, and 3-goal weekly focus
 
 | Goal | Target | Plan file |
 |---|---|---|
-| davos-trail | 2026-07-26 | `C:/Users/hanss/Local-Learning/Hans-Sport/Running/davos-trail-plan.md` |
+| davos-trail | 2026-07-26 | `D:/Learning-Local-Backup/Hans-Sport/Running/davos-trail-plan.md` |
 | claude-mastery | 2026-08-31 | `C:/Users/hanss/Claude/claude-mastery/claude-mastery-plan.md` |
-| rxjs-course | 2026-09-30 | `C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course/rxjs-course-plan.md` |
+| rxjs-course | 2026-09-30 | `D:/Learning-Local-Backup/Rxjs/Rxjs-Deep-Dive-Course/rxjs-course-plan.md` |
 
 ## Startup: Daily Briefing
 

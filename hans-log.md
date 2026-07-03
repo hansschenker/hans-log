@@ -34,9 +34,9 @@ python log-link.py <url> <description>
 
 | Goal | Description | Target | Plan | Status |
 |---|---|---|---|---|
-| davos-trail | Run Davos 68k 2600m alt — 2x/week Wed+Sun ~25k ~1000m training | 2026-07-26 | [davos-trail-plan.md](C:/Users/hanss/Local-Learning/Hans-Sport/Running/davos-trail-plan.md) | active |
+| davos-trail | Run Davos 68k 2600m alt — 2x/week Wed+Sun ~25k ~1000m training | 2026-07-26 | [davos-trail-plan.md](D:/Learning-Local-Backup/Hans-Sport/Running/davos-trail-plan.md) | active |
 | claude-mastery | Complete Master Claude Code course (158 lessons) + apply skills | 2026-08-31 | [claude-mastery-plan.md](C:/Users/hanss/Claude/claude-mastery/claude-mastery-plan.md) | active |
-| rxjs-course | Build and publish complete RxJS deep dive course (8 modules + reference + capstone) | 2026-09-30 | [rxjs-course-plan.md](C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course/rxjs-course-plan.md) | active |
+| rxjs-course | Build and publish complete RxJS deep dive course (8 modules + reference + capstone) | 2026-09-30 | [rxjs-course-plan.md](D:/Learning-Local-Backup/Rxjs/Rxjs-Deep-Dive-Course/rxjs-course-plan.md) | active |
 
 ---
 
