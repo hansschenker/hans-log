@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-03 Thu
+- sport | walk-run-walk | walk-run-walk — 32k 6h05min 1200m elevation, 1hr heavy rain thunder and lightning | trailrun training
+
 ### 2026-06-30 Tue
 - ai | ai-docling-intro-llm-4 | Docling an intro to LLM 4 — Docling is the preparation for LLM | Docling | https://www.youtube.com/watch?v=zSA7ylHP6AY&list=PLDWmb8v30mVo&index=1
 
