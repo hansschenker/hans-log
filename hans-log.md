@@ -61,32 +61,32 @@ python log-link.py <url> <description>
 
 ### 2026-06-25 Thu
 - ai | master-claude-030-045 | Master Claude Code Lectures 030–045: Manage Claude.md — Claude AI | Claude Hierarchical Structure | notes/master-claude-030-045.md
-- gai | vo2max | Vo2max fifth vital sign — vo2max is the result of all 5 vital signs working together | vo2max | https://share.google/aimode/9Z0HEDjt9JuNZRk4k
+- ai | vo2max | Vo2max fifth vital sign — vo2max is the result of all 5 vital signs working together | vo2max | https://share.google/aimode/9Z0HEDjt9JuNZRk4k
 - yt | claude-cowork-private-lesson | Claude Cowork private lesson — different ways to use Claude Cowork | Claude Cowork | https://www.youtube.com/watch?v=DW4a1Cm8nG4
 - yt | training-older-athlete | Training for the Older Athlete — run | https://www.youtube.com/watch?v=cgoBjMc1r9U
 - yt | rxjs-switchmap-deep-dive | RxJS switchMap Explained — when to cancel vs merge inner observables, key for HTTP autocomplete | https://www.youtube.com/watch?v=rUZ9CjcaCEw
 
 ### 2026-06-24 Tue
 - daily-summary | end-of-day | sport: trail run 33.5k 1200m 6h33min ✅ — claude: lectures 15-30 + course plan created ✅ — rxjs: course setup + plan created ✅ — set up hans-log as personal PM tool with daily briefing, 3 goal plans, CLAUDE.md
-- claude | claude-mastery-setup | worked on course planning and project setup 2hrs | C:/Users/hanss/Claude/claude-mastery
-- claude | claude-mastery-goal | goal claude-mastery plan created, start 2026-06-24, 10 weeks 2hrs/day, 158 lessons in 5 phases, target 2026-08-31 | C:/Users/hanss/Claude/claude-mastery/claude-mastery-plan.md
-- claude | project-manager | Claude Code is now my project manager and helping hand to finish started projects
+- ai | claude-mastery-setup | worked on course planning and project setup 2hrs | C:/Users/hanss/Claude/claude-mastery
+- ai | claude-mastery-goal | goal claude-mastery plan created, start 2026-06-24, 10 weeks 2hrs/day, 158 lessons in 5 phases, target 2026-08-31 | C:/Users/hanss/Claude/claude-mastery/claude-mastery-plan.md
+- ai | project-manager | Claude Code is now my project manager and helping hand to finish started projects
 - fit | davos-trail-plan | goal davos-trail plan created, start 2026-06-24, 5 weeks 2x/week Wed+Sun, race 68k 2600m target 2026-07-26 | C:/Users/hanss/Local-Learning/Hans-Sport/Running/davos-trail-plan.md
 - rxjs | rxjs-course-setup | worked on course setup and planning 2hrs | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course
 - rxjs | rxjs-deep-dive-course-dir | official directory for rxjs deep dive course | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course
 - rxjs | rxjs-course-plan | goal rxjs-course plan created, start 2026-06-24, 14 weeks 2hrs/day, 8 modules + operator reference + capstone, target 2026-09-30 | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course/rxjs-course-plan.md
 - fit | trail-run-walk-run | 33.5k 1200m elevation 6h33min
-- claude | master-claude-code-course | lectures 15-30: background tasks, bash permissions, local/project/user settings, --dangerously-skip-permissions, custom slash commands vs skills, ! run bash, plan mode (plans saved), new session for big plans, ask claude questions | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course1
+- ai | master-claude-code-course | lectures 15-30: background tasks, bash permissions, local/project/user settings, --dangerously-skip-permissions, custom slash commands vs skills, ! run bash, plan mode (plans saved), new session for big plans, ask claude questions | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course1
 
 ### 2026-06-23 Tue
-- claude | mermaid-diagram-generator-skill | learn from ray-os how the mermaid-diagram-generator skill works
-- claude | ray-os-mermaid | learn from ray-os how to generate mermaid diagrams | C:/Users/hanss/Web/ai/claude/ray-os/projects/agentic-coding-school
-- claude | master-claude-code-course | lectures 1-15 watched | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course
+- ai | mermaid-diagram-generator-skill | learn from ray-os how the mermaid-diagram-generator skill works
+- ai | ray-os-mermaid | learn from ray-os how to generate mermaid diagrams | C:/Users/hanss/Web/ai/claude/ray-os/projects/agentic-coding-school
+- ai | master-claude-code-course | lectures 1-15 watched | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course
 - fit | t-shirt-logo | created wolf image logo, reminds me of local wolf park | C:/Users/hanss/Local-Learning/Hans-Sport
 - fit | trail-running | 2x week Wed+Sun ~25k ~1000m alt | goal: Davos trail 68k 2600m alt 2026-07-end
 
 ### 2026-06-20 Sat
-- claude | claude-support | https://support.claude.com/fr/
+- ai | claude-support | https://support.claude.com/fr/
 - web | browser-apis | https://spec.whatwg.org/
 - hono | honox-user | https://zenn.dev/yusukebe/articles/724940fa3f2450?locale=en#summary
 - hono | hono-creator | https://findy-code.io/media/articles/interview-yusukebe
@@ -117,14 +117,14 @@ python log-link.py <url> <description>
 - ai | agentic-masterclass | agentic-os | https://github.com/itseffi
 - rxjs | rxjs-koans | based on matthew podwysocki | hanss@Dell-5550:/mnt/c/Users/hanss/Web/Hans/matthew-podwysocki/RxJSKoans$
 - ai | openai-codex | https://x.com/OpenAIDevs/status/2067681320281723113/video/1
-- claude | claude-subagents | boris cherny | https://x.com/0xMovez/status/2067642452991717790/video/1
-- claude | claude-loop | claude talk | https://x.com/0xCodez/status/2067604216529474028/video/1
+- ai | claude-subagents | boris cherny | https://x.com/0xMovez/status/2067642452991717790/video/1
+- ai | claude-loop | claude talk | https://x.com/0xCodez/status/2067604216529474028/video/1
 - ai | karpath-sw-change | https://x.com/sairahul1/status/2067971149297037763/video/1
-- claude | claude-mcp | co-creator talk | https://x.com/Zephyr_hg/status/2068029544733540688/video/1
+- ai | claude-mcp | co-creator talk | https://x.com/Zephyr_hg/status/2068029544733540688/video/1
 - ai | karpathy-using-llm | https://x.com/s4yonnara/status/2067898082100912553/video/1
-- claude | claude-setup | boris cherny | https://x.com/0xMovez/status/2068074207687201043/video/1
-- claude | claude-agents | how setup agents | claude talk | https://x.com/Jeyxbt/status/2067866973497868794/video/1
-- claude | claude-masterclass | C:\Users\hanss\Local-Learning\Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course
+- ai | claude-setup | boris cherny | https://x.com/0xMovez/status/2068074207687201043/video/1
+- ai | claude-agents | how setup agents | claude talk | https://x.com/Jeyxbt/status/2067866973497868794/video/1
+- ai | claude-masterclass | C:\Users\hanss\Local-Learning\Claude\master-claude-code-course\master-claude-code-course\master-claude-code-course
 
 ### 2025-01-13 Mon
 - rxjs | rxjs-custom | custom observable | https://github.com/gcharis/custom-observables

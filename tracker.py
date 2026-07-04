@@ -4,7 +4,7 @@ repos (github.com/hansschenker) to hans-log.md. Run hourly. Idempotent."""
 import os, sys, json, glob, datetime, urllib.request, re
 
 FOLDER_TOPICS = {
-    'rxjs': 'rxjs', 'claude': 'claude', 'domain-specific': 'dsl',
+    'rxjs': 'rxjs', 'claude': 'ai', 'domain-specific': 'dsl',
     'functional-programming': 'fp', 'state-machine': 'state-machine',
     'a-state': 'state-machine', 'hans-sport': 'fit',
     'cloudflare': 'cloudflare', 'voidzero': 'voidzero', 'void': 'voidzero',
