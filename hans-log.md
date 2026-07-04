@@ -50,6 +50,7 @@ python log-link.py <url> <description>
 - ytl | ytl-llm-agentic-ai-zero-to-consultant | LLM & Agentic AI: From Zero to Consultant — curated path from LLM foundations to agentic AI practice | Agentic AI | https://www.youtube.com/playlist?list=PLr03p0fNnSPcwrgAEOjXafrkDHwKSrg86
 - yt | stanford-cme295-transformers-llms-lecture-2 | Stanford CME295 Transformers & LLMs Lecture 2 — RoPE, RMSNorm, MQA/GQA, T5 vs BERT vs decoder-only | Transformers/LLM | https://www.youtube.com/watch?v=yT84Y5zCnaA | summary: yt/stanford-cme295-transformers-llms-autumn-2025-lecture-2.md
 - ai | ai-claude-hans-log-tooling | Hans-log tooling day with Claude Code — tag rework, yt-scan + yt-note tools, tag dirs, auto-draft routine | Claude Code | https://github.com/hansschenker/hans-log
+- yt | multimodal-rag-with-docling | Multi-modal RAG with Docling — PDF images captioned via LLM into enriched text, Milvus + LangGraph agent | RAG/Docling | https://www.youtube.com/watch?v=Uky2eJ25oHY | summary: yt/multimodal-rag-with-docling-from-pdf-to-agentic.md
 
 ### 2026-07-03 Thu
 - fit | walk-run-walk | walk-run-walk — 32k 6h05min 1200m elevation, 1hr heavy rain thunder and lightning | trailrun training
