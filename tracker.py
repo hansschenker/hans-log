@@ -6,7 +6,7 @@ import os, sys, json, glob, datetime, urllib.request, re
 FOLDER_TOPICS = {
     'rxjs': 'rxjs', 'claude': 'claude', 'domain-specific': 'dsl',
     'functional-programming': 'fp', 'state-machine': 'state-machine',
-    'a-state': 'state-machine', 'hans-sport': 'sport',
+    'a-state': 'state-machine', 'hans-sport': 'fit',
     'cloudflare': 'cloudflare', 'voidzero': 'voidzero', 'void': 'voidzero',
     'tanstack': 'tanstack', 'nuxt': 'nuxt', 'meta-frameworks': 'meta',
     'monorepo': 'monorepo', 'unjs': 'unjs', 'linear': 'linear',
@@ -26,7 +26,7 @@ def repo_topic(name):
     n = name.lower()
     if 'rxjs' in n: return 'rxjs'
     if 'cloudflare' in n or 'fullstack' in n: return 'cloudflare'
-    if 'fitness' in n: return 'sport'
+    if 'fitness' in n: return 'fit'
     if 'pnpm' in n: return 'pnpm'
     if 'vite' in n or 'rsc' in n: return 'meta'
     return ''

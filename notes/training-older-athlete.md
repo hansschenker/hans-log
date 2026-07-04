@@ -2,7 +2,7 @@
 slug: training-older-athlete
 title: Training for the Older Athlete
 date: 2026-06-25
-tags: [sport, running, aging, recovery, training, longevity]
+tags: [fit, running, aging, recovery, training, longevity]
 source: yt
 ---
 

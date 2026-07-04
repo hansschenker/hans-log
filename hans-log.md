@@ -45,7 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-07-03 Thu
-- sport | walk-run-walk | walk-run-walk — 32k 6h05min 1200m elevation, 1hr heavy rain thunder and lightning | trailrun training
+- fit | walk-run-walk | walk-run-walk — 32k 6h05min 1200m elevation, 1hr heavy rain thunder and lightning | trailrun training
 
 ### 2026-06-30 Tue
 - ai | ai-docling-intro-llm-4 | Docling an intro to LLM 4 — Docling is the preparation for LLM | Docling | https://www.youtube.com/watch?v=zSA7ylHP6AY&list=PLDWmb8v30mVo&index=1
@@ -54,7 +54,7 @@ python log-link.py <url> <description>
 - yt | docling-pdf-for-ai-rag | Docling — prepare pdf and other doc formats for working with AI and RAG | AI/RAG | https://www.youtube.com/watch?v=-OM3pqCL8ek&list=PLDWmb8v30mVo&index=21
 
 ### 2026-06-28 Sun
-- sport | run-walk-run | run-walk-run — 31k 1000m elevation 5hrs 50mins | trailrun training
+- fit | run-walk-run | run-walk-run — 31k 1000m elevation 5hrs 50mins | trailrun training
 
 ### 2026-06-27 Fri
 - rxjs | rxjs-deep-dive-course | RxJS Deep Dive Course — full day building and publishing the course repo on GitHub with Claude Code | RxJS | https://github.com/hansschenker/rxjs-deep-dive-course
@@ -71,19 +71,19 @@ python log-link.py <url> <description>
 - claude | claude-mastery-setup | worked on course planning and project setup 2hrs | C:/Users/hanss/Claude/claude-mastery
 - claude | claude-mastery-goal | goal claude-mastery plan created, start 2026-06-24, 10 weeks 2hrs/day, 158 lessons in 5 phases, target 2026-08-31 | C:/Users/hanss/Claude/claude-mastery/claude-mastery-plan.md
 - claude | project-manager | Claude Code is now my project manager and helping hand to finish started projects
-- sport | davos-trail-plan | goal davos-trail plan created, start 2026-06-24, 5 weeks 2x/week Wed+Sun, race 68k 2600m target 2026-07-26 | C:/Users/hanss/Local-Learning/Hans-Sport/Running/davos-trail-plan.md
+- fit | davos-trail-plan | goal davos-trail plan created, start 2026-06-24, 5 weeks 2x/week Wed+Sun, race 68k 2600m target 2026-07-26 | C:/Users/hanss/Local-Learning/Hans-Sport/Running/davos-trail-plan.md
 - rxjs | rxjs-course-setup | worked on course setup and planning 2hrs | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course
 - rxjs | rxjs-deep-dive-course-dir | official directory for rxjs deep dive course | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course
 - rxjs | rxjs-course-plan | goal rxjs-course plan created, start 2026-06-24, 14 weeks 2hrs/day, 8 modules + operator reference + capstone, target 2026-09-30 | C:/Users/hanss/Local-Learning/Rxjs/Rxjs-Deep-Dive-Course/rxjs-course-plan.md
-- sport | trail-run-walk-run | 33.5k 1200m elevation 6h33min
+- fit | trail-run-walk-run | 33.5k 1200m elevation 6h33min
 - claude | master-claude-code-course | lectures 15-30: background tasks, bash permissions, local/project/user settings, --dangerously-skip-permissions, custom slash commands vs skills, ! run bash, plan mode (plans saved), new session for big plans, ask claude questions | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course1
 
 ### 2026-06-23 Tue
 - claude | mermaid-diagram-generator-skill | learn from ray-os how the mermaid-diagram-generator skill works
 - claude | ray-os-mermaid | learn from ray-os how to generate mermaid diagrams | C:/Users/hanss/Web/ai/claude/ray-os/projects/agentic-coding-school
 - claude | master-claude-code-course | lectures 1-15 watched | C:/Users/hanss/Local-Learning/Claude/master-claude-code-course/master-claude-code-course/master-claude-code-course
-- sport | t-shirt-logo | created wolf image logo, reminds me of local wolf park | C:/Users/hanss/Local-Learning/Hans-Sport
-- sport | trail-running | 2x week Wed+Sun ~25k ~1000m alt | goal: Davos trail 68k 2600m alt 2026-07-end
+- fit | t-shirt-logo | created wolf image logo, reminds me of local wolf park | C:/Users/hanss/Local-Learning/Hans-Sport
+- fit | trail-running | 2x week Wed+Sun ~25k ~1000m alt | goal: Davos trail 68k 2600m alt 2026-07-end
 
 ### 2026-06-20 Sat
 - claude | claude-support | https://support.claude.com/fr/
@@ -900,3 +900,33 @@ ext\local-context-SKILL-claude.md` |
 | 2026-06-30T10:21:27Z | file |  | `Langflow\Visual_RAG_with_Docling_and_Langflow.pptx` |
 | 2026-06-30T10:21:27Z | file |  | `Langflow\langflow NotebookLM Mind Map.png` |
 | 2026-06-30T10:24:29Z | file | ai | `AI\RAG\RAG vs Agentic workflow Architecting_Intelligence.pptx` |
+| 2026-07-03T09:11:53Z | file | ai | `AI\AI-Agentic-way\agentic-way-01.png` |
+| 2026-07-03T09:11:53Z | file | ai | `AI\AI-Agentic-way\agentic-way.png` |
+| 2026-07-03T09:11:53Z | file | ai | `AI\RAG\Building_AI_in_5_Minutes.mp4` |
+| 2026-07-03T09:11:53Z | file | ai | `AI\RAG\Langflow_RAG_Blueprint.pptx` |
+| 2026-07-03T09:11:53Z | file |  | `LMM-Wiki\How to Build A Self-Improving System with Claude Code.mp4` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\IBM Bob NotebookLM Mind Map 1.png` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\IBM Bob NotebookLM Mind Map.png` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\OpenRag-charna-parkey.png` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\The_AI_Engineering_Blueprint.pptx` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\What is OpenRAG. Unlocking the Future of RAG in Generative AI.mp4` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\all slides.zip` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\intro OpenRAG Mindmap json.json` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\openrag intro NotebookLM Mind Map.png` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\openrag-intro.txt` |
+| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\openrag-workflow.png` |
+| 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\Rxjs-LLM-Wiki-Claude\rxjs llm wiki claude NotebookLM Mind Map.png` |
+| 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\Rxjs-LLM-Wiki-Claude\rxjs-llm-wiki-claude.txt` |
+| 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\Rxjs-Observables\rxjs observable Engineering_Reactive_Streams.pptx` |
+| 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\Rxjs-Observables\rxjs observables NotebookLM Mind Map.png` |
+| 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\_books\rxjs-in-action.rar` |
+| 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\_books\rxjs-in-action\rxjs-in-action.epub` |
+| 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\_books\rxjs-in-action\rxjs-in-action.pdf` |
+| 2026-07-03T09:11:53Z | repo | rxjs | [rxjs-rag](https://github.com/hansschenker/rxjs-rag) (created 2026-07-03) |
+| 2026-07-03T13:59:10Z | file | rxjs | `Rxjs-vocabulary\rxjs-llm-module-plans.md` |
+| 2026-07-03T13:59:10Z | file | rxjs | `Rxjs-vocabulary\rxjs-official-name-extractions.md` |
+| 2026-07-03T13:59:10Z | repo | rxjs | [rxjs-llm](https://github.com/hansschenker/rxjs-llm) (created 2026-07-03) |
+| 2026-07-03T15:11:17Z | file |  | `Docling\The_Docling_Blueprint.pptx` |
+| 2026-07-03T15:11:17Z | file |  | `Docling\docling paranas NotebookLM Mind Map.png` |
+| 2026-07-03T15:11:17Z | file |  | `Docling\docling sdk NotebookLM Mind Map.png` |
+| 2026-07-03T15:11:17Z | file |  | `Docling\docling-engineering-handbook-architecture-extensib-2026-07-03.md` |

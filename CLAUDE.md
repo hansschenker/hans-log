@@ -39,12 +39,12 @@ Add the entry to `hans-log.md` under `## Manual Entries` (newest day first), the
 
 There are two input variants depending on whether the entry has a local file or a URL:
 
-**File-based tags (ai, rxjs, sport):**
+**File-based tags (ai, rxjs, fit):**
 - Input: `log [tag]: [title] | [file path] | [topic] | [description max 80 chars]`
 - Stored: `- [tag] | [slug] | [title] — [description] | [topic] | notes/[slug].[ext]`
 - Workflow: copy file → scaffold note → commit+push
 
-**URL-based tags (yt, ytpl):**
+**URL-based tags (yt, ytl):**
 - Input: `log [tag]: [title] | [url] | [topic] | [description max 80 chars]`
 - Stored: `- [tag] | [slug] | [title] — [description] | [topic] | [url]`
 - Workflow: write log entry → commit+push (no file to copy; URL is stored inline)
@@ -58,10 +58,10 @@ If no file path is given, skip steps 1–2 and only commit the log entry.
 | Tag | Covers | Slug prefix | URL or file |
 |---|---|---|---|
 | `yt` | YouTube video watched | — | URL |
-| `ytpl` | YouTube playlist created | `ytpl-` | URL |
+| `ytl` | YouTube playlist created | `ytl-` | URL |
 | `ai` | All AI work (Claude, Google, OpenAI) | `ai-claude-`, `ai-google-`, `ai-openai-` | file |
 | `rxjs` | RxJS course work | — | file |
-| `sport` | Running/strength | — | file |
+| `fit` | Running/strength | — | file |
 
 **`yt` example:**
 ```
@@ -69,11 +69,11 @@ log yt: RxJS switchMap Explained | https://www.youtube.com/watch?v=rUZ9CjcaCEw |
 ```
 Stored as: `- yt | rxjs-switchmap-explained | RxJS switchMap Explained — when to cancel vs merge inner observables | RxJS | https://www.youtube.com/watch?v=rUZ9CjcaCEw`
 
-**`ytpl` example:**
+**`ytl` example:**
 ```
-log ytpl: RxJS Operators Playlist | https://www.youtube.com/playlist?list=PLxxxxx | RxJS | curated list of RxJS operator deep dives
+log ytl: RxJS Operators Playlist | https://www.youtube.com/playlist?list=PLxxxxx | RxJS | curated list of RxJS operator deep dives
 ```
-Stored as: `- ytpl | ytpl-rxjs-operators | RxJS Operators Playlist — curated list of RxJS operator deep dives | RxJS | https://www.youtube.com/playlist?list=PLxxxxx`
+Stored as: `- ytl | ytl-rxjs-operators | RxJS Operators Playlist — curated list of RxJS operator deep dives | RxJS | https://www.youtube.com/playlist?list=PLxxxxx`
 
 For `ai` entries, start the slug with the provider prefix: `ai-claude-[topic]`, `ai-google-[topic]`, `ai-openai-[topic]`. The `gai` tag is retired — use `ai` with `ai-google-` slug prefix instead.
 </important>
@@ -86,7 +86,7 @@ For `ai` entries, start the slug with the provider prefix: `ai-claude-[topic]`, 
 
 Note file structure:
 
-Frontmatter: `slug`, `title`, `date`, `tags`, `source` (yt/ytpl/ai/rxjs/sport)
+Frontmatter: `slug`, `title`, `date`, `tags`, `source` (yt/ytl/ai/rxjs/fit)
 
 Sections in order:
 - **TL;DR** — 2–3 sentence synthesis
@@ -119,11 +119,11 @@ other (yt, ai, etc.):
 ```
 
 4. For each goal/area the user filled in, create a log entry with the matching tag:
-   - sport → `sport` tag
+   - sport → `fit` tag
    - claude → `ai` tag with `ai-claude-` slug prefix
    - rxjs → `rxjs` tag
    - YouTube videos → `yt` tag (title | url)
-   - YouTube playlists → `ytpl` tag (title | url)
+   - YouTube playlists → `ytl` tag (title | url)
    - Other AI tools → `ai` tag with appropriate slug prefix
 5. Add all entries under today's date section in `## Manual Entries` (create `### YYYY-MM-DD Weekday` if it doesn't exist yet; append if it does)
 6. Commit all changes and push

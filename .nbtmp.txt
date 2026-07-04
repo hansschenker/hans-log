@@ -21,6 +21,96 @@ Visibility
 Role
 Actions
 
+🌊
+The Principles and Evolution of Functional Reactive Programming
+1 Source Jul 3, 2026 Owner
+more_vert
+
+🧬
+RxJS Backpressure Strategies and Operator Taxonomy Blueprint
+1 Source Jul 2, 2026 Owner
+more_vert
+
+🐝
+The Future of AI: Domain-Specific Agents and Multi-Agent Orchestration
+1 Source Jul 2, 2026 Owner
+more_vert
+
+🌊
+The Architecture and Ancestry of RxJS
+1 Source Jul 2, 2026 Owner
+more_vert
+
+🤖
+Cloudflare Markdown for Agents: Optimizing the Web for AI
+1 Source Jul 2, 2026 Owner
+more_vert
+
+🔍
+OpenRAG: Architecting Scalable Agentic Systems with Open Source Tools
+1 Source Jul 1, 2026 Owner
+more_vert
+
+🧠
+Build with Bob: Cloning NotebookLM with React Flow Mind-Maps
+1 Source Jul 1, 2026 Owner
+more_vert
+
+🏗️
+Killer Context: Building an Open Source NotebookLM Clone
+2 Sources Jul 1, 2026 Owner
+more_vert
+
+📜
+The Architect's Ledger: Building a Self-Improving RxJS Knowledge Base
+2 Sources Jun 30, 2026 Owner
+more_vert
+
+🌊
+The Architect’s Guide to Reactive Programming with RxJS
+2 Sources Jun 30, 2026 Owner
+more_vert
+
+🤖
+Bridging the Gap: RAG vs. Agentic AI Explained
+1 Source Jun 30, 2026 Owner
+more_vert
+
+🧱
+Building No-Code RAG and Agentic Applications with Langflow
+1 Source Jun 30, 2026 Owner
+more_vert
+
+🦆
+Document Understanding with Docling and OpenSearch for Advanced RAG
+1 Source Jun 30, 2026 Owner
+more_vert
+
+📄
+Visualizing Docling Document Processing in Langflow AI Workflows
+1 Source Jun 30, 2026 Owner
+more_vert
+
+🦆
+Docling: IBM's Toolkit for LLM-Ready Document Conversion
+3 Sources Jun 30, 2026 Owner
+more_vert
+
+🧬
+The Five Archetypes of AI-Driven Product Development
+2 Sources Jun 29, 2026 Owner
+more_vert
+
+🎓
+Passive Income Empire: The Udemy Course Creation Blueprint
+1 Source Jun 27, 2026 Owner
+more_vert
+
+🌊
+RxJS Deep Dive Course by NotebookLM
+11 Sources Jun 27, 2026 Owner
+more_vert
+
 🤝
 Hybrid AI Architectures: Local Nodes and Cloud Frontiers
 1 Source Jun 26, 2026 Owner
@@ -1377,7 +1467,7 @@ The HONC Stack: Semantic Search with Hono and Neon
 more_vert
 
 👷
-Cloudflare Workers 101: A Beginner's Guide to Serverless AI
+Cloudflare Workers 101: A Beginner’s Guide to Serverless AI
 1 Source May 18, 2026 Owner
 more_vert
 
@@ -1687,7 +1777,7 @@ Void: The Full-Stack Vite Native Deployment Platform
 more_vert
 
 ⚛️
-VoidZero: Evan You's Vision for a Unified JavaScript Toolchain
+VoidZero: Evan You’s Vision for a Unified JavaScript Toolchain
 1 Source Jun 4, 2026 Owner
 more_vert
 

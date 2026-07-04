@@ -2,7 +2,7 @@
 slug: vo2max
 title: Vo2max — Fifth Vital Sign
 date: 2026-06-25
-tags: [sport, health, longevity, vo2max, cardiorespiratory, vitalsigns]
+tags: [fit, health, longevity, vo2max, cardiorespiratory, vitalsigns]
 source: gai
 ---
 
