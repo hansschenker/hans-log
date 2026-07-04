@@ -19,6 +19,7 @@ At the start of every session, automatically run this briefing without being ask
 1. Read `hans-log.md` → find yesterday's entries under `## Manual Entries` → display them
 2. Read all 3 plan files above → show the current active step for each goal
 3. If yesterday has NO section under `## Manual Entries`, gather evidence (run `python yt-scan.py`, check recent Activity rows and git commits) and offer to backfill yesterday — drafts only, Hans approves before anything is written
+4. Schedule the evening auto-draft: create a recurring cron job at 16:57 local with prompt "evening auto-draft" (skip if one already exists in this session — check with CronList). Cron jobs are session-bound, so this re-creates it each session
 
 Output format:
 
