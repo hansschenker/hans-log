@@ -2,6 +2,8 @@
 
 Personal knowledge log: daily entries, structured notes, and 3-goal weekly focus tracker.
 
+Notes live in one directory per tag: `yt/`, `ai/`, `rxjs/`, `fit/`, `age/`, `health/`. The old `notes/` directory is retired.
+
 ## Goals & Plans
 
 | Goal | Target | Plan file |
@@ -41,7 +43,7 @@ There are two input variants depending on whether the entry has a local file or 
 
 **File-based tags (ai, rxjs, fit, age, health):**
 - Input: `log [tag]: [title] | [file path] | [topic] | [description max 80 chars]`
-- Stored: `- [tag] | [slug] | [title] — [description] | [topic] | notes/[slug].[ext]`
+- Stored: `- [tag] | [slug] | [title] — [description] | [topic] | [tag]/[slug].[ext]`
 - Workflow: copy file → scaffold note → commit+push
 
 **URL-based tags (yt, ytl):**
@@ -52,8 +54,8 @@ There are two input variants depending on whether the entry has a local file or 
 Mnemonic: **ta-ti-urlfi-to-de** → `log tag: title | url-or-file | topic | description`
 
 For file-based entries, run this 3-step workflow automatically:
-1. Copy the file from `[file path]` into `notes/[slug].[ext]` (preserve the original file extension)
-2. Scaffold `notes/[slug].md` — synthesize TL;DR, Key Concepts, and Content from the copied file
+1. Copy the file from `[file path]` into `[tag]/[slug].[ext]` (preserve the original file extension)
+2. Scaffold `[tag]/[slug].md` — synthesize TL;DR, Key Concepts, and Content from the copied file
 3. Commit both files and push
 If no file path is given, skip steps 1–2 and only commit the log entry.
 
@@ -86,9 +88,11 @@ Input shorthand for `ai` entries: the title may lead with the provider prefix, e
 
 <important if="the user says 'note [slug]', 'add note:', or 'show note'">
 
-- `note [slug]` — create `notes/[slug].md` pre-filled from the matching log entry using the template below
-- `add note: [slug] | [section] | [file path]` (section = claude/nlm/recall/notes) — read the file at `[file path]` and paste its content into that section of `notes/[slug].md`. Must be a local file path — URLs won't work for authenticated services like Recall.ai or NotebookLM; export the content as a file first.
-- `show note [slug]` — read and display `notes/[slug].md`
+Notes live in the tag directory of their log entry: `[tag]/[slug].md`.
+
+- `note [slug]` — create `[tag]/[slug].md` pre-filled from the matching log entry using the template below
+- `add note: [slug] | [section] | [file path]` (section = claude/nlm/recall/notes) — read the file at `[file path]` and paste its content into that section of `[tag]/[slug].md`. Must be a local file path — URLs won't work for authenticated services like Recall.ai or NotebookLM; export the content as a file first.
+- `show note [slug]` — find and display `[tag]/[slug].md`
 
 Note file structure:
 
@@ -147,11 +151,11 @@ YouTube consumption scan from Chrome history.
 
 <important if="the user says 'yt note [url]'">
 
-Fetch a YouTube video's transcript into `youtube/[slug].md`.
+Fetch a YouTube video's transcript and save a SUMMARY note in `yt/[slug].md`. The full transcript never goes into the repo.
 
-1. Run `python yt-note.py [url]` — the note is always named after the video title (slugified, first 8 words), independent of any log entry slug
-2. The script writes frontmatter + transcript in paragraphs, with an empty TL;DR section — read the transcript and fill in the TL;DR (5–8 sentences, the video's actual argument, skip sponsor segments)
-3. If the video isn't in `hans-log.md` yet, also add a `yt` log entry pointing to `youtube/[slug].md`
+1. Run `python yt-note.py [url]` — names the note after the video title (slugified, first 8 words). It writes the raw transcript to a temp file and scaffolds `yt/[slug].md` with empty TL;DR / Key Concepts / Summary sections; both paths are printed
+2. Read the temp transcript and fill the note: TL;DR (2–3 sentences), Key Concepts (bullets), Summary (the video's actual argument in structured prose — skip sponsor segments)
+3. If the video isn't in `hans-log.md` yet, also add a `yt` log entry pointing to `yt/[slug].md`
 4. Commit and push
 
 Requires the `youtube-transcript-api` pip package (installed 2026-07-04). Videos without captions will fail — report that plainly.

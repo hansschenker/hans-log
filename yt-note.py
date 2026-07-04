@@ -1,21 +1,24 @@
 #!/usr/bin/env python3
-"""yt-note: fetch a YouTube video's transcript and save it as a note in youtube/.
+"""yt-note: fetch a YouTube transcript and scaffold a SUMMARY note in yt/.
+
+The full transcript is written to a temp file only (never into the repo).
+The note yt/<slug>.md gets frontmatter plus empty TL;DR / Key Concepts /
+Summary sections, to be filled by Claude from the temp transcript.
 
 Usage:
     python yt-note.py <youtube-url> [slug]
 
-Pulls title/channel via YouTube oEmbed (no API key) and the caption track via
-youtube-transcript-api, then writes youtube/<slug>.md with frontmatter and the
-transcript in readable paragraphs. Slug defaults to a slugified title.
+Title/channel come from YouTube oEmbed, with a watch-page scrape as fallback
+for embedding-disabled videos. Slug defaults to the slugified title.
 """
-import os, sys, re, json, datetime, urllib.request
+import os, sys, re, json, datetime, tempfile, urllib.request
 from urllib.parse import urlparse, parse_qs
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-OUT_DIR = os.path.join(SCRIPT_DIR, "youtube")
-PARA_CHARS = 700  # start a new paragraph after roughly this many characters
+OUT_DIR = os.path.join(SCRIPT_DIR, "yt")
+PARA_CHARS = 700  # paragraph size in the temp transcript
 
 def video_id(url):
     u = urlparse(url)
@@ -102,13 +105,18 @@ def main():
     paras = paragraphs(snippets)
     words = sum(len(p.split()) for p in paras)
 
+    # transcript -> temp only, never the repo
+    tpath = os.path.join(tempfile.gettempdir(), "yt-transcript-%s.txt" % vid)
+    with open(tpath, "w", encoding="utf-8") as f:
+        f.write("\n\n".join(paras) + "\n")
+
     os.makedirs(OUT_DIR, exist_ok=True)
-    path = os.path.join(OUT_DIR, slug + ".md")
-    if os.path.exists(path):
-        print("WARN: overwriting existing", path)
+    npath = os.path.join(OUT_DIR, slug + ".md")
+    if os.path.exists(npath):
+        print("WARN: overwriting existing", npath)
 
     today = datetime.date.today().isoformat()
-    with open(path, "w", encoding="utf-8") as f:
+    with open(npath, "w", encoding="utf-8") as f:
         f.write("---\n")
         f.write("slug: %s\n" % slug)
         f.write("title: %s\n" % (title or "(unknown)"))
@@ -116,16 +124,17 @@ def main():
         f.write("date: %s\n" % today)
         f.write("videoId: %s\n" % vid)
         f.write("url: https://www.youtube.com/watch?v=%s\n" % vid)
-        f.write("type: transcript\n")
+        f.write("type: summary\n")
         if lang:
             f.write("language: %s\n" % lang)
         f.write("---\n\n# %s\n\n" % (title or vid))
         f.write("## TL;DR\n\n_(to be filled)_\n\n")
-        f.write("## Transcript\n\n")
-        f.write("\n\n".join(paras) + "\n")
+        f.write("## Key Concepts\n\n_(to be filled)_\n\n")
+        f.write("## Summary\n\n_(to be filled)_\n")
 
-    print("saved: youtube/%s.md (%d words, %d paragraphs)" % (slug, words, len(paras)))
-    print("title: %s | channel: %s" % (title, author))
+    print("note      : yt/%s.md (scaffold)" % slug)
+    print("transcript: %s (%d words, %d paragraphs — temp, not committed)" % (tpath, words, len(paras)))
+    print("title     : %s | channel: %s" % (title, author))
 
 if __name__ == "__main__":
     main()
