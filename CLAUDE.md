@@ -80,6 +80,8 @@ log ytl: RxJS Operators Playlist | https://www.youtube.com/playlist?list=PLxxxxx
 Stored as: `- ytl | ytl-rxjs-operators | RxJS Operators Playlist — curated list of RxJS operator deep dives | RxJS | https://www.youtube.com/playlist?list=PLxxxxx`
 
 For `ai` entries, start the slug with the provider prefix: `ai-claude-[topic]`, `ai-google-[topic]`, `ai-openai-[topic]`. The `gai` and `claude` tags are retired — use `ai` with the `ai-google-` / `ai-claude-` slug prefix instead.
+
+Input shorthand for `ai` entries: the title may lead with the provider prefix, e.g. `log ai: ai-claude Agentic RAG | ...` → slug `ai-claude-agentic-rag`, stored title "Agentic RAG" (prefix moves into the slug, stripped from the title). If no prefix is given, infer the provider from context.
 </important>
 
 <important if="the user says 'note [slug]', 'add note:', or 'show note'">
