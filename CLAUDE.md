@@ -113,25 +113,19 @@ End-of-day log. Capture today's work across all tags in one shot. Entries are ta
 Steps:
 1. Read `hans-log.md` — note if today's date section already exists and what's already there
 2. Read all 3 plan files (davos-trail, claude-mastery, rxjs-course) — use each current active step as the hint on its tag line
-3. Show the user this prompt, one line per tag, and wait for their free-form replies:
+3. Show the user this compact prompt and wait for their free-form replies. Do NOT print one line per tag — the user only reports what actually happened:
 
 ```
 End of day — [date]. What did you do today?
-
-fit    (running/strength):   [hint: current davos-trail session, e.g. "Sun trail 30k 1000m"]
-ai     (AI work):            [hint: current claude-mastery step, e.g. "Phase 1 lectures 031-045"]
-rxjs   (RxJS):               [hint: current rxjs-course task, e.g. "Module 1 History draft"]
-age    (aging/longevity):
-health (lifestyle/food):
-yt     (videos watched):     [title | url]
-ytl    (playlists created):  [title | url]
+One line per activity: [tag]: [what happened]   (tags: fit, ai, rxjs, age, health, yt, ytl)
+Plan context: fit [current session] · ai [current step] · rxjs [current task]
 ```
 
-4. For each line the user filled in, create a log entry with that tag (`ai` entries get the provider slug prefix, e.g. `ai-claude-`)
+4. For each line the user replies with, create a log entry with that tag (`ai` entries get the provider slug prefix, e.g. `ai-claude-`)
 5. Add all entries under today's date section in `## Manual Entries` (create `### YYYY-MM-DD Weekday` if it doesn't exist yet; append if it does)
 6. Commit all changes and push
 
-Skip any tag the user left blank. Use the plan file's current step wording to fill in slug and topic if the user was brief.
+Only tags the user mentions become entries — most days won't cover all tags. Use the plan file's current step wording to fill in slug and topic if the user was brief.
 </important>
 
 <important if="the user says 'show last N entries', 'show last N [tag] entries', or 'push it'">
