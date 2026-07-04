@@ -48,6 +48,7 @@ python log-link.py <url> <description>
 - ai | ai-claude-rag-architecture | Learn RAG Architecture — chunking strategies: fixed-size, semantic, hierarchical small-to-big | RAG | notes/ai-claude-rag-architecture.md
 - yt | rag-architecture-ai-engineer | The RAG Architecture Every AI Engineer Needs to Know — RAG pipeline end to end; pairs with ai-claude-rag-architecture | RAG | https://www.youtube.com/watch?v=KhLJ7CbJZqU
 - ytl | ytl-llm-agentic-ai-zero-to-consultant | LLM & Agentic AI: From Zero to Consultant — curated path from LLM foundations to agentic AI practice | Agentic AI | https://www.youtube.com/playlist?list=PLr03p0fNnSPcwrgAEOjXafrkDHwKSrg86
+- yt | stanford-cme295-transformers-llms-lecture-2 | Stanford CME295 Transformers & LLMs Lecture 2 — RoPE, RMSNorm, MQA/GQA, T5 vs BERT vs decoder-only | Transformers/LLM | https://www.youtube.com/watch?v=yT84Y5zCnaA | transcript: youtube/stanford-cme295-transformers-llms-autumn-2025-lecture-2.md
 
 ### 2026-07-03 Thu
 - fit | walk-run-walk | walk-run-walk — 32k 6h05min 1200m elevation, 1hr heavy rain thunder and lightning | trailrun training
