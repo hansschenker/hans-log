@@ -1,5 +1,5 @@
 ---
-slug: rag-architecture-ai-engineer
+slug: rag-explained-in-14-minutes-10-rag-patterns
 title: RAG Explained in 14 Minutes | 10 RAG Patterns Every AI Engineer Must Know (2026)
 channel: The Cloud Girl
 date: 2026-07-04

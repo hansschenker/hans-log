@@ -149,7 +149,7 @@ YouTube consumption scan from Chrome history.
 
 Fetch a YouTube video's transcript into `youtube/[slug].md`.
 
-1. If the video is already logged in `hans-log.md`, reuse that entry's slug: `python yt-note.py [url] [slug]`. Otherwise run `python yt-note.py [url]` (slug derived from title)
+1. Run `python yt-note.py [url]` — the note is always named after the video title (slugified, first 8 words), independent of any log entry slug
 2. The script writes frontmatter + transcript in paragraphs, with an empty TL;DR section — read the transcript and fill in the TL;DR (5–8 sentences, the video's actual argument, skip sponsor segments)
 3. If the video isn't in `hans-log.md` yet, also add a `yt` log entry pointing to `youtube/[slug].md`
 4. Commit and push
