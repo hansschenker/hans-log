@@ -39,8 +39,22 @@ def fetch_meta(vid):
                 + vid + "&format=json", timeout=15) as r:
             oe = json.load(r)
         return oe.get("title", ""), oe.get("author_name", "")
+    except Exception:
+        pass
+    # oEmbed fails for embedding-disabled videos; scrape the watch page instead
+    try:
+        import html as htmllib
+        req = urllib.request.Request(
+            "https://www.youtube.com/watch?v=" + vid,
+            headers={"User-Agent": "Mozilla/5.0"})
+        page = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "replace")
+        t = re.search(r"<title>(.*?)</title>", page)
+        a = re.search(r'"author":"(.*?)"', page)
+        title = htmllib.unescape(t.group(1)) if t else ""
+        title = re.sub(r"\s*-\s*YouTube$", "", title).strip()
+        return title, htmllib.unescape(a.group(1)) if a else ""
     except Exception as e:
-        print("WARN: oEmbed failed (%s), continuing without title" % e)
+        print("WARN: could not fetch title (%s), continuing without" % e)
         return "", ""
 
 def fetch_transcript(vid):
