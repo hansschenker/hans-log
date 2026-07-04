@@ -108,33 +108,30 @@ Sections in order:
 
 <important if="the user says 'log eod'">
 
-End-of-day log. Capture today's work across all 3 goals in one shot.
+End-of-day log. Capture today's work across all tags in one shot. Entries are tag-driven, not goal-driven — the 3 goal plans only provide hints for the fit/ai/rxjs lines; any tag can be logged whether or not it relates to a goal.
 
 Steps:
 1. Read `hans-log.md` — note if today's date section already exists and what's already there
-2. Read all 3 plan files (davos-trail, claude-mastery, rxjs-course) — get the current active step for each goal as context for what was planned today
-3. Show the user this prompt and wait for their free-form replies:
+2. Read all 3 plan files (davos-trail, claude-mastery, rxjs-course) — use each current active step as the hint on its tag line
+3. Show the user this prompt, one line per tag, and wait for their free-form replies:
 
 ```
 End of day — [date]. What did you do today?
 
-sport (davos-trail):   [current planned session — e.g. "Wed trail 25k 1000m"]
-claude (mastery):      [current phase/lessons — e.g. "Phase 1 lectures 31-45"]
-rxjs (course):         [current module/task — e.g. "Module 2 creation operators"]
-other (yt, ai, etc.):  
+fit    (running/strength):   [hint: current davos-trail session, e.g. "Sun trail 30k 1000m"]
+ai     (AI work):            [hint: current claude-mastery step, e.g. "Phase 1 lectures 031-045"]
+rxjs   (RxJS):               [hint: current rxjs-course task, e.g. "Module 1 History draft"]
+age    (aging/longevity):
+health (lifestyle/food):
+yt     (videos watched):     [title | url]
+ytl    (playlists created):  [title | url]
 ```
 
-4. For each goal/area the user filled in, create a log entry with the matching tag:
-   - sport → `fit` tag
-   - claude → `ai` tag with `ai-claude-` slug prefix
-   - rxjs → `rxjs` tag
-   - YouTube videos → `yt` tag (title | url)
-   - YouTube playlists → `ytl` tag (title | url)
-   - Other AI tools → `ai` tag with appropriate slug prefix
+4. For each line the user filled in, create a log entry with that tag (`ai` entries get the provider slug prefix, e.g. `ai-claude-`)
 5. Add all entries under today's date section in `## Manual Entries` (create `### YYYY-MM-DD Weekday` if it doesn't exist yet; append if it does)
 6. Commit all changes and push
 
-Skip any goal/area the user left blank. Use the plan file's current step wording to fill in the slug and topic if the user was brief.
+Skip any tag the user left blank. Use the plan file's current step wording to fill in slug and topic if the user was brief.
 </important>
 
 <important if="the user says 'show last N entries', 'show last N [tag] entries', or 'push it'">
