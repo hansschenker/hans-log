@@ -18,6 +18,7 @@ At the start of every session, automatically run this briefing without being ask
 
 1. Read `hans-log.md` → find yesterday's entries under `## Manual Entries` → display them
 2. Read all 3 plan files above → show the current active step for each goal
+3. If yesterday has NO section under `## Manual Entries`, gather evidence (run `python yt-scan.py`, check recent Activity rows and git commits) and offer to backfill yesterday — drafts only, Hans approves before anything is written
 
 Output format:
 
@@ -137,6 +138,16 @@ Only tags the user mentions become entries — most days won't cover all tags. U
 - `show last N entries` — display N most recent entries from `## Manual Entries` in `hans-log.md` as a table: #, Date, Tag, Entry
 - `show last N [tag] entries` — same, filtered by that tag
 - `push it` — run `git push` on the hans-log repo
+</important>
+
+<important if="the user or a scheduled task says 'evening auto-draft' or 'draft eod'">
+
+Daily at ~17:00 a scheduled task triggers this. Draft today's log entries from evidence, then ask — never log without approval.
+
+1. Run `python yt-scan.py` → `yt`/`ytl` candidates from Chrome history
+2. Read today's Activity rows in `hans-log.md` (tracker) and `git log --since=midnight --oneline` in this repo; read the 3 plan files for context on what was planned
+3. Draft one entry per tag with evidence, in stored format, shown as a numbered list. Note what's already logged today
+4. Ask: "Log these? (all / numbers / corrections)" and wait. On approval: add the entries under today's section, run `python yt-scan.py --mark`, commit and push
 </important>
 
 <important if="the user says 'scan yt'">
