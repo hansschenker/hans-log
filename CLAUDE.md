@@ -39,7 +39,7 @@ Add the entry to `hans-log.md` under `## Manual Entries` (newest day first), the
 
 There are two input variants depending on whether the entry has a local file or a URL:
 
-**File-based tags (ai, rxjs, fit):**
+**File-based tags (ai, rxjs, fit, age, health):**
 - Input: `log [tag]: [title] | [file path] | [topic] | [description max 80 chars]`
 - Stored: `- [tag] | [slug] | [title] — [description] | [topic] | notes/[slug].[ext]`
 - Workflow: copy file → scaffold note → commit+push
@@ -62,6 +62,8 @@ If no file path is given, skip steps 1–2 and only commit the log entry.
 | `ai` | All AI work (Claude, Google, OpenAI) | `ai-claude-`, `ai-google-`, `ai-openai-` | file |
 | `rxjs` | RxJS course work | — | file |
 | `fit` | Running/strength | — | file |
+| `age` | Healthy aging, longevity | — | file |
+| `health` | Healthy lifestyle, food | — | file |
 
 **`yt` example:**
 ```
