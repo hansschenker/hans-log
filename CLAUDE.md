@@ -144,3 +144,15 @@ YouTube consumption scan from Chrome history.
 3. Create the entries for the picks under today's date (title + URL from the scan; synthesize topic/description, ask only if unclear). Playlists in history are merely *visited* — confirm which ones the user actually created before tagging `ytl`
 4. Run `python yt-scan.py --mark` to advance the cursor, then commit and push
 </important>
+
+<important if="the user says 'yt note [url]'">
+
+Fetch a YouTube video's transcript into `youtube/[slug].md`.
+
+1. If the video is already logged in `hans-log.md`, reuse that entry's slug: `python yt-note.py [url] [slug]`. Otherwise run `python yt-note.py [url]` (slug derived from title)
+2. The script writes frontmatter + transcript in paragraphs, with an empty TL;DR section — read the transcript and fill in the TL;DR (5–8 sentences, the video's actual argument, skip sponsor segments)
+3. If the video isn't in `hans-log.md` yet, also add a `yt` log entry pointing to `youtube/[slug].md`
+4. Commit and push
+
+Requires the `youtube-transcript-api` pip package (installed 2026-07-04). Videos without captions will fail — report that plainly.
+</important>
