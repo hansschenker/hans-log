@@ -51,6 +51,7 @@ python log-link.py <url> <description>
 - yt | stanford-cme295-transformers-llms-lecture-2 | Stanford CME295 Transformers & LLMs Lecture 2 — RoPE, RMSNorm, MQA/GQA, T5 vs BERT vs decoder-only | Transformers/LLM | https://www.youtube.com/watch?v=yT84Y5zCnaA | summary: yt/stanford-cme295-transformers-llms-autumn-2025-lecture-2.md
 - ai | ai-claude-hans-log-tooling | Hans-log tooling day with Claude Code — tag rework, yt-scan + yt-note tools, tag dirs, auto-draft routine | Claude Code | https://github.com/hansschenker/hans-log
 - yt | multimodal-rag-with-docling | Multi-modal RAG with Docling — PDF images captioned via LLM into enriched text, Milvus + LangGraph agent | RAG/Docling | https://www.youtube.com/watch?v=Uky2eJ25oHY | summary: yt/multimodal-rag-with-docling-from-pdf-to-agentic.md
+- yt | import-everything-rag-docling-llamaparse | Import EVERYTHING Into Your RAG Agent — 95+ formats to markdown: LlamaParse vs Docling vs Mistral OCR | RAG ingestion | https://www.youtube.com/watch?v=eHw_6jhK8AM | summary: yt/import-everything-into-your-rag-agent-docling-llamaparse.md
 
 ### 2026-07-03 Thu
 - fit | walk-run-walk | walk-run-walk — 32k 6h05min 1200m elevation, 1hr heavy rain thunder and lightning | trailrun training
