@@ -140,3 +140,13 @@ Skip any tag the user left blank. Use the plan file's current step wording to fi
 - `show last N [tag] entries` — same, filtered by that tag
 - `push it` — run `git push` on the hans-log repo
 </important>
+
+<important if="the user says 'scan yt'">
+
+YouTube consumption scan from Chrome history.
+
+1. Run `python yt-scan.py` (`--days N` if the user names a window). It lists videos (→ `yt`) and playlists (→ `ytl`) visited since the last mark, skipping anything already in `hans-log.md`
+2. Show the candidates as two numbered tables; the user picks by number which to log
+3. Create the entries for the picks under today's date (title + URL from the scan; synthesize topic/description, ask only if unclear). Playlists in history are merely *visited* — confirm which ones the user actually created before tagging `ytl`
+4. Run `python yt-scan.py --mark` to advance the cursor, then commit and push
+</important>
