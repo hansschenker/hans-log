@@ -49,6 +49,8 @@ There are two input variants depending on whether the entry has a local file or 
 - Stored: `- [tag] | [slug] | [title] — [description] | [topic] | [url]`
 - Workflow: write log entry → commit+push (no file to copy; URL is stored inline)
 
+Mnemonic: **ta-ti-urlfi-to-de** → `log tag: title | url-or-file | topic | description`
+
 For file-based entries, run this 3-step workflow automatically:
 1. Copy the file from `[file path]` into `notes/[slug].[ext]` (preserve the original file extension)
 2. Scaffold `notes/[slug].md` — synthesize TL;DR, Key Concepts, and Content from the copied file
