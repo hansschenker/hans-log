@@ -1,0 +1,11 @@
+In RAG (Retrieval-Augmented Generation) systems, chunking is the process of breaking down raw documents into smaller, manageable pieces during the ingestion phase. Choosing the right chunking strategy is critical for moving from simple prototypes to production-ready systems.
+
+
+### Common Chunking Strategies
+- **Fixed-size Chunking**: The simplest approach, where text is split based on a specific token or character count.
+- **Semantic Chunking**: Splits text based on logical topic shifts rather than length, ensuring each chunk contains a coherent thought or topic.
+- **Hierarchical (Small-to-Big) Chunking**: Stores precise, granular chunks that are linked to larger "parent" contexts. When a small chunk is retrieved, the system can pull in the broader context to help the LLM better understand the information.
+
+### Why Chunking Strategy Matters
+Engineers must carefully define the content flow because the way data is chunked directly impacts the quality of semantic search and the accuracy of the final generated response. Proper chunking helps avoid issues where models struggle with too much irrelevant context or lose the meaning of information due to arbitrary splits.
+
