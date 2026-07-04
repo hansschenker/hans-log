@@ -46,6 +46,8 @@ python log-link.py <url> <description>
 
 ### 2026-07-04 Fri
 - ai | ai-claude-rag-architecture | Learn RAG Architecture — chunking strategies: fixed-size, semantic, hierarchical small-to-big | RAG | notes/ai-claude-rag-architecture.md
+- yt | rag-architecture-ai-engineer | The RAG Architecture Every AI Engineer Needs to Know — RAG pipeline end to end; pairs with ai-claude-rag-architecture | RAG | https://www.youtube.com/watch?v=KhLJ7CbJZqU
+- ytl | ytl-llm-agentic-ai-zero-to-consultant | LLM & Agentic AI: From Zero to Consultant — curated path from LLM foundations to agentic AI practice | Agentic AI | https://www.youtube.com/playlist?list=PLr03p0fNnSPcwrgAEOjXafrkDHwKSrg86
 
 ### 2026-07-03 Thu
 - fit | walk-run-walk | walk-run-walk — 32k 6h05min 1200m elevation, 1hr heavy rain thunder and lightning | trailrun training
@@ -933,3 +935,6 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-03T15:11:17Z | file |  | `Docling\docling paranas NotebookLM Mind Map.png` |
 | 2026-07-03T15:11:17Z | file |  | `Docling\docling sdk NotebookLM Mind Map.png` |
 | 2026-07-03T15:11:17Z | file |  | `Docling\docling-engineering-handbook-architecture-extensib-2026-07-03.md` |
+| 2026-07-04T15:10:57Z | file | ai | `AI-Reasoning\build-reasoning-model-scratch-video.part1.rar` |
+| 2026-07-04T15:10:57Z | file | ai | `AI-Reasoning\code.zip` |
+| 2026-07-04T15:10:57Z | file |  | `Docling\docling siemens talk NotebookLM Mind Map.png` |
