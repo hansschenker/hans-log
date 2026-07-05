@@ -46,7 +46,7 @@ python log-link.py <url> <description>
 
 ### 2026-07-05 Sat
 - fit | run-walk-30k-1000m | run-walk-30k-1000m — run 30k 1000m elevation 6hrs 12mins, nice long run with sunrise | trailrun training
-- yt | rag-vs-agentic-ai-llm-data | RAG vs Agentic AI: How LLMs Connect Data for Smarter AI — when retrieval beats agents and vice versa | RAG/Agentic AI | https://www.youtube.com/watch?v=fB2JQXEH_94
+- yt | rag-vs-agentic-ai-llm-data | RAG vs Agentic AI: How LLMs Connect Data for Smarter AI — when retrieval beats agents and vice versa | RAG/Agentic AI | https://www.youtube.com/watch?v=fB2JQXEH_94 | summary: yt/rag-vs-agentic-ai-how-llms-connect-data.md
 - yt | every-rag-strategy-13-minutes | Every RAG Strategy Explained in 13 Minutes — compact no-fluff tour of RAG strategy options | RAG | https://www.youtube.com/watch?v=tLMViADvSNE | summary: yt/every-rag-strategy-explained-in-13-minutes-no.md
 - yt | ai-engineering-10-concepts | AI Engineering was HARD until I Learned these 10 Concepts — core AI engineering mental models | AI Engineering | https://www.youtube.com/watch?v=-qC_1A_WZbs | summary: yt/ai-engineering-was-hard-until-i-learned-these.md
 - ai | ai-claude-auto-draft-3x-daily | Auto-draft rework — hans-log auto-draft moved from 17:00 single draft to 3x daily checks 09/12/15 | Claude Code | https://github.com/hansschenker/hans-log
