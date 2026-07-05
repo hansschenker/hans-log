@@ -51,6 +51,7 @@ python log-link.py <url> <description>
 - yt | ai-engineering-10-concepts | AI Engineering was HARD until I Learned these 10 Concepts — core AI engineering mental models | AI Engineering | https://www.youtube.com/watch?v=-qC_1A_WZbs | summary: yt/ai-engineering-was-hard-until-i-learned-these.md
 - ai | ai-claude-auto-draft-3x-daily | Auto-draft rework — hans-log auto-draft moved from 17:00 single draft to 3x daily checks 09/12/15 | Claude Code | https://github.com/hansschenker/hans-log
 - yt | day-with-anthropic-engineers-workflow | I Spent a Day With Anthropic Engineers — no secret workflow: plan light, verify where users meet the change, review loops | Claude Code | https://www.youtube.com/watch?v=hMgB1bjkI7o | summary: yt/i-spent-a-day-with-anthropic-engineers-heres.md
+- yt | github-claude-skills-ai-employees | 3 FREE AI Employees via GitHub Claude Skills — LLM council, last-30-days sentiment scan, virtual dev team | Claude Skills | https://www.youtube.com/watch?v=cBgT0PG4JkM | summary: yt/160000-cloned-these-3-free-ai-employees-heres.md
 
 ### 2026-07-04 Fri
 - ai | ai-claude-rag-architecture | Learn RAG Architecture — chunking strategies: fixed-size, semantic, hierarchical small-to-big | RAG | ai/ai-claude-rag-architecture.md
