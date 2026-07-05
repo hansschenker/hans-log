@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-05 Sat
+- fit | run-walk-30k-1000m | run-walk-30k-1000m — run 30k 1000m elevation 6hrs 12mins, nice long run with sunrise | trailrun training
+
 ### 2026-07-04 Fri
 - ai | ai-claude-rag-architecture | Learn RAG Architecture — chunking strategies: fixed-size, semantic, hierarchical small-to-big | RAG | ai/ai-claude-rag-architecture.md
 - yt | rag-architecture-ai-engineer | The RAG Architecture Every AI Engineer Needs to Know — RAG pipeline end to end; pairs with ai-claude-rag-architecture | RAG | https://www.youtube.com/watch?v=KhLJ7CbJZqU
