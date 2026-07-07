@@ -44,6 +44,14 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-07 Tue
+- yt | claude-fable-5-vs-opus-which-model | Claude Fable 5 vs Opus: Which AI Model Should You Use? — when to pick Fable 5 vs Opus for coding | Claude Models | https://www.youtube.com/watch?v=2XhM_8DlgnQ
+- yt | intent-driven-development-claude-fable5 | Intent-driven development with Claude Code & Fable 5 — spec/intent-first workflow driving Claude Code | Claude Code | https://www.youtube.com/watch?v=6ERUGFurDHY
+- yt | 12-concepts-ai-software-development | 12 Important Concepts In the Age of AI Software Development — mental models for AI-era dev | AI Engineering | https://www.youtube.com/watch?v=IJ-FAcYq_08
+- yt | rag-crash-course-for-beginners | RAG Crash Course for Beginners — end-to-end intro to retrieval-augmented generation | RAG | https://www.youtube.com/watch?v=swvzKSOEluc
+- yt | why-ai-tokens-are-so-expensive | Why AI Tokens are so Expensive (Computerphile) — token economics and why LLM inference costs add up | LLM internals | https://www.youtube.com/watch?v=-0HRzXk8vlk
+- yt | containers-dont-make-ai-agent-safe | Containers Don't Make Your AI Agent Safe — why container sandboxing isn't enough for agent safety | Agent security | https://www.youtube.com/watch?v=7Z7ID5BbZU4
+
 ### 2026-07-05 Sat
 - fit | run-walk-30k-1000m | run-walk-30k-1000m — run 30k 1000m elevation 6hrs 12mins, nice long run with sunrise | trailrun training
 - yt | rag-vs-agentic-ai-llm-data | RAG vs Agentic AI: How LLMs Connect Data for Smarter AI — when retrieval beats agents and vice versa | RAG/Agentic AI | https://www.youtube.com/watch?v=fB2JQXEH_94 | summary: yt/rag-vs-agentic-ai-how-llms-connect-data.md
