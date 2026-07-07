@@ -52,6 +52,9 @@ python log-link.py <url> <description>
 - yt | why-ai-tokens-are-so-expensive | Why AI Tokens are so Expensive (Computerphile) — token economics and why LLM inference costs add up | LLM internals | https://www.youtube.com/watch?v=-0HRzXk8vlk
 - yt | containers-dont-make-ai-agent-safe | Containers Don't Make Your AI Agent Safe — why container sandboxing isn't enough for agent safety | Agent security | https://www.youtube.com/watch?v=7Z7ID5BbZU4
 - yt | ai-engineering-explained-in-17-mins | AI Engineering Explained in 17 Minutes (Reganti) — LLM + Tools/Knowledge/Memory = agent; evals, multi-agent, AI Ops | AI Engineering | https://www.youtube.com/watch?v=L6TSmylZT2g | summary: yt/ai-engineering-explained-in-17-mins-the-ultimate.md
+- yt | claude-code-masterclass | Claude Code Masterclass — deep-dive walkthrough of Claude Code workflows and features | Claude Code | https://www.youtube.com/watch?v=9UdZhTnMrTA
+- yt | rag-agentic-design-42min-n8n-masterclass | 800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass) — condensed RAG + agentic design in n8n | RAG/Agentic | https://www.youtube.com/watch?v=HAFqyN7RExc
+- yt | google-agentic-engineering-masterclass | Google Just Dropped a Masterclass on Agentic Engineering — walkthrough of Google's agentic engineering guide | Agentic Engineering | https://www.youtube.com/watch?v=zbmuiaPuiNM
 
 ### 2026-07-06 Mon
 - ai | ai-openai-py-rag-starter | py-rag-starter — Python RAG starter (ChromaDB + OpenAI), following LLM Zoomcamp | RAG/Python | https://github.com/hansschenker/py-rag-starter
@@ -951,8 +954,8 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\intro OpenRAG Mindmap json.json` |
 | 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\openrag intro NotebookLM Mind Map.png` |
 | 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\openrag-intro.txt` |
-| 2026-07-03T09:11:53Z | file |  | `OpenRAG-NotebookLM-Clone-IBM-Bob\openrag-workflow.png` |
-| 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\Rxjs-LLM-Wiki-Claude\rxjs llm wiki claude NotebookLM Mind Map.png` |
+| 2026-0| 2026-07-07T10:12:36Z | repo |  | [rag-optimized](https://github.com/hansschenker/rag-optimized) (created 2026-07-07) |
+ | `Rxjs\Rxjs-LLM-Wiki-Claude\rxjs llm wiki claude NotebookLM Mind Map.png` |
 | 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\Rxjs-LLM-Wiki-Claude\rxjs-llm-wiki-claude.txt` |
 | 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\Rxjs-Observables\rxjs observable Engineering_Reactive_Streams.pptx` |
 | 2026-07-03T09:11:53Z | file | rxjs | `Rxjs\Rxjs-Observables\rxjs observables NotebookLM Mind Map.png` |
