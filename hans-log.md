@@ -45,7 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-07-07 Tue
-- yt | claude-fable-5-vs-opus-which-model | Claude Fable 5 vs Opus: Which AI Model Should You Use? — when to pick Fable 5 vs Opus for coding | Claude Models | https://www.youtube.com/watch?v=2XhM_8DlgnQ
+- yt | claude-fable-5-vs-opus-which-model | Claude Fable 5 vs Opus: Which AI Model Should You Use? — when to pick Fable 5 vs Opus for coding | Claude Models | https://www.youtube.com/watch?v=2XhM_8DlgnQ | summary: yt/claude-fable-5-is-back-should-you-still.md
 - yt | intent-driven-development-claude-fable5 | Intent-driven development with Claude Code & Fable 5 — spec/intent-first workflow driving Claude Code | Claude Code | https://www.youtube.com/watch?v=6ERUGFurDHY | summary: yt/intentdriven-development-with-claude-code-fable-5.md
 - yt | 12-concepts-ai-software-development | 12 Important Concepts In the Age of AI Software Development — mental models for AI-era dev | AI Engineering | https://www.youtube.com/watch?v=IJ-FAcYq_08
 - yt | rag-crash-course-for-beginners | RAG Crash Course for Beginners — end-to-end intro to retrieval-augmented generation | RAG | https://www.youtube.com/watch?v=swvzKSOEluc
