@@ -951,3 +951,4 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-04T15:10:57Z | file | ai | `AI-Reasoning\build-reasoning-model-scratch-video.part1.rar` |
 | 2026-07-04T15:10:57Z | file | ai | `AI-Reasoning\code.zip` |
 | 2026-07-04T15:10:57Z | file |  | `Docling\docling siemens talk NotebookLM Mind Map.png` |
+| 2026-07-06T09:11:39Z | repo |  | [py-rag-starter](https://github.com/hansschenker/py-rag-starter) (created 2026-07-06) |
