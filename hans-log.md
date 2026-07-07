@@ -51,6 +51,7 @@ python log-link.py <url> <description>
 - yt | rag-crash-course-for-beginners | RAG Crash Course for Beginners — end-to-end intro to retrieval-augmented generation | RAG | https://www.youtube.com/watch?v=swvzKSOEluc
 - yt | why-ai-tokens-are-so-expensive | Why AI Tokens are so Expensive (Computerphile) — token economics and why LLM inference costs add up | LLM internals | https://www.youtube.com/watch?v=-0HRzXk8vlk
 - yt | containers-dont-make-ai-agent-safe | Containers Don't Make Your AI Agent Safe — why container sandboxing isn't enough for agent safety | Agent security | https://www.youtube.com/watch?v=7Z7ID5BbZU4
+- yt | ai-engineering-explained-in-17-mins | AI Engineering Explained in 17 Minutes (Reganti) — LLM + Tools/Knowledge/Memory = agent; evals, multi-agent, AI Ops | AI Engineering | https://www.youtube.com/watch?v=L6TSmylZT2g | summary: yt/ai-engineering-explained-in-17-mins-the-ultimate.md
 
 ### 2026-07-06 Mon
 - ai | ai-openai-py-rag-starter | py-rag-starter — Python RAG starter (ChromaDB + OpenAI), following LLM Zoomcamp | RAG/Python | https://github.com/hansschenker/py-rag-starter
