@@ -55,6 +55,11 @@ python log-link.py <url> <description>
 - yt | claude-code-masterclass | Claude Code Masterclass — deep-dive walkthrough of Claude Code workflows and features | Claude Code | https://www.youtube.com/watch?v=9UdZhTnMrTA
 - yt | rag-agentic-design-42min-n8n-masterclass | 800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass) — condensed RAG + agentic design in n8n | RAG/Agentic | https://www.youtube.com/watch?v=HAFqyN7RExc
 - yt | google-agentic-engineering-masterclass | Google Just Dropped a Masterclass on Agentic Engineering — walkthrough of Google's agentic engineering guide | Agentic Engineering | https://www.youtube.com/watch?v=zbmuiaPuiNM | summary: yt/google-just-dropped-a-masterclass-on-agentic-engineering.md
+- yt | staltz-see-data-flowing-through-app | See the data flowing through your app (André Staltz, Full Stack Fest 2016) — visualize reactive data flow | RxJS/FRP | https://www.youtube.com/watch?v=R-GzJgEccEQ
+- yt | staltz-you-will-learn-rxjs-ng-europe | You will learn RxJS (André Staltz, ng-europe 2016) — RxJS fundamentals talk | RxJS | https://www.youtube.com/watch?v=uQ1zhJHclvs
+- yt | staltz-return-of-stream-io-goto | The Return of Stream I/O (André Staltz, GOTO 2016) — streams as a fundamental I/O abstraction | RxJS/FRP | https://www.youtube.com/watch?v=Tkjg179M-Nc
+- yt | staltz-two-fundamental-abstractions | Two Fundamental Abstractions (André Staltz, Uphill Conf 2018) — core reactive programming abstractions | RxJS/FRP | https://www.youtube.com/watch?v=fdol03pcvMA
+- yt | 5-claude-code-plugins-install-first | 5 Claude Code Plugins You Should Install First — recommended Claude Code plugins to install | Claude Code | https://www.youtube.com/watch?v=iOgOM6gXChw
 
 ### 2026-07-06 Mon
 - ai | ai-openai-py-rag-starter | py-rag-starter — Python RAG starter (ChromaDB + OpenAI), following LLM Zoomcamp | RAG/Python | https://github.com/hansschenker/py-rag-starter
