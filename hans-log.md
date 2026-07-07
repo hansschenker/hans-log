@@ -54,7 +54,7 @@ python log-link.py <url> <description>
 - yt | ai-engineering-explained-in-17-mins | AI Engineering Explained in 17 Minutes (Reganti) — LLM + Tools/Knowledge/Memory = agent; evals, multi-agent, AI Ops | AI Engineering | https://www.youtube.com/watch?v=L6TSmylZT2g | summary: yt/ai-engineering-explained-in-17-mins-the-ultimate.md
 - yt | claude-code-masterclass | Claude Code Masterclass — deep-dive walkthrough of Claude Code workflows and features | Claude Code | https://www.youtube.com/watch?v=9UdZhTnMrTA
 - yt | rag-agentic-design-42min-n8n-masterclass | 800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass) — condensed RAG + agentic design in n8n | RAG/Agentic | https://www.youtube.com/watch?v=HAFqyN7RExc
-- yt | google-agentic-engineering-masterclass | Google Just Dropped a Masterclass on Agentic Engineering — walkthrough of Google's agentic engineering guide | Agentic Engineering | https://www.youtube.com/watch?v=zbmuiaPuiNM
+- yt | google-agentic-engineering-masterclass | Google Just Dropped a Masterclass on Agentic Engineering — walkthrough of Google's agentic engineering guide | Agentic Engineering | https://www.youtube.com/watch?v=zbmuiaPuiNM | summary: yt/google-just-dropped-a-masterclass-on-agentic-engineering.md
 
 ### 2026-07-06 Mon
 - ai | ai-openai-py-rag-starter | py-rag-starter — Python RAG starter (ChromaDB + OpenAI), following LLM Zoomcamp | RAG/Python | https://github.com/hansschenker/py-rag-starter
