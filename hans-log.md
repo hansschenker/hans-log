@@ -52,6 +52,16 @@ python log-link.py <url> <description>
 - yt | why-ai-tokens-are-so-expensive | Why AI Tokens are so Expensive (Computerphile) — token economics and why LLM inference costs add up | LLM internals | https://www.youtube.com/watch?v=-0HRzXk8vlk
 - yt | containers-dont-make-ai-agent-safe | Containers Don't Make Your AI Agent Safe — why container sandboxing isn't enough for agent safety | Agent security | https://www.youtube.com/watch?v=7Z7ID5BbZU4
 
+### 2026-07-06 Mon
+- ai | ai-openai-py-rag-starter | py-rag-starter — Python RAG starter (ChromaDB + OpenAI), following LLM Zoomcamp | RAG/Python | https://github.com/hansschenker/py-rag-starter
+- yt | llm-zoomcamp-2026-course-launch | LLM Zoomcamp 2026 Course Launch (Grigorev) — free course launch on building LLM/RAG apps | LLM Zoomcamp | https://www.youtube.com/watch?v=7TuZTVwnmhk
+- yt | vector-databases-embeddings-semantic-hybrid | Vector Databases: Embeddings, Semantic Search & Hybrid Retrieval (Grigorev) — how vector DBs power retrieval | Vector DBs | https://www.youtube.com/watch?v=BC3NsRUNEIg
+- yt | build-your-first-rag-app-with-llms | Build Your First RAG Application with LLMs (Grigorev) — hands-on first RAG build | RAG | https://www.youtube.com/watch?v=KSItlTAsMsk
+- yt | build-a-rag-in-10-minutes-chromadb-openai | Build a RAG in 10 minutes (Python, ChromaDB, OpenAI) — minimal end-to-end RAG in Python | RAG/Python | https://www.youtube.com/watch?v=JfSmffOyV-8
+- yt | openai-structured-output-gpt4o | How to get structured output with OpenAI (gpt-4o) — structured/JSON outputs from the API | OpenAI API | https://www.youtube.com/watch?v=0lirLO0Nfl4
+- yt | streamlit-build-ai-web-apps-python | Streamlit Tutorial — Build AI Web Apps with ONLY Python — quick AI UIs in pure Python | Streamlit | https://www.youtube.com/watch?v=gYaxPHK9XL4
+- age | mitochondria-food-reverse-aging | This ONE FOOD Can Supercharge Mitochondria & Reverse Aging (Dr Leana) — diet for mitochondrial health | Longevity | https://www.youtube.com/watch?v=8_ZE8tswzfg
+
 ### 2026-07-05 Sat
 - fit | run-walk-30k-1000m | run-walk-30k-1000m — run 30k 1000m elevation 6hrs 12mins, nice long run with sunrise | trailrun training
 - yt | rag-vs-agentic-ai-llm-data | RAG vs Agentic AI: How LLMs Connect Data for Smarter AI — when retrieval beats agents and vice versa | RAG/Agentic AI | https://www.youtube.com/watch?v=fB2JQXEH_94 | summary: yt/rag-vs-agentic-ai-how-llms-connect-data.md
@@ -960,3 +970,4 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-04T15:10:57Z | file | ai | `AI-Reasoning\code.zip` |
 | 2026-07-04T15:10:57Z | file |  | `Docling\docling siemens talk NotebookLM Mind Map.png` |
 | 2026-07-06T09:11:39Z | repo |  | [py-rag-starter](https://github.com/hansschenker/py-rag-starter) (created 2026-07-06) |
+| 2026-07-07T06:10:41Z | repo |  | [anthropic-sdk-typescript](https://github.com/hansschenker/anthropic-sdk-typescript) (created 2026-07-06) |

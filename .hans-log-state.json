@@ -3,9 +3,10 @@
  "log_dir": "C:\\Users\\hanss\\hans-log",
  "github_user": "hansschenker",
  "created": "2026-06-20T03:27:54Z",
- "last_scan": "2026-07-04T15:10:57Z",
- "repo_baseline_time": "2026-07-03T10:59:10Z",
+ "last_scan": "2026-07-07T06:10:41Z",
+ "repo_baseline_time": "2026-07-06T15:06:37Z",
  "known_repos": [
+  "anthropic-sdk-typescript",
   "cloudflare-fullstack-template",
   "cloudflare-mono",
   "daily",
@@ -1368,5 +1369,5 @@
   "AI-Reasoning\\code.zip": 1783130532.0,
   "AI-Reasoning\\build-reasoning-model-scratch-video.part1.rar": 1783140714.0
  },
- "yt_scan_cursor": 13427651528672454
+ "yt_scan_cursor": 13427878401333032
 }
