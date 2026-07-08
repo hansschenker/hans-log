@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-08 Wed
+- fit | run-walk-17k-3hrs-600m | run-walk-17k-3hrs-600m — Had a hard time because of stiff legs | trail training for davos
+
 ### 2026-07-07 Tue
 - yt | claude-fable-5-vs-opus-which-model | Claude Fable 5 vs Opus: Which AI Model Should You Use? — when to pick Fable 5 vs Opus for coding | Claude Models | https://www.youtube.com/watch?v=2XhM_8DlgnQ | summary: yt/claude-fable-5-is-back-should-you-still.md
 - yt | intent-driven-development-claude-fable5 | Intent-driven development with Claude Code & Fable 5 — spec/intent-first workflow driving Claude Code | Claude Code | https://www.youtube.com/watch?v=6ERUGFurDHY | summary: yt/intentdriven-development-with-claude-code-fable-5.md
@@ -980,3 +983,5 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-04T15:10:57Z | file |  | `Docling\docling siemens talk NotebookLM Mind Map.png` |
 | 2026-07-06T09:11:39Z | repo |  | [py-rag-starter](https://github.com/hansschenker/py-rag-starter) (created 2026-07-06) |
 | 2026-07-07T06:10:41Z | repo |  | [anthropic-sdk-typescript](https://github.com/hansschenker/anthropic-sdk-typescript) (created 2026-07-06) |
+| 2026-07-08T07:10:48Z | repo | rxjs | [rxjs-agent](https://github.com/hansschenker/rxjs-agent) (created 2026-07-07) |
+| 2026-07-08T12:10:44Z | repo |  | [claude-project-starter-edge](https://github.com/hansschenker/claude-project-starter-edge) (created 2026-07-08) |
