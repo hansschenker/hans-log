@@ -3,10 +3,11 @@
  "log_dir": "C:\\Users\\hanss\\hans-log",
  "github_user": "hansschenker",
  "created": "2026-06-20T03:27:54Z",
- "last_scan": "2026-07-07T10:12:36Z",
- "repo_baseline_time": "2026-07-07T10:10:15Z",
+ "last_scan": "2026-07-08T12:10:44Z",
+ "repo_baseline_time": "2026-07-08T11:54:50Z",
  "known_repos": [
   "anthropic-sdk-typescript",
+  "claude-project-starter-edge",
   "cloudflare-fullstack-template",
   "cloudflare-mono",
   "daily",
@@ -19,6 +20,7 @@
   "netxpert-site",
   "pnpm-workspaces-demo",
   "rag-optimized",
+  "rxjs-agent",
   "rxjs-code-refactored",
   "rxjs-deep-dive-course",
   "rxjs-frp-supergrok",
@@ -1370,5 +1372,5 @@
   "AI-Reasoning\\code.zip": 1783130532.0,
   "AI-Reasoning\\build-reasoning-model-scratch-video.part1.rar": 1783140714.0
  },
- "yt_scan_cursor": 13427906536711400
+ "yt_scan_cursor": 13427996265273320
 }

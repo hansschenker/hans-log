@@ -48,6 +48,14 @@ python log-link.py <url> <description>
 - fit | run-walk-17k-3hrs-600m | run-walk-17k-3hrs-600m — Had a hard time because of stiff legs | trail training for davos
 - ai | ai-claude-agentic-rag-architecture | agentic rag architecture with claude — learn Agentic RAG | Agentic RAG | https://claude.ai/share/e7351b38-1232-4df8-9a22-e094a3571b43
 - yt | build-agentic-rag-with-claude-code | Build Agentic RAG With Claude Code — four-layer codebase RAG pipeline in Claude Code; ~10x less token burn | Agentic RAG | https://www.youtube.com/watch?v=j0D-i_O_cPw | summary: yt/build-agentic-rag-with-claude-code.md
+- yt | self-healing-ci-ai-monorepos-conf | Self-Healing CI (James Henry, AI ❤️ Monorepos Conf) — agents that auto-diagnose and fix failing CI in a monorepo | CI/Agentic | https://www.youtube.com/watch?v=kozGpPxgYUo
+- yt | karpathy-new-ai-workflow | Andrej Karpathy Just Revealed His New AI Workflow — Karpathy's latest AI-assisted coding workflow | AI Workflow | https://www.youtube.com/watch?v=eMVaGOsfYs8
+- yt | boris-cherny-method-build-10x-faster | Paste this into Claude to build 10x faster (Boris Cherny Method) — prompt method for faster Claude builds | Claude Code | https://www.youtube.com/watch?v=9nTG1B1No_E
+- yt | skill-10x-every-claude-output | This Skill Instantly 10x's Every Claude Output — a skill that lifts Claude output quality | Claude Skills | https://www.youtube.com/watch?v=d2XiTDzoizc
+- yt | anthropic-guide-better-claude-output | Anthropic Just Dropped a Guide for WAY Better Claude Output — Anthropic's guide to better output | Claude prompting | https://www.youtube.com/watch?v=pw79ro49CzU
+- yt | production-rag-langchain-vector-databases | Production RAG with LangChain & Vector Databases – Full Course — end-to-end production RAG build | RAG | https://www.youtube.com/watch?v=mHxLXzYjQRE
+- yt | rag-fundamentals-and-advanced-techniques | RAG Fundamentals and Advanced Techniques – Full Course — fundamentals through advanced RAG | RAG | https://www.youtube.com/watch?v=ea2W8IogX80
+- yt | rag-explained-complete-visual-guide | RAG Explained: A Complete Visual Guide — visual walkthrough of how RAG works | RAG | https://www.youtube.com/watch?v=ZMI_7flKxjA
 
 ### 2026-07-07 Tue
 - yt | claude-fable-5-vs-opus-which-model | Claude Fable 5 vs Opus: Which AI Model Should You Use? — when to pick Fable 5 vs Opus for coding | Claude Models | https://www.youtube.com/watch?v=2XhM_8DlgnQ | summary: yt/claude-fable-5-is-back-should-you-still.md
