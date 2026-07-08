@@ -53,7 +53,7 @@ python log-link.py <url> <description>
 - yt | boris-cherny-method-build-10x-faster | Paste this into Claude to build 10x faster (Boris Cherny Method) — prompt method for faster Claude builds | Claude Code | https://www.youtube.com/watch?v=9nTG1B1No_E
 - yt | skill-10x-every-claude-output | This Skill Instantly 10x's Every Claude Output — a skill that lifts Claude output quality | Claude Skills | https://www.youtube.com/watch?v=d2XiTDzoizc
 - yt | anthropic-guide-better-claude-output | Anthropic Just Dropped a Guide for WAY Better Claude Output — Anthropic's guide to better output | Claude prompting | https://www.youtube.com/watch?v=pw79ro49CzU
-- yt | production-rag-langchain-vector-databases | Production RAG with LangChain & Vector Databases – Full Course — end-to-end production RAG build | RAG | https://www.youtube.com/watch?v=mHxLXzYjQRE
+- yt | production-rag-langchain-vector-databases | Production RAG with LangChain & Vector Databases – Full Course — end-to-end production RAG build | RAG | https://www.youtube.com/watch?v=mHxLXzYjQRE | summary: yt/production-rag-with-langchain-vector-databases-full-course.md
 - yt | rag-fundamentals-and-advanced-techniques | RAG Fundamentals and Advanced Techniques – Full Course — fundamentals through advanced RAG | RAG | https://www.youtube.com/watch?v=ea2W8IogX80
 - yt | rag-explained-complete-visual-guide | RAG Explained: A Complete Visual Guide — visual walkthrough of how RAG works | RAG | https://www.youtube.com/watch?v=ZMI_7flKxjA
 
