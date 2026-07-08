@@ -40,3 +40,15 @@ Dumping raw code chunks into a plain vector database is an operational trap: vec
 **Layer 4 — sandboxed execution.** Claude Code uses a tool-calling architecture to run terminal commands directly in the repository, so the system needs absolute containment. Docker containers provide a secure sandbox for all agent operations: inside the container Claude writes scripts or queries, tests them against the retrieved context, and validates the output — becoming a development partner capable of independent verification and self-correction.
 
 **The benchmark.** The task: trace and patch a deprecated API endpoint across multiple legacy modules. A naive system relying only on vector search failed — it hallucinated file paths and exhausted its context window with terminal searches before finding the deprecated code. The same task through the optimized agentic RAG stack used the hybrid index to locate the logic, verified the patch inside the Docker sandbox, and generated the fix — a **10-fold reduction in token burn** versus the naive baseline. The takeaway: naive semantic search can't meet the deterministic requirements of software development; structural agentic orchestration makes retrieval of logic in complex repositories reliable.
+
+## Related
+
+**Docling ingestion (Layer 2)** — this video's parser, covered in depth:
+- [[docling-pdf-for-ai-rag]] — Docling: prepare PDF and other doc formats for AI and RAG
+- [[import-everything-into-your-rag-agent-docling-llamaparse]] — Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)
+- [[multimodal-rag-with-docling-from-pdf-to-agentic]] — Multi-modal RAG with Docling: From PDF to Agentic AI Chatbot
+
+**RAG strategy & patterns** — where naive vs. hybrid/agentic retrieval fits:
+- [[rag-vs-agentic-ai-how-llms-connect-data]] — RAG vs Agentic AI: when retrieval beats agents and vice versa
+- [[every-rag-strategy-explained-in-13-minutes-no]] — Every RAG Strategy Explained in 13 Minutes
+- [[rag-explained-in-14-minutes-10-rag-patterns]] — RAG Explained in 14 Minutes: 10 RAG Patterns
