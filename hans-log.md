@@ -47,6 +47,7 @@ python log-link.py <url> <description>
 ### 2026-07-08 Wed
 - fit | run-walk-17k-3hrs-600m | run-walk-17k-3hrs-600m — Had a hard time because of stiff legs | trail training for davos
 - ai | ai-claude-agentic-rag-architecture | agentic rag architecture with claude — learn Agentic RAG | Agentic RAG | https://claude.ai/share/e7351b38-1232-4df8-9a22-e094a3571b43
+- yt | build-agentic-rag-with-claude-code | Build Agentic RAG With Claude Code — four-layer codebase RAG pipeline in Claude Code; ~10x less token burn | Agentic RAG | https://www.youtube.com/watch?v=j0D-i_O_cPw | summary: yt/build-agentic-rag-with-claude-code.md
 
 ### 2026-07-07 Tue
 - yt | claude-fable-5-vs-opus-which-model | Claude Fable 5 vs Opus: Which AI Model Should You Use? — when to pick Fable 5 vs Opus for coding | Claude Models | https://www.youtube.com/watch?v=2XhM_8DlgnQ | summary: yt/claude-fable-5-is-back-should-you-still.md
