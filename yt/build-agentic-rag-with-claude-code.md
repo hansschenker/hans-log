@@ -44,11 +44,11 @@ Dumping raw code chunks into a plain vector database is an operational trap: vec
 ## Related
 
 **Docling ingestion (Layer 2)** — this video's parser, covered in depth:
-- [[docling-pdf-for-ai-rag]] — Docling: prepare PDF and other doc formats for AI and RAG
-- [[import-everything-into-your-rag-agent-docling-llamaparse]] — Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)
-- [[multimodal-rag-with-docling-from-pdf-to-agentic]] — Multi-modal RAG with Docling: From PDF to Agentic AI Chatbot
+- [Docling: prepare PDF and other doc formats for AI and RAG](./docling-pdf-for-ai-rag.md)
+- [Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)](./import-everything-into-your-rag-agent-docling-llamaparse.md)
+- [Multi-modal RAG with Docling: From PDF to Agentic AI Chatbot](./multimodal-rag-with-docling-from-pdf-to-agentic.md)
 
 **RAG strategy & patterns** — where naive vs. hybrid/agentic retrieval fits:
-- [[rag-vs-agentic-ai-how-llms-connect-data]] — RAG vs Agentic AI: when retrieval beats agents and vice versa
-- [[every-rag-strategy-explained-in-13-minutes-no]] — Every RAG Strategy Explained in 13 Minutes
-- [[rag-explained-in-14-minutes-10-rag-patterns]] — RAG Explained in 14 Minutes: 10 RAG Patterns
+- [RAG vs Agentic AI: when retrieval beats agents and vice versa](./rag-vs-agentic-ai-how-llms-connect-data.md)
+- [Every RAG Strategy Explained in 13 Minutes](./every-rag-strategy-explained-in-13-minutes-no.md)
+- [RAG Explained in 14 Minutes: 10 RAG Patterns](./rag-explained-in-14-minutes-10-rag-patterns.md)
