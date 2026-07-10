@@ -21,6 +21,101 @@ Visibility
 Role
 Actions
 
+🕵️‍♂️
+RxJS Debugging via Memory Management and Chrome DevTools MCP
+1 Source Jul 9, 2026 Owner
+more_vert
+
+🏷️
+RxJS Semantic RAG: Controlled Vocabulary and Metadata Pipeline
+2 Sources Jul 9, 2026 Owner
+more_vert
+
+🚀
+Mastering Claude Code: The /init Command and CLAUDE.md Guide
+4 Sources Jul 8, 2026 Owner
+more_vert
+
+🔄
+The Reactive Stream Engine: RxJS Principles and Master Patterns
+1 Source Jul 7, 2026 Owner
+more_vert
+
+💡
+Mastering Claude Code: The Essential Developer's Guide
+1 Source Jul 7, 2026 Owner
+more_vert
+
+🚫
+Cloudflare Access Block and Security Protocol Report
+2 Sources Jul 7, 2026 Owner
+more_vert
+
+↔️
+The Duality of Pull and Push: Iterables vs Observables
+1 Source Jul 7, 2026 Owner
+more_vert
+
+🛠️
+Mastering Claude Code: Workflow Optimization and Advanced Automation Tactics
+1 Source Jul 7, 2026 Owner
+more_vert
+
+💰
+Claude Fable 5 Pricing and Access Guide (2026)
+1 Source Jul 7, 2026 Owner
+more_vert
+
+📜
+Anthropic TypeScript SDK Guide
+1 Source Jul 6, 2026 Owner
+more_vert
+
+⌨️
+From Tutorial Hell to Building AI with Python
+1 Source Jul 6, 2026 Owner
+more_vert
+
+🥦
+Implementing RAG for Florida Vegetable Gardening Systems
+4 Sources Jul 6, 2026 Owner
+more_vert
+
+📊
+Evidently AI: RAG Evaluation and Documentation Guide
+1 Source Jul 6, 2026 Owner
+more_vert
+
+🏗️
+Foundations of the Modern AI Engineering Stack
+1 Source Jul 5, 2026 Owner
+more_vert
+
+🏗️
+Foundations First: Mastering Models Before AI Agents
+1 Source Jul 5, 2026 Owner
+more_vert
+
+📚
+Mastering RAG: Architectural Patterns and Production Strategies for AI Engineers
+1 Source Jul 4, 2026 Owner
+more_vert
+
+🏛️
+The LLM Architecture Gallery: A Visual and Technical Encyclopedia
+1 Source Jul 4, 2026 Owner
+more_vert
+
+🦆
+Docling: The Evolution of Open-Source Document AI
+1 Source Jul 3, 2026 Owner
+more_vert
+
+🏗️
+Docling Project Technical Architecture and Documentation Guide
+6 Sources Jul 3, 2026 Owner
+more_vert
+
 🌊
 The Principles and Evolution of Functional Reactive Programming
 1 Source Jul 3, 2026 Owner
@@ -67,7 +162,7 @@ The Architect's Ledger: Building a Self-Improving RxJS Knowledge Base
 more_vert
 
 🌊
-The Architect’s Guide to Reactive Programming with RxJS
+The Architect's Guide to Reactive Programming with RxJS
 2 Sources Jun 30, 2026 Owner
 more_vert
 
@@ -1467,7 +1562,7 @@ The HONC Stack: Semantic Search with Hono and Neon
 more_vert
 
 👷
-Cloudflare Workers 101: A Beginner’s Guide to Serverless AI
+Cloudflare Workers 101: A Beginner's Guide to Serverless AI
 1 Source May 18, 2026 Owner
 more_vert
 
@@ -1777,7 +1872,7 @@ Void: The Full-Stack Vite Native Deployment Platform
 more_vert
 
 ⚛️
-VoidZero: Evan You’s Vision for a Unified JavaScript Toolchain
+VoidZero: Evan You's Vision for a Unified JavaScript Toolchain
 1 Source Jun 4, 2026 Owner
 more_vert
 
@@ -1895,3 +1990,9 @@ more_vert
 Tools for Thinking and Digital Actions
 1 Source Jun 11, 2026 Owner
 more_vert
+
+Tab Context:
+- Executed on tabId: 1467892368
+- Available tabs:
+  • tabId 1467892368: "NotebookLM" (https://notebooklm.google.com/)
+</content>

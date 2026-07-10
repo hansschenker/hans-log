@@ -46,6 +46,17 @@ python log-link.py <url> <description>
 
 ### 2026-07-10 Fri
 - cs | what-is-a-model | What Is a Model — Understand Model as a concept | Model is an Abstraction | cs/what-is-a-model.pdf
+- yt | visually-create-state-machines | Visually Create State Machines — build and visualize state machines with a visual editor | State Machines | https://www.youtube.com/watch?v=RYQ_HG7vVZw
+- yt | staltz-visualizing-data-flow-cyclejs | ReactiveConf 2016 — André Staltz: Visualizing the data flow with Cycle.js — visualize reactive dataflow in Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=3a98OPJWFPY
+- yt | staltz-cyclejs-functional-reactive-uis | Cycle.js and functional reactive user interfaces (André Staltz, Reactive 2015) — FRP user interfaces with Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=uNZnftSksYg
+- yt | alfoni-state-ui-and-stuff-in-between | State, UI and the stuff in between (Christian Alfoni, Reactive 2015) — managing state between UI and app logic | State management | https://www.youtube.com/watch?v=MnFV6wEqKFE
+- yt | feldman-effects-as-data | Effects as Data (Richard Feldman, Reactive 2015) — modeling side effects as data, the Elm architecture | FP/Elm | https://www.youtube.com/watch?v=6EdXaWfoslc
+- yt | rxdb-in-100-seconds | RxDB in 100 Seconds — quick intro to the RxDB reactive local database | RxDB | https://www.youtube.com/watch?v=tj7AaDDHv2g
+- yt | easiest-way-to-store-data | The Easiest Way to Store Data — simplest way to persist data in the browser | Client storage | https://www.youtube.com/watch?v=tDWmfenF2AM
+- yt | power-react-app-with-indexeddb | How I power my React app with IndexedDB — using IndexedDB for local data in a React app | IndexedDB/React | https://www.youtube.com/watch?v=kImH1afFRNk
+- yt | rxdb-schema-versioning-data-migration | Schema Versioning & Data Migration in RxDB (#10) — schema versioning and migration strategies | RxDB | https://www.youtube.com/watch?v=38FPCVtHw84
+- yt | rxdb-introduction-what-is-rxdb | RxDB Introduction – What Is RxDB & Why Use It? (#01) — what RxDB is and why use it | RxDB | https://www.youtube.com/watch?v=xIT1AD5q25g
+- yt | rxdb-environments-and-adapters-overview | RxDB Environments & Adapters Overview (#02) — RxDB environments and storage adapters | RxDB | https://www.youtube.com/watch?v=pFnr5PfR5fk
 
 ### 2026-07-08 Wed
 - fit | run-walk-17k-3hrs-600m | run-walk-17k-3hrs-600m — Had a hard time because of stiff legs | trail training for davos
