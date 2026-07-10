@@ -135,3 +135,4 @@ Source deck generated with NotebookLM: **The Architect's Blueprint to the Living
 ## Related
 
 - [[staltz-two-fundamental-abstractions]] — Staltz's reactive abstractions, the continuous/streaming side of the same coin
+- [[effects-as-data-richard-feldman-reactive-2015]] — the same Model → State → Stream idea from the effects angle; Elm's `update : Action -> Model -> (Model, Effects)` is this note's state machine made concrete

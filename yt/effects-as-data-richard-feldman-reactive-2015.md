@@ -78,3 +78,7 @@ Combine the pieces and `runAction` becomes **`update : Action -> Model -> (Model
 ### Logging
 
 Since logging is itself a side effect, it's just another action: a `recordError` action wired to Rollbar via a port. Ajax flows read naturally — `onSuccess` runs a success action, `onError` runs a `recordError` action — so failures reliably reach the logger.
+
+## Related
+
+- [[what-is-a-model]] — same Model → State → Stream idea from the effects angle. Elm's `update : Action -> Model -> (Model, Effects)` *is* a state machine walking the model; actions are the discrete events driving it, and `Task`s are the managed effects — the disciplined counterpart to "effects as side effects."
