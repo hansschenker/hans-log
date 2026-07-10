@@ -84,6 +84,28 @@ This is the **transaction boundary problem**: the retry must happen *outside* th
 1. **Infrastructure approach (JDBC driver)** — lean on the CockroachDB JDBC driver's internal retries: `implicitSelectForUpdate=true` (rewrite queries to reduce conflicts) and `retryTransientErrors=true` (driver-level retries for stragglers). Result: clean application code; the driver handles the messy reality.
 2. **Application approach (client AOP)** — capture the exception into the FSM's **extended state**, have the outer service read that and intentionally roll back, and trigger a Spring AOP `@Retryable` around-advice on the business method. Result: explicit application control over the retry loop.
 
+### The three angles: Model → State → Stream
+
+The whole deck collapses into one idea seen from three angles. Read left to right they're the layers of the system; read right to left they're the flow of a single event:
+
+```
+   MODEL  ──────────────▶  STATE  ──────────────▶  STREAM
+   static space of         a disciplined walk       events pushed in
+   the possible            through that space        over time
+   (FSM / blueprint)       (state machine)           (RxJS observable)
+
+   "what's allowed?"       "where are we now?"       "what just happened?"
+
+        ◀─────────  a Stream event drives the State machine to take
+                    one legal step inside the Model  ─────────
+```
+
+- **Model** — the static space of possibilities: every legal state and the transitions between them. It never moves.
+- **State** — the single node we occupy right now; a state machine is the discipline that walks Model's space one legal step at a time.
+- **Stream** — how the outside world reaches in: events arriving over time (RxJS) that trigger those steps.
+
+Same object, three questions: *what's allowed* (Model), *where are we* (State), *what just happened* (Stream).
+
 ### The living system, mastered
 
 The closing image stacks three layers: a **static Model / Blueprint** at the base (over CockroachDB), a **dynamic State Machine** overlaid on it, and **RxJS streams** flowing in from outside. The journey: *begin with an abstract mathematical model of computation → translate it into a strict static architecture → let dynamic state flow through it → fortify it against the chaos of distributed concurrency.* The payoff is "a highly cohesive, perfectly synchronized transactional engine where the conceptual blueprint and the production code are one and the same."
