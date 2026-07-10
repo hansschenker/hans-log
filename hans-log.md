@@ -50,7 +50,7 @@ python log-link.py <url> <description>
 - yt | staltz-visualizing-data-flow-cyclejs | ReactiveConf 2016 — André Staltz: Visualizing the data flow with Cycle.js — visualize reactive dataflow in Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=3a98OPJWFPY
 - yt | staltz-cyclejs-functional-reactive-uis | Cycle.js and functional reactive user interfaces (André Staltz, Reactive 2015) — FRP user interfaces with Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=uNZnftSksYg
 - yt | alfoni-state-ui-and-stuff-in-between | State, UI and the stuff in between (Christian Alfoni, Reactive 2015) — managing state between UI and app logic | State management | https://www.youtube.com/watch?v=MnFV6wEqKFE
-- yt | feldman-effects-as-data | Effects as Data (Richard Feldman, Reactive 2015) — modeling side effects as data, the Elm architecture | FP/Elm | https://www.youtube.com/watch?v=6EdXaWfoslc
+- yt | feldman-effects-as-data | Effects as Data (Richard Feldman, Reactive 2015) — modeling side effects as data, the Elm architecture | FP/Elm | https://www.youtube.com/watch?v=6EdXaWfoslc | summary: yt/effects-as-data-richard-feldman-reactive-2015.md
 - yt | rxdb-in-100-seconds | RxDB in 100 Seconds — quick intro to the RxDB reactive local database | RxDB | https://www.youtube.com/watch?v=tj7AaDDHv2g
 - yt | easiest-way-to-store-data | The Easiest Way to Store Data — simplest way to persist data in the browser | Client storage | https://www.youtube.com/watch?v=tDWmfenF2AM
 - yt | power-react-app-with-indexeddb | How I power my React app with IndexedDB — using IndexedDB for local data in a React app | IndexedDB/React | https://www.youtube.com/watch?v=kImH1afFRNk
