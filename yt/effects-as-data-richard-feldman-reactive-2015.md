@@ -82,3 +82,4 @@ Since logging is itself a side effect, it's just another action: a `recordError`
 ## Related
 
 - [[what-is-a-model]] — same Model → State → Stream idea from the effects angle. Elm's `update : Action -> Model -> (Model, Effects)` *is* a state machine walking the model; actions are the discrete events driving it, and `Task`s are the managed effects — the disciplined counterpart to "effects as side effects."
+- [[reactiveconf-2016-andr-staltz-visualizing-the-data-flow]] — same ReactiveConf lineage and the same move: pure business logic (stateless functions / the stage), effects pushed to the edge (`runAction` / drivers). Cycle's "drivers observe the stage" is "effects as data" in another shape.

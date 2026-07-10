@@ -47,7 +47,7 @@ python log-link.py <url> <description>
 ### 2026-07-10 Fri
 - cs | what-is-a-model | What Is a Model — Understand Model as a concept | Model is an Abstraction | cs/what-is-a-model.pdf
 - yt | visually-create-state-machines | Visually Create State Machines — build and visualize state machines with a visual editor | State Machines | https://www.youtube.com/watch?v=RYQ_HG7vVZw
-- yt | staltz-visualizing-data-flow-cyclejs | ReactiveConf 2016 — André Staltz: Visualizing the data flow with Cycle.js — visualize reactive dataflow in Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=3a98OPJWFPY
+- yt | staltz-visualizing-data-flow-cyclejs | ReactiveConf 2016 — André Staltz: Visualizing the data flow with Cycle.js — visualize reactive dataflow in Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=3a98OPJWFPY | summary: yt/reactiveconf-2016-andr-staltz-visualizing-the-data-flow.md
 - yt | staltz-cyclejs-functional-reactive-uis | Cycle.js and functional reactive user interfaces (André Staltz, Reactive 2015) — FRP user interfaces with Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=uNZnftSksYg
 - yt | alfoni-state-ui-and-stuff-in-between | State, UI and the stuff in between (Christian Alfoni, Reactive 2015) — managing state between UI and app logic | State management | https://www.youtube.com/watch?v=MnFV6wEqKFE
 - yt | feldman-effects-as-data | Effects as Data (Richard Feldman, Reactive 2015) — modeling side effects as data, the Elm architecture | FP/Elm | https://www.youtube.com/watch?v=6EdXaWfoslc | summary: yt/effects-as-data-richard-feldman-reactive-2015.md
