@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-10 Fri
+- cs | what-is-a-model | What Is a Model — Understand Model as a concept | Model is an Abstraction | cs/what-is-a-model.pdf
+
 ### 2026-07-08 Wed
 - fit | run-walk-17k-3hrs-600m | run-walk-17k-3hrs-600m — Had a hard time because of stiff legs | trail training for davos
 - ai | ai-claude-agentic-rag-architecture | agentic rag architecture with claude — learn Agentic RAG | Agentic RAG | https://claude.ai/share/e7351b38-1232-4df8-9a22-e094a3571b43
@@ -995,3 +998,5 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-07T06:10:41Z | repo |  | [anthropic-sdk-typescript](https://github.com/hansschenker/anthropic-sdk-typescript) (created 2026-07-06) |
 | 2026-07-08T07:10:48Z | repo | rxjs | [rxjs-agent](https://github.com/hansschenker/rxjs-agent) (created 2026-07-07) |
 | 2026-07-08T12:10:44Z | repo |  | [claude-project-starter-edge](https://github.com/hansschenker/claude-project-starter-edge) (created 2026-07-08) |
+| 2026-07-09T08:11:21Z | repo | rxjs | [rxjs-spy-mcp](https://github.com/hansschenker/rxjs-spy-mcp) (created 2026-07-09) |
+| 2026-07-10T07:10:39Z | repo | rxjs | [rxjs-spa-v02](https://github.com/hansschenker/rxjs-spa-v02) (created 2026-07-10) |

@@ -2,7 +2,7 @@
 
 Personal knowledge log: daily entries, structured notes, and 3-goal weekly focus tracker.
 
-Notes live in one directory per tag: `yt/`, `ai/`, `rxjs/`, `fit/`, `age/`, `health/`. The old `notes/` directory is retired.
+Notes live in one directory per tag: `yt/`, `ai/`, `rxjs/`, `cs/`, `fit/`, `age/`, `health/`. The old `notes/` directory is retired.
 
 ## Goals & Plans
 
@@ -43,7 +43,7 @@ Add the entry to `hans-log.md` under `## Manual Entries` (newest day first), the
 
 There are two input variants depending on whether the entry has a local file or a URL:
 
-**File-based tags (ai, rxjs, fit, age, health):**
+**File-based tags (ai, rxjs, cs, fit, age, health):**
 - Input: `log [tag]: [title] | [file path] | [topic] | [description max 80 chars]`
 - Stored: `- [tag] | [slug] | [title] — [description] | [topic] | [tag]/[slug].[ext]`
 - Workflow: copy file → scaffold note → commit+push
@@ -67,6 +67,7 @@ If no file path is given, skip steps 1–2 and only commit the log entry.
 | `ytl` | YouTube playlist created | `ytl-` | URL |
 | `ai` | All AI work (Claude, Google, OpenAI) | `ai-claude-`, `ai-google-`, `ai-openai-` | file |
 | `rxjs` | RxJS course work | — | file |
+| `cs` | Computer science (algorithms, systems, languages, theory) | — | file |
 | `fit` | Running/strength | — | file |
 | `age` | Healthy aging, longevity | — | file |
 | `health` | Healthy lifestyle, food | — | file |
@@ -123,7 +124,7 @@ Steps:
 
 ```
 End of day — [date]. What did you do today?
-One line per activity: [tag]: [what happened]   (tags: fit, ai, rxjs, age, health, yt, ytl)
+One line per activity: [tag]: [what happened]   (tags: fit, ai, rxjs, cs, age, health, yt, ytl)
 Plan context: fit [current session] · ai [current step] · rxjs [current task]
 ```
 
