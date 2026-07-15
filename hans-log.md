@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-15 Wed
+- fit | walk-run-walk-6k-53min | walk-run-walk — slow walk-run 6k in 53 min, problems with stiff left calf | davos taper
+
 ### 2026-07-10 Fri
 - cs | what-is-a-model | What Is a Model — Understand Model as a concept | Model is an Abstraction | cs/what-is-a-model.pdf
 - yt | visually-create-state-machines | Visually Create State Machines — build and visualize state machines with a visual editor | State Machines | https://www.youtube.com/watch?v=RYQ_HG7vVZw
@@ -1011,3 +1014,88 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-08T12:10:44Z | repo |  | [claude-project-starter-edge](https://github.com/hansschenker/claude-project-starter-edge) (created 2026-07-08) |
 | 2026-07-09T08:11:21Z | repo | rxjs | [rxjs-spy-mcp](https://github.com/hansschenker/rxjs-spy-mcp) (created 2026-07-09) |
 | 2026-07-10T07:10:39Z | repo | rxjs | [rxjs-spa-v02](https://github.com/hansschenker/rxjs-spa-v02) (created 2026-07-10) |
+| 2026-07-11T13:10:38Z | file | ai | `Claude-Recall-Mcp-Server\CLAUDE-recall-section.md` |
+| 2026-07-11T13:10:38Z | file | ai | `Claude-Recall-Mcp-Server\claude-mcp-recall-server.md` |
+| 2026-07-11T13:10:38Z | file |  | `FRP-Concepts\NotebookLM Mind Map.png` |
+| 2026-07-11T13:10:38Z | file |  | `Functional programming, type systems, and Haskell_s design philosophy - Claude.pdf` |
+| 2026-07-11T13:10:38Z | file |  | `Functional_Comprehensions.mp4` |
+| 2026-07-11T13:10:38Z | file |  | `Math_to_Monads.pptx` |
+| 2026-07-11T13:10:38Z | file |  | `README.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 NotebookLM Mind Map.png` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 Observable Algebra.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 Observable Algebra.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 Observable Mathematical Model.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 Observable from Project Study Guide.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 Observable from Project.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 Observable.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 Rxjs Observable is a Behavior.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 one query 5 notations From Set Builder Notation to Rxjs x tweet.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 one query 5 notations From Set Builder Notation to Rxjs.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 rxjs-intro-rxjs-book-project-podcast-01_cockaoo_transcript_basic.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\01 slide-image-catalogue-codex.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\02 Observable Semantics from Project Study Guide.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\02 rxjs-intro-rxjs-book-project-podcast-02_cockaoo_transcript_basic.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\03 rxjs-intro-rxjs-book-project-podcast-03_cockaoo_transcript_basic.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\04 rxjs-intro-rxjs-book-project-podcast-04_cockaoo_transcript_basic.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\Algebraic group is a set G with an operations.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\RxJS Deep Dive Theoretical Foundation Antigravity.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\Rxjs as a Sequence of Pairs of Time T and Value a ChatGPT.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\SKILL-rxjs-debug-claude-cli.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\Slide-Image-Catalogue-Codeplex\slide-image-catalogue-codex.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\The_Mathematical_Observable_(4).pptx` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\Unified_Rx.NET_Streams (1).pptx` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\Unified_Rx.NET_Streams (2).pptx` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\Unified_Rx.NET_Streams.pptx` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\abstract algebra group definition socratia on yt.mp4` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\ai intelligence vs human intelligence Detailed summary.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\claude-recall-mcp-server-connection.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\lawfull-operator SKILL file Claude ai.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs basic qualities claude ai NotebookLM Mind Map.png` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs basic qualities supergrok Reactive_Stream_Geometry.pptx` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs observable as abstract data type grok-chat.pdf` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs observable behavior grok-chat.pdf` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs operator algebra grok-chat.pdf` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs poloymorphism NotebookLM Mind Map.png` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs-basic-qualities-claude-ai.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs-basic-qualities.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs-basic-qualities.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs-debug.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs-intro-rxjs book project podcast 01.mp4` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs-intro-rxjs book project podcast 02.mp4` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs-intro-rxjs book project podcast 03.mp4` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\rxjs-intro-rxjs book project podcast 04.mp4` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Book-Edge\teach-me-rxjs-observable-claude-command.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Debug-Command-Claude-Desktop\all files.zip` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Debug-Command-Claude-Desktop\all-files-with-marbles-extended-one-final.zip` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Debug-Command-Claude-Desktop\all-files-with-marbles-extended-one.zip` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Debug-Command-Claude-Desktop\all-files-with-marbles-extended.zip` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Debug-Command-Claude-Desktop\all-files-with-marbles.zip` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Debug-Command-Claude-Desktop\final rxjs debug README.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Debug-Command-Claude-Desktop\rxjs-debug-js-summary-claude-desktop.txt` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Full\Chrome-ai\The_Reactive_Edge.pptx` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Start\Vite___RxJS_Fullstack_rxjs_start.mp4` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Start\rxjs-start-map.png` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-Start\rxjs-start-slides.pptx` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-custom-operators-travis-kaufmann\rxjs-operators-part-01.zip` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-vocabulary\rxjs-llm-module-plans.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\Rxjs-vocabulary\rxjs-official-name-extractions.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\_docs\RxJS_Concept_Map.html` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\_docs\RxJS_Gesamtuebersicht.docx` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\_docs\RxJS_Gesamtuebersicht.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\_docs\RxJS_Gesamtuebersicht.pdf` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\_docs\RxJS_Study_Path.md` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\_docs\Rxjs is based on Linq and Rx.net Map.png` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\_docs\Rxjs is based on Linq and Rx.net to Pdf.pdf` |
+| 2026-07-11T13:10:38Z | file | rxjs | `Rxjs\_docs\Rxjs is based on Linq and Rx.net.txt` |
+| 2026-07-11T13:10:38Z | file |  | `The_Physics_of_RxJS.pptx` |
+| 2026-07-11T13:10:38Z | file |  | `Why LINQ Matters_ Cloud Composability Guaranteed - ACM Queue.pdf` |
+| 2026-07-11T13:10:38Z | file |  | `comprehension Map.png` |
+| 2026-07-11T13:10:38Z | file |  | `fp comprehensions grok-chat.pdf` |
+| 2026-07-11T13:10:38Z | file |  | `graham hutton fold A_Tutorial_on_the_Universality_and_Expressiveness_.pdf` |
+| 2026-07-11T13:10:38Z | file |  | `lu471ami7.tmp` |
+| 2026-07-11T13:10:38Z | file |  | `monads and effects.pdf` |
+| 2026-07-11T13:10:38Z | file |  | `philip wadler comprehension monad.pdf` |
+| 2026-07-11T13:10:38Z | repo |  | [linq-in-typescript](https://github.com/hansschenker/linq-in-typescript) (created 2026-07-11) |
+| 2026-07-13T03:18:30Z | repo |  | [linq-to-json-in-typescript](https://github.com/hansschenker/linq-to-json-in-typescript) (created 2026-07-12) |
+| 2026-07-15T06:11:14Z | repo |  | [notebooklm-mcp-cli](https://github.com/hansschenker/notebooklm-mcp-cli) (created 2026-07-14) |
+| 2026-07-15T11:10:57Z | repo | rxjs | [rxjs-operator-semantics](https://github.com/hansschenker/rxjs-operator-semantics) (created 2026-07-15) |
