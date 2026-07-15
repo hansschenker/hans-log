@@ -46,6 +46,7 @@ python log-link.py <url> <description>
 
 ### 2026-07-15 Wed
 - fit | walk-run-walk-6k-53min | walk-run-walk — slow walk-run 6k in 53 min, problems with stiff left calf | davos taper
+- rxjs | operators-semantics | operators-semantics — created rxjs operator semantic map, published on GitHub | RxJS operators | https://github.com/hansschenker/rxjs-operator-semantics
 
 ### 2026-07-10 Fri
 - cs | what-is-a-model | What Is a Model — Understand Model as a concept | Model is an Abstraction | cs/what-is-a-model.pdf
