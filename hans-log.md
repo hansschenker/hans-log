@@ -47,7 +47,7 @@ python log-link.py <url> <description>
 ### 2026-07-15 Wed
 - fit | walk-run-walk-6k-53min | walk-run-walk — slow walk-run 6k in 53 min, problems with stiff left calf | davos taper
 - rxjs | operators-semantics | operators-semantics — created rxjs operator semantic map, published on GitHub | RxJS operators | https://github.com/hansschenker/rxjs-operator-semantics
-- ai | rag-video | Building Production RAG Over Complex Documents — Databricks talk on production RAG over complex docs | RAG concepts | https://www.youtube.com/watch?v=dI_TmTW9S4c
+- ai | rag-video | Building Production RAG Over Complex Documents — Databricks talk on production RAG over complex docs | RAG concepts | https://www.youtube.com/watch?v=dI_TmTW9S4c | summary: yt/building-production-rag-over-complex-documents.md
 
 ### 2026-07-10 Fri
 - cs | what-is-a-model | What Is a Model — Understand Model as a concept | Model is an Abstraction | cs/what-is-a-model.pdf
