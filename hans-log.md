@@ -49,6 +49,7 @@ python log-link.py <url> <description>
 - rxjs | rxjava-flowable | rxjava-flowable — how to handle backpressure | RxJava/backpressure | https://kdmalviyan.medium.com/introduction-to-rxjava-flowable-179274bf998c
 - rxjs | rxjava-intro | rxjava-intro — rxjava concepts | RxJava | https://medium.com/@gabrieldemattosleon/fundamentals-of-rxjava-with-kotlin-for-absolute-beginners-3d811350b701
 - rxjs | rxjs-taxonomy | rxjs-taxonomy — RxJS operator taxonomy | RxJS operators | https://claude.ai/share/7be433c6-31f0-4851-be17-bc82d0e52a7d
+- rxjs | rxjs-heritage | rxjs-heritage — RxJS heritage from LINQ and Rx.NET (NotebookLM) | RxJS history | https://notebooklm.google.com/notebook/be007d52-5763-4203-9abb-f9cf360637e5 | summary: rxjs/rxjs-heritage.md
 
 ### 2026-07-15 Wed
 - fit | walk-run-walk-6k-53min | walk-run-walk — slow walk-run 6k in 53 min, problems with stiff left calf | davos taper
