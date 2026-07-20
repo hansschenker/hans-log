@@ -97,6 +97,11 @@ Notes live in the tag directory of their log entry: `[tag]/[slug].md`.
 - `add note: [slug] | [section] | [file path]` (section = claude/nlm/recall/notes) — read the file at `[file path]` and paste its content into that section of `[tag]/[slug].md`. Must be a local file path — URLs won't work for authenticated services like Recall.ai or NotebookLM; export the content as a file first.
 - `show note [slug]` — find and display `[tag]/[slug].md`
 
+**NotebookLM items — build the note from a local export dir, not the URL.** A NotebookLM resource is login-gated, so Hans downloads its exports into a per-item, topic-named subfolder under `D:/Learning-Local-Hanss/` (e.g. `D:/Learning-Local-Hanss/Rxjs-Operator-Heritage/`). When Hans points at such a directory (or gives one alongside a NotebookLM URL), build the note from it:
+1. Read only the `.md` and `.ppt`/`.pptx` exports in that dir; ignore `.mp4`, `.pdf`, `.png`, `.zip`, `.mm`, `.json`. De-dupe byte-identical files (NotebookLM often writes `name.md` and `name (1).md`).
+2. Synthesize **TL;DR / Key Concepts / Content** from the exports; preserve each report/chat (condensed but faithful) under **NLM**, and keep the notebook URL in **Source** with the local exports dir + filenames used.
+3. `.pptx` is usually a slide deck of the same material — reference it in Source; only extract its text if it carries slide-only content missing from the markdown.
+
 Note file structure:
 
 Frontmatter: `slug`, `title`, `date`, `tags`, `source` (yt/ytl/ai/rxjs/fit)
