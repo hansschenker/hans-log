@@ -115,24 +115,28 @@ Sections in order:
 
 <important if="the user says 'log eod'">
 
-End-of-day log. Capture today's work across all tags in one shot. Entries are tag-driven, not goal-driven — the 3 goal plans only provide hints for the fit/ai/rxjs lines; any tag can be logged whether or not it relates to a goal.
+End-of-day log. The primary source is **`~/Daily/daily.txt`** (`C:/Users/hanss/Daily/daily.txt`) — Hans's capture inbox. Rather than typing each item, `log eod` reads today's section of daily.txt and drafts one hans-log entry per record. Entries stay tag-driven; the 3 goal plans only provide hints for any extra fit/ai/rxjs lines.
+
+**daily.txt format:** dated sections headed `Mo 14:14 20.07.2026` (`weekday time DD.MM.YYYY`), followed by comma-separated records. The standard record is:
+
+```
+header, link, description
+```
+
+Legacy records may put the link last (`header, note, link`); `daily-scan.py` finds the link by pattern (URL or local path), not position, so both parse.
 
 Steps:
-1. Read `hans-log.md` — note if today's date section already exists and what's already there
-2. Read all 3 plan files (davos-trail, claude-mastery, rxjs-course) — use each current active step as the hint on its tag line
-3. Show the user this compact prompt and wait for their free-form replies. Do NOT print one line per tag — the user only reports what actually happened:
-
-```
-End of day — [date]. What did you do today?
-One line per activity: [tag]: [what happened]   (tags: fit, ai, rxjs, cs, age, health, yt, ytl)
-Plan context: fit [current session] · ai [current step] · rxjs [current task]
-```
-
-4. For each line the user replies with, create a log entry with that tag (`ai` entries get the provider slug prefix, e.g. `ai-claude-`)
-5. Add all entries under today's date section in `## Manual Entries` (create `### YYYY-MM-DD Weekday` if it doesn't exist yet; append if it does)
-6. Commit all changes and push
-
-Only tags the user mentions become entries — most days won't cover all tags. Use the plan file's current step wording to fill in slug and topic if the user was brief.
+1. Run `python daily-scan.py` → prints today's records as `header / link / desc`, skipping any whose header is already in `hans-log.md` (dedup — re-running is safe). Use `--date DD.MM.YYYY` for another day, `--all` to include already-logged items.
+2. Draft one entry per **new** record, mapping each field:
+   - `header` → slug (slugified) **and** title
+   - `description` → the entry description
+   - `link` → the stored resource (URL or local path, kept as-is)
+   - **tag** → infer from the header/link (`interactive-rx`/`rxjava-*`/`rxjs-taxonomy` → `rxjs`, `claude`/`claude.ai` → `ai` with an `ai-claude-` slug, etc.). Flag any ambiguous call in the draft.
+   - Stored line: `- [tag] | [slug] | [title] — [description] | [topic] | [link]`
+3. Show all drafts as a numbered list and ask **"Log these? (all / numbers / corrections)"** — never write without approval.
+4. After approval: add entries under today's `### YYYY-MM-DD Weekday` section in `## Manual Entries` (create it if absent, newest day first; append if it exists).
+5. Ask once: **"Anything else today not in daily.txt?"** (fit runs, offline work). For each free-form line the user gives, create an entry with that tag (`ai` entries get the `ai-claude-` / `ai-google-` / `ai-openai-` slug prefix). Read the 3 plan files only if needed to fill slug/topic wording for these extras.
+6. Commit all changes and push.
 </important>
 
 <important if="the user says 'show last N entries', 'show last N [tag] entries', or 'push it'">

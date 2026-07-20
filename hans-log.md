@@ -44,6 +44,12 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-20 Mon
+- rxjs | interactive-rx | interactive-rx — interactive version of RxJS | RxJS | https://github.com/ReactiveX/IxJS
+- rxjs | rxjava-flowable | rxjava-flowable — how to handle backpressure | RxJava/backpressure | https://kdmalviyan.medium.com/introduction-to-rxjava-flowable-179274bf998c
+- rxjs | rxjava-intro | rxjava-intro — rxjava concepts | RxJava | https://medium.com/@gabrieldemattosleon/fundamentals-of-rxjava-with-kotlin-for-absolute-beginners-3d811350b701
+- rxjs | rxjs-taxonomy | rxjs-taxonomy — RxJS operator taxonomy | RxJS operators | https://claude.ai/share/7be433c6-31f0-4851-be17-bc82d0e52a7d
+
 ### 2026-07-15 Wed
 - fit | walk-run-walk-6k-53min | walk-run-walk — slow walk-run 6k in 53 min, problems with stiff left calf | davos taper
 - rxjs | operators-semantics | operators-semantics — created rxjs operator semantic map, published on GitHub | RxJS operators | https://github.com/hansschenker/rxjs-operator-semantics
