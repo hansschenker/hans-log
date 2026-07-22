@@ -1,4 +1,4 @@
-Title: NotebookLM
+Title: Gemini Notebook
 URL: https://notebooklm.google.com/
 Source element: <body>
 ---
@@ -21,24 +21,79 @@ Visibility
 Role
 Actions
 
-🕵️‍♂️
-RxJS Debugging via Memory Management and Chrome DevTools MCP
-1 Source Jul 9, 2026 Owner
+📜
+The Policy Taxonomy of RxJS Operators
+1 Source Jul 20, 2026 Owner
 more_vert
 
-🏷️
-RxJS Semantic RAG: Controlled Vocabulary and Metadata Pipeline
-2 Sources Jul 9, 2026 Owner
+🌐
+Building a NodeJS Web Server with Streams
+1 Source Jul 19, 2026 Owner
 more_vert
 
-🚀
-Mastering Claude Code: The /init Command and CLAUDE.md Guide
-4 Sources Jul 8, 2026 Owner
+🌊
+RxJS Deep Dive: Enterprise Reactive Architecture and Design Patterns
+1 Source Jul 17, 2026 Owner
+more_vert
+
+🧬
+The Unified Architecture of LINQ and RxJS
+1 Source Jul 14, 2026 Owner
+more_vert
+
+⏳
+Coding with Time: An Abstraction for Functional Reactive Programming
+1 Source Jul 13, 2026 Owner
+more_vert
+
+🌊
+The Reactive Blueprint: An Architectural Deep Dive into RxJS
+1 Source Jul 16, 2026 Owner
+more_vert
+
+📜
+Functional Programming and Observables in JavaScript
+1 Source Jan 24, 2026 Owner
 more_vert
 
 🔄
-The Reactive Stream Engine: RxJS Principles and Master Patterns
-1 Source Jul 7, 2026 Owner
+The RxJS Execution Policy Framework
+1 Source Jul 14, 2026 Owner
+more_vert
+
+📂
+Unravelling Fold: Functional Recursion in OCaml
+10 Sources Jul 16, 2026 Owner
+more_vert
+
+⏳
+Functional Reactive Programming: Building Abstractions Over Time
+1 Source Jul 13, 2026 Owner
+more_vert
+
+📄
+Grid Transformation Logic and State Events
+1 Source Jul 13, 2026 Owner
+more_vert
+
+🔗
+The Dream of the Language Integrated Query Project
+1 Source Jul 13, 2026 Owner
+more_vert
+
+🌊
+RxJS Insights: The Mathematics of Asynchronous Streams
+1 Source Jul 13, 2026 Owner
+more_vert
+
+🧩
+Universal Operators: Polymorphism in LINQ and Rx
+1 Source Jun 11, 2026 Owner
+more_vert
+
+🔍
+Documentation as a Queryable Retrieval Layer
+1 Source Jul 11, 2026 Owner
 more_vert
 
 💡
@@ -191,11 +246,6 @@ Docling: IBM's Toolkit for LLM-Ready Document Conversion
 3 Sources Jun 30, 2026 Owner
 more_vert
 
-🧬
-The Five Archetypes of AI-Driven Product Development
-2 Sources Jun 29, 2026 Owner
-more_vert
-
 🎓
 Passive Income Empire: The Udemy Course Creation Blueprint
 1 Source Jun 27, 2026 Owner
@@ -224,6 +274,16 @@ more_vert
 📜
 Architecting Project and User Rules in Claude Code
 2 Sources Jun 25, 2026 Owner
+more_vert
+
+🧬
+The Five Archetypes of AI-Driven Product Development
+2 Sources Jun 29, 2026 Owner
+more_vert
+
+🛡️
+Cloudflare Security Verification and Access Gate
+0 Sources Jul 10, 2026 Owner
 more_vert
 
 🫀
@@ -309,11 +369,6 @@ more_vert
 📈
 The Digital Signal Processing Lens for Software Events
 1 Source Jan 25, 2026 Owner
-more_vert
-
-📜
-Functional Programming and Observables in JavaScript
-1 Source Jan 24, 2026 Owner
 more_vert
 
 💻
@@ -426,13 +481,13 @@ Mastering HTTP Requests with RxJS Ajax
 1 Source Feb 3, 2026 Owner
 more_vert
 
-🔄
-The Four Primitives of RxJS Concurrency
+🌳
+The Multi-Dimensional Taxonomy of RxJS Operators
 1 Source Feb 4, 2026 Owner
 more_vert
 
-🌳
-The Multi-Dimensional Taxonomy of RxJS Operators
+🔄
+The Four Primitives of RxJS Concurrency
 1 Source Feb 4, 2026 Owner
 more_vert
 
@@ -1981,18 +2036,7 @@ npm vs pnpm: Monorepo Management and Windows Optimization
 1 Source Jun 10, 2026 Owner
 more_vert
 
-🧩
-Universal Operators: Polymorphism in LINQ and Rx
-1 Source Jun 11, 2026 Owner
-more_vert
-
-🛠️
-Tools for Thinking and Digital Actions
-1 Source Jun 11, 2026 Owner
-more_vert
-
 Tab Context:
-- Executed on tabId: 1467892368
+- Executed on tabId: 1467897510
 - Available tabs:
-  • tabId 1467892368: "NotebookLM" (https://notebooklm.google.com/)
-</content>
+  • tabId 1467897510: "Gemini Notebook" (https://notebooklm.google.com/)

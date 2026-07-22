@@ -44,6 +44,13 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-21 Tue
+- cs | javascript-combinators | JavaScript Combinators — learn combinators like apply, leftApply, compose | Functional programming | D:\Learning-Local-Hanss\Javascript-Combinators
+- rxjs | couchdb-repo | Offline-First Apps with Angular, Ionic & CouchDB — offline-first sample app repo | Offline-first/CouchDB | https://github.com/deroux/offline-first-apps-angular-ionic-couchdb
+- rxjs | pouchdb-article | RxJS & PouchDB Persistent Data Flows — Luis Atencio on persistent data flows with RxJS + PouchDB | RxJS/PouchDB | https://medium.com/@luijar/rxjs-pouchdb-persistent-data-flows-480f503ee41f
+- cs | kleisli-compositions-js | Kleisli Compositions in JavaScript — Luis Atencio on Kleisli composition in JS | Functional composition | https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4
+- rxjs | rxjs-course-modules-drive | RxJS Deep Dive Course Modules (Drive) — Google Drive folder with course modules | RxJS course | https://drive.google.com/drive/folders/1QxSVIiAjzs2QXV9s85qfX9RjW-dwkFSN
+
 ### 2026-07-20 Mon
 - rxjs | interactive-rx | interactive-rx — interactive version of RxJS | RxJS | https://github.com/ReactiveX/IxJS
 - rxjs | rxjava-flowable | rxjava-flowable — how to handle backpressure | RxJava/backpressure | https://kdmalviyan.medium.com/introduction-to-rxjava-flowable-179274bf998c
