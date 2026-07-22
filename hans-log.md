@@ -46,7 +46,7 @@ python log-link.py <url> <description>
 
 ### 2026-07-21 Tue
 - cs | javascript-combinators | JavaScript Combinators — learn combinators like apply, leftApply, compose | Functional programming | D:\Learning-Local-Hanss\Javascript-Combinators
-- rxjs | couchdb-repo | Offline-First Apps with Angular, Ionic & CouchDB — offline-first sample app repo | Offline-first/CouchDB | https://github.com/deroux/offline-first-apps-angular-ionic-couchdb
+- rxjs | couchdb-repo | Offline-First Apps with Angular, Ionic & CouchDB — offline-first sample app repo | Offline-first/CouchDB | https://github.com/deroux/offline-first-apps-angular-ionic-couchdb | summary: rxjs/couchdb-repo.md
 - rxjs | pouchdb-article | RxJS & PouchDB Persistent Data Flows — Luis Atencio on persistent data flows with RxJS + PouchDB | RxJS/PouchDB | https://medium.com/@luijar/rxjs-pouchdb-persistent-data-flows-480f503ee41f | summary: rxjs/pouchdb-article.md
 - cs | kleisli-compositions-js | Kleisli Compositions in JavaScript — Luis Atencio on Kleisli composition in JS | Functional composition | https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4 | summary: cs/kleisli-compositions-js.md
 - rxjs | rxjs-course-modules-drive | RxJS Deep Dive Course Modules (Drive) — Google Drive folder with course modules | RxJS course | https://drive.google.com/drive/folders/1QxSVIiAjzs2QXV9s85qfX9RjW-dwkFSN
