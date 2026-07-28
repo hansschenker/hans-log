@@ -53,6 +53,7 @@ python log-link.py <url> <description>
 - cs | stanford-protege-owlviz | OWLViz — Protégé plugin for visualizing OWL class hierarchies | Ontology/visualization | https://protegewiki.stanford.edu/wiki/OWLViz
 - ytl | ytl-knowledge-graphs | Knowledge Graphs — Foundations and Applications (OpenHPI 2023) — ISE Karlsruhe 6-week course (Harald Sack): KGs, RDF, SPARQL, OWL, embeddings | Knowledge graphs/Semantic web | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF
 - yt | knowledge-graphs-00-lecture-overview | Knowledge Graphs - 0.0 Lecture Overview — first video: course roadmap across all 6 weeks | Knowledge graphs | https://www.youtube.com/watch?v=CiU1sMbL3k4 | summary: yt/knowledge-graphs-00-lecture-overview.md
+- yt | knowledge-graphs-10-knowledge-representation-with-graphs | Knowledge Graphs - 1.0 Knowledge Representation with Graphs — week-1 intro: DIKW ladder, graphs/triples, ontologies, Semantic Web, Linked Data | Knowledge graphs | https://www.youtube.com/watch?v=NTyzkmDyRFs | summary: yt/knowledge-graphs-10-knowledge-representation-with-graphs.md
 
 ### 2026-07-21 Tue
 - cs | javascript-combinators | JavaScript Combinators — learn combinators like apply, leftApply, compose | Functional programming | D:\Learning-Local-Hanss\Javascript-Combinators
