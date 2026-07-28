@@ -51,6 +51,8 @@ python log-link.py <url> <description>
 - cs | ontology-tool-protege | Protégé — Stanford desktop OWL/ontology editor | Ontology/OWL | https://protege.stanford.edu/software/#desktop-protege
 - cs | ontology-tool-ontop | Ontop VKG — virtual knowledge graph plugin for Protégé | Ontology/VKG | https://ontop-vkg.org/guide/?utm_source=chatgpt.com
 - cs | stanford-protege-owlviz | OWLViz — Protégé plugin for visualizing OWL class hierarchies | Ontology/visualization | https://protegewiki.stanford.edu/wiki/OWLViz
+- ytl | ytl-knowledge-graphs | Knowledge Graphs — Foundations and Applications (OpenHPI 2023) — ISE Karlsruhe 6-week course (Harald Sack): KGs, RDF, SPARQL, OWL, embeddings | Knowledge graphs/Semantic web | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF
+- yt | knowledge-graphs-00-lecture-overview | Knowledge Graphs - 0.0 Lecture Overview — first video: course roadmap across all 6 weeks | Knowledge graphs | https://www.youtube.com/watch?v=CiU1sMbL3k4 | summary: yt/knowledge-graphs-00-lecture-overview.md
 
 ### 2026-07-21 Tue
 - cs | javascript-combinators | JavaScript Combinators — learn combinators like apply, leftApply, compose | Functional programming | D:\Learning-Local-Hanss\Javascript-Combinators
