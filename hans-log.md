@@ -44,6 +44,14 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-28 Tue
+- cs | graph-rag | Graph RAG — IBM explainer on retrieval-augmented generation over knowledge graphs | RAG/knowledge graphs | https://x.com/Av1dlive/status/2081396999388307826/video/1
+- cs | ai-vector-db | Weaviate Vector DB — open-source vector database for AI/RAG workloads | Vector DB | https://weaviate.io/
+- cs | rag-ts | RAG from Scratch (TypeScript/Python) — building RAG with Weaviate, from-scratch tutorial | RAG | https://www.channel.tel/blog/rag-from-scratch-retrieval-augmented-generation-typescript-python
+- cs | ontology-tool-protege | Protégé — Stanford desktop OWL/ontology editor | Ontology/OWL | https://protege.stanford.edu/software/#desktop-protege
+- cs | ontology-tool-ontop | Ontop VKG — virtual knowledge graph plugin for Protégé | Ontology/VKG | https://ontop-vkg.org/guide/?utm_source=chatgpt.com
+- cs | stanford-protege-owlviz | OWLViz — Protégé plugin for visualizing OWL class hierarchies | Ontology/visualization | https://protegewiki.stanford.edu/wiki/OWLViz
+
 ### 2026-07-21 Tue
 - cs | javascript-combinators | JavaScript Combinators — learn combinators like apply, leftApply, compose | Functional programming | D:\Learning-Local-Hanss\Javascript-Combinators
 - rxjs | couchdb-repo | Offline-First Apps with Angular, Ionic & CouchDB — offline-first sample app repo | Offline-first/CouchDB | https://github.com/deroux/offline-first-apps-angular-ionic-couchdb | summary: rxjs/couchdb-repo.md
@@ -1115,3 +1123,4 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-13T03:18:30Z | repo |  | [linq-to-json-in-typescript](https://github.com/hansschenker/linq-to-json-in-typescript) (created 2026-07-12) |
 | 2026-07-15T06:11:14Z | repo |  | [notebooklm-mcp-cli](https://github.com/hansschenker/notebooklm-mcp-cli) (created 2026-07-14) |
 | 2026-07-15T11:10:57Z | repo | rxjs | [rxjs-operator-semantics](https://github.com/hansschenker/rxjs-operator-semantics) (created 2026-07-15) |
+| 2026-07-28T05:41:26Z | repo | rxjs | [rxjs-operator-advisor](https://github.com/hansschenker/rxjs-operator-advisor) (created 2026-07-27) |
