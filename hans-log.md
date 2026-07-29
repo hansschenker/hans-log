@@ -44,6 +44,13 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-29 Wed
+- yt | what-is-json-ld | What is JSON-LD? — JSON-based format for linked data on the semantic web | Knowledge graphs/Linked data | https://www.youtube.com/watch?v=vioCbTo3C-4
+- yt | rxjs-74-subjects | Subjects in RxJS (#74, A Complete Angular Course) — Subject as both observer and observable, multicasting | RxJS/Subjects | https://www.youtube.com/watch?v=Rh1YHbFg-Tw
+- yt | understanding-owl-2 | Understanding OWL 2: The Semantic Web's Secret Weapon — OWL 2 ontology language for the semantic web | Ontology/OWL | https://www.youtube.com/watch?v=CWXiNNLuJow
+- yt | owl-basics | OWL Basics — introduction to the Web Ontology Language | Ontology/OWL | https://www.youtube.com/watch?v=cIyBZ15Q65I
+- yt | web-ontology-language-owl-42 | 4.2 Web Ontology Language OWL — lecture on OWL for the semantic web | Ontology/OWL | https://www.youtube.com/watch?v=x7GtYNEWIKE
+
 ### 2026-07-28 Tue
 - cs | graph-rag | Graph RAG — IBM explainer on retrieval-augmented generation over knowledge graphs | RAG/knowledge graphs | https://x.com/Av1dlive/status/2081396999388307826/video/1
 - cs | ai-vector-db | Weaviate Vector DB — open-source vector database for AI/RAG workloads | Vector DB | https://weaviate.io/

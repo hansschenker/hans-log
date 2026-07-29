@@ -8,6 +8,7 @@ PRO
 All
 My notebooks
 Featured notebooks
+Collections
 search
 grid_view
 view_headline
@@ -15,105 +16,135 @@ Most recent
 arrow_drop_down
 add
 Create new
-My notebooks
+Recent notebooks
 Title Sources Created
 Visibility
 Role
 Actions
 
-📜
-The Policy Taxonomy of RxJS Operators
-1 Source Jul 20, 2026 Owner
-more_vert
-
-🌐
-Building a NodeJS Web Server with Streams
-1 Source Jul 19, 2026 Owner
-more_vert
-
-🌊
-RxJS Deep Dive: Enterprise Reactive Architecture and Design Patterns
-1 Source Jul 17, 2026 Owner
-more_vert
-
-🧬
-The Unified Architecture of LINQ and RxJS
-1 Source Jul 14, 2026 Owner
-more_vert
-
-⏳
-Coding with Time: An Abstraction for Functional Reactive Programming
-1 Source Jul 13, 2026 Owner
-more_vert
-
-🌊
-The Reactive Blueprint: An Architectural Deep Dive into RxJS
-1 Source Jul 16, 2026 Owner
+🔄
+Architectural Principles and Deep Insights into RxJS
+1 Source Jul 26, 2026 Owner
 more_vert
 
 📜
-Functional Programming and Observables in JavaScript
-1 Source Jan 24, 2026 Owner
+The Art of List Comprehensions in Haskell
+1 Source Apr 1, 2026 Owner
 more_vert
 
 🔄
-The RxJS Execution Policy Framework
-1 Source Jul 14, 2026 Owner
+Unifying Push and Pull: An Overview of RxJS
+1 Source Jul 24, 2026 Owner
 more_vert
 
-📂
-Unravelling Fold: Functional Recursion in OCaml
-10 Sources Jul 16, 2026 Owner
-more_vert
-
-⏳
-Functional Reactive Programming: Building Abstractions Over Time
-1 Source Jul 13, 2026 Owner
-more_vert
-
-📄
-Grid Transformation Logic and State Events
-1 Source Jul 13, 2026 Owner
-more_vert
-
-🔗
-The Dream of the Language Integrated Query Project
-1 Source Jul 13, 2026 Owner
+🧬
+The Functional Lineage: From Haskell to RxJS
+3 Sources Apr 14, 2026 Owner
 more_vert
 
 🌊
-RxJS Insights: The Mathematics of Asynchronous Streams
-1 Source Jul 13, 2026 Owner
+ReactiveX: The Asynchronous Programming Revolution
+3 Sources Jul 22, 2026 Owner
 more_vert
 
-🧩
-Universal Operators: Polymorphism in LINQ and Rx
-1 Source Jun 11, 2026 Owner
+🧬
+Dual Heritages: LINQ and Rx.NET Operator Architectures
+1 Source Apr 21, 2026 Owner
 more_vert
 
-🔍
-Documentation as a Queryable Retrieval Layer
-1 Source Jul 11, 2026 Owner
-more_vert
-
-💡
-Mastering Claude Code: The Essential Developer's Guide
-1 Source Jul 7, 2026 Owner
+⚛️
+Rxjs in action 10 appendix
+1 Source May 30, 2026 Owner
 more_vert
 
 🚫
-Cloudflare Access Block and Security Protocol Report
-2 Sources Jul 7, 2026 Owner
+Appendix A - Anti-Patterns
+1 Source Jul 21, 2026 Owner
 more_vert
 
-↔️
-The Duality of Pull and Push: Iterables vs Observables
-1 Source Jul 7, 2026 Owner
+💻
+Appendix B - Real-World Patterns
+1 Source Jul 21, 2026 Owner
+more_vert
+
+⚛️
+Module 15 - Capstone
+1 Source Jul 21, 2026 Owner
+more_vert
+
+📔
+Module 15 - Capstone
+0 Sources Jul 21, 2026 Owner
+more_vert
+
+🔌
+Module 14 - Framework Integration
+1 Source Jul 21, 2026 Owner
+more_vert
+
+🧪
+Module 13 - Testing
+1 Source Jul 21, 2026 Owner
 more_vert
 
 🛠️
-Mastering Claude Code: Workflow Optimization and Advanced Automation Tactics
-1 Source Jul 7, 2026 Owner
+Module 12 - Custom Operators
+1 Source Jul 21, 2026 Owner
+more_vert
+
+🛡️
+Module 11 - TypeScript
+1 Source Jul 21, 2026 Owner
+more_vert
+
+🌊
+Module 10 - State
+1 Source Jul 21, 2026 Owner
+more_vert
+
+📔
+Module 10 - State
+0 Sources Jul 21, 2026 Owner
+more_vert
+
+🌊
+Module 09 - Hot vs Cold
+1 Source Jul 21, 2026 Owner
+more_vert
+
+🛡️
+Module 08 - Error Handling
+1 Source Jul 21, 2026 Owner
+more_vert
+
+🔗
+Module 07 - Combining
+1 Source Jul 21, 2026 Owner
+more_vert
+
+⏱️
+Module 06 - Time
+1 Source Jul 21, 2026 Owner
+more_vert
+
+🥞
+Module 05 - Flattening
+1 Source Jul 21, 2026 Owner
+more_vert
+
+🚰
+Module 04 - Operators
+1 Source Jul 21, 2026 Owner
+more_vert
+
+🏗️
+Module 03 - Creation
+1 Source Jul 21, 2026 Owner
+more_vert
+
+📜
+Module 02 - Observable Contract
+1 Source Jul 21, 2026 Owner
 more_vert
 
 💰
@@ -504,6 +535,131 @@ more_vert
 🧬
 The Q1-Q4 RxJS Operator Design and Taxonomy Framework
 1 Source Feb 6, 2026 Owner
+more_vert
+
+⌚️
+Module 00 Reactive Streams and RxJS Theory
+1 Source Jul 21, 2026 Owner
+more_vert
+
+⌛️
+The Genesis and Architecture of RxJS
+1 Source Jul 21, 2026 Owner
+more_vert
+
+🐍
+ReactiveX: Asynchronous Programming with Observable Streams
+3 Sources Jul 22, 2026 Owner
+more_vert
+
+🛠️
+Mastering Claude Code: Workflow Optimization and Advanced Automation Tactics
+1 Source Jul 7, 2026 Owner
+more_vert
+
+↔️
+The Duality of Pull and Push: Iterables vs Observables
+1 Source Jul 7, 2026 Owner
+more_vert
+
+🚫
+Cloudflare Access Block and Security Protocol Report
+2 Sources Jul 7, 2026 Owner
+more_vert
+
+💡
+Mastering Claude Code: The Essential Developer's Guide
+1 Source Jul 7, 2026 Owner
+more_vert
+
+🔍
+Documentation as a Queryable Retrieval Layer
+1 Source Jul 11, 2026 Owner
+more_vert
+
+🧩
+Universal Operators: Polymorphism in LINQ and Rx
+1 Source Jun 11, 2026 Owner
+more_vert
+
+🌊
+RxJS Insights: The Mathematics of Asynchronous Streams
+1 Source Jul 13, 2026 Owner
+more_vert
+
+🔗
+The Dream of the Language Integrated Query Project
+1 Source Jul 13, 2026 Owner
+more_vert
+
+📄
+Grid Transformation Logic and State Events
+1 Source Jul 13, 2026 Owner
+more_vert
+
+⏳
+Functional Reactive Programming: Building Abstractions Over Time
+1 Source Jul 13, 2026 Owner
+more_vert
+
+📂
+Unravelling Fold: Functional Recursion in OCaml
+10 Sources Jul 16, 2026 Owner
+more_vert
+
+🔄
+The RxJS Execution Policy Framework
+1 Source Jul 14, 2026 Owner
+more_vert
+
+📜
+Functional Programming and Observables in JavaScript
+1 Source Jan 24, 2026 Owner
+more_vert
+
+🌊
+The Reactive Blueprint: An Architectural Deep Dive into RxJS
+1 Source Jul 16, 2026 Owner
+more_vert
+
+⏳
+Coding with Time: An Abstraction for Functional Reactive Programming
+1 Source Jul 13, 2026 Owner
+more_vert
+
+🧬
+The Unified Architecture of LINQ and RxJS
+1 Source Jul 14, 2026 Owner
+more_vert
+
+🌊
+RxJS Deep Dive: Enterprise Reactive Architecture and Design Patterns
+1 Source Jul 17, 2026 Owner
+more_vert
+
+🌐
+Building a NodeJS Web Server with Streams
+1 Source Jul 19, 2026 Owner
+more_vert
+
+📜
+The Policy Taxonomy of RxJS Operators
+1 Source Jul 20, 2026 Owner
+more_vert
+
+📄
+A Formal Taxonomy of RxJS Operator Behaviour
+1 Source Jul 20, 2026 Owner
+more_vert
+
+🧬
+The Synthesis of LINQ and Rx.NET in RxJS
+4 Sources Jul 20, 2026 Owner
+more_vert
+
+🧩
+JavaScript Combinators: Naming Responsibilities and Relationships
+1 Source Jul 21, 2026 Owner
 more_vert
 
 🔄
@@ -946,11 +1102,6 @@ The Vital Duality: Why FRP Needs Behaviors and Streams
 1 Source Apr 2, 2026 Owner
 more_vert
 
-📜
-The Art of List Comprehensions in Haskell
-1 Source Apr 1, 2026 Owner
-more_vert
-
 ↔️
 The Dual Symmetry of Rx and LINQ
 1 Source Apr 3, 2026 Owner
@@ -1009,11 +1160,6 @@ more_vert
 🧬
 Algebraic Foundations of Functional Programming and Recursive Data Types
 1 Source Apr 14, 2026 Owner
-more_vert
-
-🧬
-The Functional Lineage: From Haskell to RxJS
-3 Sources Apr 14, 2026 Owner
 more_vert
 
 ↔️
@@ -1118,11 +1264,6 @@ more_vert
 
 🔄
 SQL Querying and Reactive Operator Mappings
-1 Source Apr 21, 2026 Owner
-more_vert
-
-🧬
-Dual Heritages: LINQ and Rx.NET Operator Architectures
 1 Source Apr 21, 2026 Owner
 more_vert
 
@@ -1861,11 +2002,6 @@ Rxjs in Action 08
 1 Source May 30, 2026 Owner
 more_vert
 
-⚛️
-Rxjs in action 10 appendix
-1 Source May 30, 2026 Owner
-more_vert
-
 💻
 Introduction to Reactive Programming and Monadic Computation Models
 1 Source May 30, 2026 Owner
@@ -2035,8 +2171,40 @@ more_vert
 npm vs pnpm: Monorepo Management and Windows Optimization
 1 Source Jun 10, 2026 Owner
 more_vert
+Featured notebooks
+Title Sources Created
+Visibility
+Role
+Actions
+
+How to study
+36 Sources Feb 20, 2026
+public
+Reader
+
+Parenting Advice for the Digital Age
+21 Sources May 6, 2025
+public
+Reader
+
+Earnings Reports For Top 50 Corporations
+267 Sources Apr 17, 2025
+public
+Reader
+
+OpenStax's Biology
+13 Sources Jul 31, 2025
+public
+Reader
+
+The Energy Setting Mexico in Motion 🚘⚡
+31 Sources Feb 22, 2026
+public
+Reader
+See all
+chevron_right
 
 Tab Context:
-- Executed on tabId: 1467897510
+- Executed on tabId: 1467899173
 - Available tabs:
-  • tabId 1467897510: "Gemini Notebook" (https://notebooklm.google.com/)
+  • tabId 1467899173: "Gemini Notebook" (https://notebooklm.google.com/)
