@@ -44,6 +44,13 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-30 Thu
+- cs | protege-pizza | Protégé Pizza Tutorial — classic hands-on pizza.owl OWL ontology tutorial for Protégé (Yasen/DeBellis) | Ontology/OWL | https://yasenstar.github.io/protege_pizza/ | summary: cs/protege-pizza.md
+- ytl | ytl-pizza-owl | Ontology Practice — Build pizza.owl in Protégé — 49-video hands-on OWL ontology-engineering course (Yasen Zhao); analyzed first video | Ontology/OWL | https://www.youtube.com/playlist?list=PL6DEHvciXKeUx4P32B3hKMK1t6mC8RhsW | summary: yt/build-ontology-in-protege-pizzaowl-01-opening-introduction.md
+- cs | protege-author-matthew-horridge | Matthew Horridge — author of the original Protégé/OWL ontology-building guide (GitHub) | Ontology/OWL | https://github.com/matthewhorridge | summary: cs/protege-author-matthew-horridge.md
+- ytl | ytl-modelling-knowledge | Knowledge Modelling and Semantic Technologies — Plaban Kumar Bhowmik academic Semantic Web course (RDF, SPARQL, OWL, Linked Data); analyzed first video | Knowledge modelling/Semantic web | https://www.youtube.com/playlist?list=PLvr5jbmh57-JMThwJ-d6NEnt_X3xRVL2p | summary: yt/01-course-introduction-kmst.md
+- cs | turtle-syntax | Turtle (syntax) — Terse RDF Triple Language, compact text serialization for RDF graphs | RDF/Turtle | https://en.wikipedia.org/wiki/Turtle_(syntax) | summary: cs/turtle-syntax.md
+
 ### 2026-07-29 Wed
 - yt | what-is-json-ld | What is JSON-LD? — JSON-based format for linked data on the semantic web | Knowledge graphs/Linked data | https://www.youtube.com/watch?v=vioCbTo3C-4 | summary: yt/what-is-json-ld.md
 - yt | rxjs-74-subjects | Subjects in RxJS (#74, A Complete Angular Course) — Subject as both observer and observable, multicasting | RxJS/Subjects | https://www.youtube.com/watch?v=Rh1YHbFg-Tw
