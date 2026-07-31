@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-07-31 Fri
+- cs | protege-cellfie | Cellfie — Protégé Excel-import plugin — imports spreadsheet data into an OWL ontology via transformation rules | Ontology/OWL | https://github.com/protegeproject/cellfie-plugin
+
 ### 2026-07-30 Thu
 - cs | protege-pizza | Protégé Pizza Tutorial — classic hands-on pizza.owl OWL ontology tutorial for Protégé (Yasen/DeBellis) | Ontology/OWL | https://yasenstar.github.io/protege_pizza/ | summary: cs/protege-pizza.md
 - ytl | ytl-pizza-owl | Ontology Practice — Build pizza.owl in Protégé — 49-video hands-on OWL ontology-engineering course (Yasen Zhao); analyzed first video | Ontology/OWL | https://www.youtube.com/playlist?list=PL6DEHvciXKeUx4P32B3hKMK1t6mC8RhsW | summary: yt/build-ontology-in-protege-pizzaowl-01-opening-introduction.md
@@ -1141,3 +1144,4 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-15T06:11:14Z | repo |  | [notebooklm-mcp-cli](https://github.com/hansschenker/notebooklm-mcp-cli) (created 2026-07-14) |
 | 2026-07-15T11:10:57Z | repo | rxjs | [rxjs-operator-semantics](https://github.com/hansschenker/rxjs-operator-semantics) (created 2026-07-15) |
 | 2026-07-28T05:41:26Z | repo | rxjs | [rxjs-operator-advisor](https://github.com/hansschenker/rxjs-operator-advisor) (created 2026-07-27) |
+| 2026-07-31T12:11:10Z | repo | rxjs | [rxjs-taxonomy-chatgpt-sol-56](https://github.com/hansschenker/rxjs-taxonomy-chatgpt-sol-56) (created 2026-07-31) |
