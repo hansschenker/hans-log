@@ -44,6 +44,10 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-08-01 Sat
+- cs | ontology-expert | Ontology Expert — Harald Sack's presentation slides on knowledge graphs & semantic web | Ontology/Semantic Web | https://github.com/lysander07/Presentations.git
+- rxjs | rxjs-questions | RxJS Questions — curated gist of RxJS interview/practice questions | RxJS | https://gist.github.com/GeoffMahugu/bf4d16609b3a3eec02b9819f6ce92161
+
 ### 2026-07-31 Fri
 - cs | protege-cellfie | Cellfie — Protégé Excel-import plugin — imports spreadsheet data into an OWL ontology via transformation rules | Ontology/OWL | https://github.com/protegeproject/cellfie-plugin
 
