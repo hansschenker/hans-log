@@ -45,6 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-08-01 Sat
+- yt | kg-lecture-2-basic-knowledge-graph-infrastructure | Knowledge Graphs Lecture 2 (Harald Sack) — URIs, RDF, Turtle, RDFS vocabularies, complex structures & RDFS inference (videos 2.1–2.6) | Knowledge Graphs/RDF | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF | summary: yt/kg-lecture-2-basic-knowledge-graph-infrastructure.md
 - yt | kg-lecture-1-knowledge-representation-with-graphs | Knowledge Graphs Lecture 1 (Harald Sack) — DIKW → triples/graphs → knowledge graphs → Semantic Web stack & Linked Data (videos 1.1–1.7) | Knowledge Graphs/Semantic Web | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF | summary: yt/kg-lecture-1-knowledge-representation-with-graphs.md
 - cs | ontology-expert | Ontology Expert — Harald Sack's presentation slides on knowledge graphs & semantic web | Ontology/Semantic Web | https://github.com/lysander07/Presentations.git
 - rxjs | rxjs-questions | RxJS Questions — curated gist of RxJS interview/practice questions | RxJS | https://gist.github.com/GeoffMahugu/bf4d16609b3a3eec02b9819f6ce92161
