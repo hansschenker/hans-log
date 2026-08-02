@@ -193,7 +193,7 @@ python log-link.py <url> <description>
 - ai | vo2max | Vo2max fifth vital sign — vo2max is the result of all 5 vital signs working together | vo2max | https://share.google/aimode/9Z0HEDjt9JuNZRk4k
 - yt | claude-cowork-private-lesson | Claude Cowork private lesson — different ways to use Claude Cowork | Claude Cowork | https://www.youtube.com/watch?v=DW4a1Cm8nG4
 - yt | training-older-athlete | Training for the Older Athlete — run | https://www.youtube.com/watch?v=cgoBjMc1r9U
-- yt | rxjs-switchmap-deep-dive | RxJS switchMap Explained — when to cancel vs merge inner observables, key for HTTP autocomplete | https://www.youtube.com/watch?v=rUZ9CjcaCEw
+- yt | rxjs-switchmap-deep-dive | RxJS switchMap Explained — when to cancel vs merge inner observables, key for HTTP autocomplete | https://www.youtube.com/watch?v=rUZ9CjcaCEw | summary: yt/rxjs-switchmap-deep-dive.md
 
 ### 2026-06-24 Tue
 - daily-summary | end-of-day | sport: trail run 33.5k 1200m 6h33min ✅ — claude: lectures 15-30 + course plan created ✅ — rxjs: course setup + plan created ✅ — set up hans-log as personal PM tool with daily briefing, 3 goal plans, CLAUDE.md
