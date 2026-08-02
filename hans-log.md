@@ -44,6 +44,10 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-08-02 Sat
+- rxjs | rxjs-dom | RxJS-DOM — DOM bindings & event helpers for RxJS (Reactive-Extensions), by Matthew Podwysocki | RxJS/DOM | https://github.com/Reactive-Extensions/RxJS-DOM.git
+- rxjs | frp-intro | Functional Reactive Programming with RxJS — SitePoint intro to FRP with RxJS, by Florian Rappl | RxJS/FRP | https://www.sitepoint.com/functional-reactive-programming-rxjs/
+
 ### 2026-08-01 Sat
 - yt | kg-lecture-2-basic-knowledge-graph-infrastructure | Knowledge Graphs Lecture 2 (Harald Sack) — URIs, RDF, Turtle, RDFS vocabularies, complex structures & RDFS inference (videos 2.1–2.6) | Knowledge Graphs/RDF | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF | summary: yt/kg-lecture-2-basic-knowledge-graph-infrastructure.md
 - yt | kg-lecture-1-knowledge-representation-with-graphs | Knowledge Graphs Lecture 1 (Harald Sack) — DIKW → triples/graphs → knowledge graphs → Semantic Web stack & Linked Data (videos 1.1–1.7) | Knowledge Graphs/Semantic Web | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF | summary: yt/kg-lecture-1-knowledge-representation-with-graphs.md
@@ -1151,3 +1155,4 @@ ext\local-context-SKILL-claude.md` |
 | 2026-07-15T11:10:57Z | repo | rxjs | [rxjs-operator-semantics](https://github.com/hansschenker/rxjs-operator-semantics) (created 2026-07-15) |
 | 2026-07-28T05:41:26Z | repo | rxjs | [rxjs-operator-advisor](https://github.com/hansschenker/rxjs-operator-advisor) (created 2026-07-27) |
 | 2026-07-31T12:11:10Z | repo | rxjs | [rxjs-taxonomy-chatgpt-sol-56](https://github.com/hansschenker/rxjs-taxonomy-chatgpt-sol-56) (created 2026-07-31) |
+| 2026-08-01T14:11:14Z | repo | rxjs | [aaw-rxjs](https://github.com/hansschenker/aaw-rxjs) (created 2026-08-01) |
