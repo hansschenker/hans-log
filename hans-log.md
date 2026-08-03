@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-08-03 Sun
+- rxjs | rxjs-observable-taxonomy | A Formal Taxonomy of RxJS Observables — invariant semantics vs. variable execution characteristics vs. style; cold/hot ⟂ unicast/multicast (NotebookLM) | RxJS/Observable | D:\Learning-Local-Hanss\Rxjs-Observable-Taxonomy | summary: rxjs/rxjs-observable-taxonomy.md
+
 ### 2026-08-02 Sat
 - rxjs | rxjs-dom | RxJS-DOM — DOM bindings & event helpers for RxJS (Reactive-Extensions), by Matthew Podwysocki | RxJS/DOM | https://github.com/Reactive-Extensions/RxJS-DOM.git
 - rxjs | frp-intro | Functional Reactive Programming with RxJS — SitePoint intro to FRP with RxJS, by Florian Rappl | RxJS/FRP | https://www.sitepoint.com/functional-reactive-programming-rxjs/
