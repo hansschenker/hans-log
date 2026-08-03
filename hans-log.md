@@ -45,7 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-08-03 Sun
-- rxjs | rxjs-observable-taxonomy | A Formal Taxonomy of RxJS Observables — invariant semantics vs. variable execution characteristics vs. style; cold/hot ⟂ unicast/multicast (NotebookLM) | RxJS/Observable | D:\Learning-Local-Hanss\Rxjs-Observable-Taxonomy | summary: rxjs/rxjs-observable-taxonomy.md
+- rxjs | rxjs-observable-taxonomy | A Formal Taxonomy of RxJS Observables — invariant semantics vs. variable execution characteristics vs. style; cold/hot ⟂ unicast/multicast (NotebookLM) | RxJS/Observable | https://notebooklm.google.com/notebook/96fb087f-ed97-49a7-b827-77053c0f2a66 | summary: rxjs/rxjs-observable-taxonomy.md
 
 ### 2026-08-02 Sat
 - rxjs | rxjs-dom | RxJS-DOM — DOM bindings & event helpers for RxJS (Reactive-Extensions), by Matthew Podwysocki | RxJS/DOM | https://github.com/Reactive-Extensions/RxJS-DOM.git

@@ -271,7 +271,7 @@ Metadata about development style, not intrinsic runtime semantics:
   overview), `RxJS_Observable_Blueprint.pptx` (slide deck of the same taxonomy),
   `Push-pull_functional_reactive_programming.pdf`, `dataflow_taxonomy_guide.pdf`,
   `grok-chat-observable-taxonomy.pdf`, `rxjs-observable-taxonomy.png`
-- NotebookLM URL: *not recorded in daily.txt*
+- **NotebookLM:** https://notebooklm.google.com/notebook/96fb087f-ed97-49a7-b827-77053c0f2a66
 
 ## Notes
 
