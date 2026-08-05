@@ -45,6 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-08-05 Wed
+- rxjs | rxjs-fp | rxjs-fp — from-scratch functional RxJS: cold core, curried free operators, no prototype patching | RxJS/FP | https://github.com/hansschenker/rxjs-fp | summary: rxjs/rxjs-fp.md
 - rxjs | rxjs-operator-renaming | RxJS Operator Renaming — suffix grammar "keep the root, fix the suffix": curried roots × boundary combinators (NotebookLM) | RxJS/Operators | D:\Learning-Local-Hanss\Rxjs-Operator-Renaming | summary: rxjs/rxjs-operator-renaming.md
 
 ### 2026-08-03 Sun
