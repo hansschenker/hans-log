@@ -44,6 +44,15 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-08-11 Tue
+- rxjs | rxjs-from-fp-js-to-rxjs | From FP-JS to RxJS — the RxJS payoff course: same 12 FP concepts rebuilt on streams | RxJS/FP | C:\Users\hanss\Web\Hans\rxjs-from-fp-js-to-rxjs
+- rxjs | rxjs-from-js-to-rxjs | From JS to RxJS — teach RxJS from the perspective of plain JavaScript | RxJS/Teaching
+- rxjs | erik-meijer | Erik Meijer — Duality — Iterable/Observable duality as the mathematical root of Rx | RxJS/Theory
+- rxjs | rxjs-contributor | RxJS Contributors — Brian Cavalier (most.js), central error handling patterns | RxJS/Community
+- cs | js-functional-programming-nlm | FP in JavaScript (NotebookLM course) — 12-module course, expression-orientation → FizzBuzz capstone | FP/JavaScript | C:\Users\hanss\Web\javascript\js-functional-programming-nlm
+- cs | typescript-workshop | TypeScript Workshop (Frontend Masters) — Adam Rackis's fm-typescript-workshop repo, FEM course exercises | TypeScript | https://github.com/arackaf/fm-typescript-workshop
+- cs | universal-algebra | Universal Algebra — explanation of algebra as a general theory of operations & laws | Algebra/Theory
+
 ### 2026-08-07 Fri
 - rxjs | rxjs-pipe-compose | Pipe vs Compose — Point-Free Composition in RxJS FP Architecture — currying, point-free style, hybrid FP-RxJS case study (NotebookLM) | RxJS/FP | D:\Learning-Local-Hanss\Rxjs-Fp | summary: rxjs/rxjs-pipe-compose.md
 
@@ -1169,3 +1178,5 @@ ext\local-context-SKILL-claude.md` |
 | 2026-08-03T15:10:42Z | repo | rxjs | [rxjs-observable-ontology-chatgpt](https://github.com/hansschenker/rxjs-observable-ontology-chatgpt) (created 2026-08-03) |
 | 2026-08-05T12:11:21Z | repo | rxjs | [rxjs-operator-renaming](https://github.com/hansschenker/rxjs-operator-renaming) (created 2026-08-05) |
 | 2026-08-07T09:11:03Z | repo | rxjs | [rxjs-ds](https://github.com/hansschenker/rxjs-ds) (created 2026-08-07) |
+| 2026-08-09T03:10:56Z | repo | rxjs | [rxjs-minimal-chatgpt](https://github.com/hansschenker/rxjs-minimal-chatgpt) (created 2026-08-08) |
+| 2026-08-09T14:11:02Z | repo | rxjs | [rxjs-operators-from-scratch](https://github.com/hansschenker/rxjs-operators-from-scratch) (created 2026-08-09) |
