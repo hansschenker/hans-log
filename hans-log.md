@@ -44,6 +44,14 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-08-13 Thu
+- cs | fp-combinators | crocks Combinators — combinator helpers (composeB, substitution, applyTo) in the crocks FP library | FP/JavaScript | https://crocks.dev/docs/functions/combinators.html
+- cs | fp-monoids | crocks Prod Monoid — multiplicative monoid, concat/empty laws in the crocks library | FP/Monoids | https://crocks.dev/docs/monoids/Prod.html
+- cs | fp-functions | crocks Functions — index of crocks' point-free helper functions | FP/JavaScript | https://crocks.dev/docs/functions/
+- cs | fp-guide | Mostly Adequate Guide (Brian Lonsdorf) — the classic FP-in-JavaScript book, currying → monads | FP/JavaScript | https://github.com/MostlyAdequate/mostly-adequate-guide
+- cs | js-fp | JavaScript: Functional Programming for JS Developers — Packt course code repo | FP/JavaScript | https://github.com/PacktPublishing/JavaScript--Functional-Programming-for-JavaScript-Developers
+- rxjs | from-option-to-observable | From Options to Observables (Miłosz Piechocki, WarsawJS #43) — Option monad → Observable, a monadic journey (NotebookLM) | RxJS/Monads | D:\Learning-Local-Hanss\Rxjs-From-Option-to-Observable-Piechoki | summary: rxjs/from-option-to-observable.md
+
 ### 2026-08-11 Tue
 - rxjs | rxjs-from-fp-js-to-rxjs | From FP-JS to RxJS — the RxJS payoff course: same 12 FP concepts rebuilt on streams | RxJS/FP | C:\Users\hanss\Web\Hans\rxjs-from-fp-js-to-rxjs
 - rxjs | rxjs-from-js-to-rxjs | From JS to RxJS — teach RxJS from the perspective of plain JavaScript | RxJS/Teaching
