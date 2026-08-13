@@ -1,5 +1,5 @@
 Title: Gemini Notebook
-URL: https://notebooklm.google.com/
+URL: https://notebook.google.com/
 Source element: <body>
 ---
 settings
@@ -22,39 +22,271 @@ Visibility
 Role
 Actions
 
+💻
+Generic
+TypeScript
+Operators for Active User Filtering
+2 Sources Aug 12, 2026 Owner
+more_vert
+
+💻
+Fluid Motion Pipelines in Functional Animation
+1 Source Aug 12, 2026 Owner
+more_vert
+
 🔄
-Architectural Principles and Deep Insights into RxJS
-1 Source Jul 26, 2026 Owner
+FP Module 01 Expression-Oriented Programming
+1 Source Aug 11, 2026 Owner
+more_vert
+
+📦
+FP Module 02 First-Class Functions and Closure Capture
+1 Source Aug 11, 2026 Owner
+more_vert
+
+🧩
+FP Module 12 FP FizzBuzz Synthesis
+1 Source Aug 11, 2026 Owner
+more_vert
+
+🔄
+FP Module 11 Iteration vs. Recursion
+1 Source Aug 11, 2026 Owner
+more_vert
+
+🔲
+FP Module 10 Referential Transparency
+1 Source Aug 11, 2026 Owner
 more_vert
 
 📜
-The Art of List Comprehensions in Haskell
-1 Source Apr 1, 2026 Owner
+FP Module 09
+JavaScript
+Coercion
+1 Source Aug 11, 2026 Owner
+more_vert
+
+⏳
+FP Module 08 The Mechanics of Laziness
+1 Source Aug 11, 2026 Owner
+more_vert
+
+⚙️
+FP Module 07 Functional Pipelines
+1 Source Aug 11, 2026 Owner
+more_vert
+
+🔗
+FP Module 06 Recursive Cons Lists
+1 Source Aug 11, 2026 Owner
+more_vert
+
+✖️
+FP Module 05 Algebraic Product Types
+1 Source Aug 11, 2026 Owner
 more_vert
 
 🔄
-Unifying Push and Pull: An Overview of RxJS
-1 Source Jul 24, 2026 Owner
+FP Module 04 Recursion as the Iteration
+1 Source Aug 11, 2026 Owner
 more_vert
 
-🧬
-The Functional Lineage: From Haskell to RxJS
-3 Sources Apr 14, 2026 Owner
+🏹
+FP Module 03 Currying and the Arity Constraint
+1 Source Aug 11, 2026 Owner
+more_vert
+
+📔
+FP Module 00 All Fp Modules FP Mechanics in JavaScript
+1 Source Aug 11, 2026 Owner
+more_vert
+
+🧮
+The Philosophical and Structural Foundations of Algebra
+14 Sources Aug 11, 2026 Owner
+more_vert
+
+📐
+The Algebraic Foundations of Computer Science and Data Streams
+1 Source Aug 10, 2026 Owner
+more_vert
+
+🔄
+Reactive Transitions: From JavaScript to RxJS
+2 Sources Aug 10, 2026 Owner
+more_vert
+
+🏗️
+RxJS Mastery: Transforming Technical Streams into Domain Stories
+1 Source Aug 10, 2026 Owner
+more_vert
+
+💻
+RxJS Deconstructed: Building Operators from Scratch
+1 Source Aug 9, 2026 Owner
+more_vert
+
+↔️
+The Secret Weapon:
+Category Theory
+and the Duality of Data
+1 Source Aug 9, 2026 Owner
 more_vert
 
 🌊
-ReactiveX: The Asynchronous Programming Revolution
-3 Sources Jul 22, 2026 Owner
+A Short Introduction to Reactive Extensions
+1 Source Aug 9, 2026 Owner
+more_vert
+
+🔺
+Debating the JavaScript Getter-Setter Pyramid
+1 Source Aug 9, 2026 Owner
+more_vert
+
+🔄
+Reactive JavaScript at
+Netflix
+: Mastering Asynchronous Streams
+1 Source Aug 9, 2026 Owner
+more_vert
+
+↔️
+The Symmetry of Time: A Conceptual Derivation of Rx
+1 Source Aug 9, 2026 Owner
+more_vert
+
+📡
+Unifying Push and Pull: An RxJS Architectural Overview
+1 Source Aug 9, 2026 Owner
+more_vert
+
+💻
+Imperative vs Declarative Programming: The What and the How
+1 Source Aug 9, 2026 Owner
+more_vert
+
+🌊
+Principles of Reactive Programming with RxJS
+1 Source Aug 9, 2026 Owner
+more_vert
+
+⏱️
+Demystifying RxJS: Timers and Async Execution Dynamics
+5 Sources Aug 8, 2026 Owner
+more_vert
+
+🛒
+Functional Composition with RxJS Pipe and Compose
+2 Sources Aug 7, 2026 Owner
+more_vert
+
+🔗
+Functional Composition in Reactive Pipelines
+9 Sources Aug 7, 2026 Owner
+more_vert
+
+🗓️
+Concurrency and Scheduling in Rx.NET
+1 Source Aug 6, 2026 Owner
+more_vert
+
+➗
+Algebraic Mapping of RxJS Operators
+1 Source Aug 6, 2026 Owner
+more_vert
+
+🔄
+Mastering RXJS Higher Order Operators
+1 Source Aug 6, 2026 Owner
+more_vert
+
+🏷️
+RxJS Operator Renaming: The Suffix Grammar Plan
+3 Sources Aug 5, 2026 Owner
+more_vert
+
+🍕
+Protégé Pizza eBook: A Guide to Pizza Ontology Engineering
+1 Source Aug 3, 2026 Owner
+more_vert
+
+🔄
+Push–Pull FRP for RxJS Developers
+1 Source Aug 3, 2026 Owner
+more_vert
+
+⚖️
+Refining the RxJS Observable Taxonomy
+2 Sources Aug 3, 2026 Owner
+more_vert
+
+🔌
+Modern
+API
+Communication: Patterns, Protocols, and Practices
+1 Source Aug 3, 2026 Owner
+more_vert
+
+🔄
+The Dualism of Dataflow: A Taxonomy of Push and Pull
+1 Source Aug 3, 2026 Owner
+more_vert
+
+⚙️
+Browser JavaScript Enablement Guide
+0 Sources Aug 3, 2026 Owner
+more_vert
+
+🌿
+RxJS Observable Taxonomy
+2 Sources Aug 3, 2026 Owner
+more_vert
+
+🔄
+Democratizing the Cloud with the Reactive Extensions Framework
+1 Source Aug 2, 2026 Owner
+more_vert
+
+🔭
+RxJS Terminology: Understanding the Observable
+3 Sources Aug 2, 2026 Owner
+more_vert
+
+📡
+RxJS Patterns and Terms for Angular Applications
+1 Source Aug 2, 2026 Owner
+more_vert
+
+🕸️
+Ontology Development 101: A Guide to Creating Your First Ontology
+1 Source Aug 2, 2026 Owner
+more_vert
+
+📖
+RxJS: Glossary and Semantics
+1 Source Aug 1, 2026 Owner
 more_vert
 
 🧬
-Dual Heritages: LINQ and Rx.NET Operator Architectures
-1 Source Apr 21, 2026 Owner
+Foundry Ontology Design Principles and Advanced Features
+1 Source Aug 1, 2026 Owner
 more_vert
 
-⚛️
-Rxjs in action 10 appendix
-1 Source May 30, 2026 Owner
+🕸️
+Foundations of Knowledge Representation: Triples and Graphs
+4 Sources Aug 1, 2026 Owner
+more_vert
+
+📖
+The Architecture of Shared Meaning
+1 Source Aug 1, 2026 Owner
+more_vert
+
+🕸️
+Multimodal Ontology Inference and
+OWL
+Modeling Principles
+1 Source Jul 30, 2026 Owner
 more_vert
 
 🚫
@@ -148,7 +380,8 @@ Module 02 - Observable Contract
 more_vert
 
 💰
-Claude Fable 5 Pricing and Access Guide (2026)
+Claude
+Fable 5 Pricing and Access Guide (2026)
 1 Source Jul 7, 2026 Owner
 more_vert
 
@@ -188,7 +421,9 @@ Mastering RAG: Architectural Patterns and Production Strategies for AI Engineers
 more_vert
 
 🏛️
-The LLM Architecture Gallery: A Visual and Technical Encyclopedia
+The
+LLM
+Architecture Gallery: A Visual and Technical Encyclopedia
 1 Source Jul 4, 2026 Owner
 more_vert
 
@@ -223,7 +458,9 @@ The Architecture and Ancestry of RxJS
 more_vert
 
 🤖
-Cloudflare Markdown for Agents: Optimizing the Web for AI
+Cloudflare
+Markdown
+for Agents: Optimizing the Web for AI
 1 Source Jul 2, 2026 Owner
 more_vert
 
@@ -273,7 +510,9 @@ Visualizing Docling Document Processing in Langflow AI Workflows
 more_vert
 
 🦆
-Docling: IBM's Toolkit for LLM-Ready Document Conversion
+Docling:
+IBM
+'s Toolkit for LLM-Ready Document Conversion
 3 Sources Jun 30, 2026 Owner
 more_vert
 
@@ -507,6 +746,169 @@ Mastering RxJS: The Architecture of Reactive Streams
 1 Source Feb 3, 2026 Owner
 more_vert
 
+📽️
+Fundamentals of Reactive Extensions: Getting Started with RX .NET
+9 Sources Jul 27, 2026 Owner
+more_vert
+
+🕸️
+Comprehensive Guide to GraphRAG Patterns and Knowledge Graphs
+1 Source Jul 27, 2026 Owner
+more_vert
+
+🏗️
+Codex CLI Orchestration of the RxJS Ontology Workflow
+1 Source Jul 29, 2026 Owner
+more_vert
+
+🦉
+Foundations of OWL: Building Blocks of Web Ontology
+1 Source Jul 29, 2026 Owner
+more_vert
+
+🦉
+Logic and Syntax of the Web Ontology Language
+1 Source Jul 29, 2026 Owner
+more_vert
+
+🧬
+A Formal Taxonomy of RxJS Operator Behaviour
+1 Source Jul 31, 2026
+public
+Owner
+more_vert
+
+🗂️
+Architectures of Information: Taxonomy to Ontology
+1 Source Jul 31, 2026 Owner
+more_vert
+
+🍷
+Ontology 101: Iterative Design Strategies for Knowledge Engineering
+1 Source Jul 31, 2026 Owner
+more_vert
+
+🕸️
+Ontology Development 101: A Guide to Creating Your First Ontology
+2 Sources Aug 1, 2026 Owner
+more_vert
+
+🦉
+Introduction to Protege and Ontology Development Principles
+3 Sources Jul 30, 2026 Owner
+more_vert
+
+🕸️
+GraphDB Fundamentals: RDF and RDFS Data Modeling
+1 Source Jul 30, 2026 Owner
+more_vert
+
+📖
+The Mighty Thesaurus: Symbolic AI and Context Engineering
+3 Sources Jul 30, 2026 Owner
+more_vert
+
+🐢
+Turtle
+Syntax: The Terse RDF Triple Language
+5 Sources Jul 30, 2026 Owner
+more_vert
+
+🐢
+The Turtle Syntax: A Guide to Writing RDF Triples
+1 Source Jul 29, 2026 Owner
+more_vert
+
+🤖
+The Chasm Between Language Use and Real-World Understanding
+1 Source Jul 29, 2026 Owner
+more_vert
+
+🧠
+The Latent Ontology of Large Language Models
+1 Source Jul 29, 2026 Owner
+more_vert
+
+📊
+Why Your Taxonomy Needs SKOS
+1 Source Jul 29, 2026 Owner
+more_vert
+
+📚
+Demystifying SKOS for Practitioners
+1 Source Jul 29, 2026 Owner
+more_vert
+
+⚛️
+Rxjs in action 10 appendix
+1 Source May 30, 2026 Owner
+more_vert
+
+🧬
+Dual Heritages: LINQ and Rx.NET Operator Architectures
+1 Source Apr 21, 2026 Owner
+more_vert
+
+🌊
+ReactiveX: The Asynchronous Programming Revolution
+3 Sources Jul 22, 2026 Owner
+more_vert
+
+🧬
+The Functional Lineage: From Haskell to RxJS
+3 Sources Apr 14, 2026 Owner
+more_vert
+
+🔄
+Unifying Push and Pull: An Overview of RxJS
+1 Source Jul 24, 2026 Owner
+more_vert
+
+📜
+The Art of List Comprehensions in Haskell
+1 Source Apr 1, 2026 Owner
+more_vert
+
+🏷️
+Building RxJS Ontologies: From Linguistic Predicates to GraphRAG
+1 Source Jul 28, 2026 Owner
+more_vert
+
+🕸️
+Transforming Data into Actionable Insights with Knowledge Graphs
+1 Source Jul 28, 2026 Owner
+more_vert
+
+🗄️
+Introduction to Weaviate Vector Database and AI Applications
+4 Sources Jul 28, 2026 Owner
+more_vert
+
+🕸️
+Ontology in AI: Building the Foundation for Machine Intelligence
+3 Sources Jul 28, 2026 Owner
+more_vert
+
+🔄
+Architectural Principles and Deep Insights into RxJS
+1 Source Jul 26, 2026 Owner
+more_vert
+
+🕸️
+The Evolution and Frameworks of Graph Engineering
+1 Source Jul 26, 2026 Owner
+more_vert
+
+⏳
+Coding with Time: An Abstraction for Functional Reactive Programming
+1 Source Jul 13, 2026 Owner
+more_vert
+
+🔄
+RAG 2.0: The Evolution of Knowledge Systems in 2026
+1 Source Jul 27, 2026 Owner
+more_vert
+
 📡
 Mastering HTTP Requests with RxJS Ajax
 1 Source Feb 3, 2026 Owner
@@ -622,18 +1024,14 @@ The Reactive Blueprint: An Architectural Deep Dive into RxJS
 1 Source Jul 16, 2026 Owner
 more_vert
 
-⏳
-Coding with Time: An Abstraction for Functional Reactive Programming
-1 Source Jul 13, 2026 Owner
-more_vert
-
 🧬
 The Unified Architecture of LINQ and RxJS
 1 Source Jul 14, 2026 Owner
 more_vert
 
 🌊
-RxJS Deep Dive: Enterprise Reactive Architecture and Design Patterns
+RxJS Deep Dive: Enterprise Reactive Architecture and
+Design Patterns
 1 Source Jul 17, 2026 Owner
 more_vert
 
@@ -753,7 +1151,9 @@ The RxJS Template Engine
 more_vert
 
 🧬
-@rxjs-spa/dom: Reactive DOM Binding and Template Engine
+@rxjs-spa/dom: Reactive
+DOM
+Binding and Template Engine
 1 Source Feb 18, 2026 Owner
 more_vert
 
@@ -1263,7 +1663,8 @@ The Reactive Blueprint: Foundations and Architecture of RxJS
 more_vert
 
 🔄
-SQL Querying and Reactive Operator Mappings
+SQL
+Querying and Reactive Operator Mappings
 1 Source Apr 21, 2026 Owner
 more_vert
 
@@ -1313,7 +1714,9 @@ The Real-Time Symmetry of WebSockets and RxJS
 more_vert
 
 🔌
-Mastering WebSocket: From Protocols to Reactive RxJS Streams
+Mastering
+WebSocket
+: From Protocols to Reactive RxJS Streams
 3 Sources Apr 24, 2026 Owner
 more_vert
 
@@ -1343,7 +1746,9 @@ Digital Privacy and Browser Extension Compatibility
 more_vert
 
 🔄
-Claude Code and GitHub Workflow Mastery Guide
+Claude Code and
+GitHub
+Workflow Mastery Guide
 1 Source Apr 27, 2026 Owner
 more_vert
 
@@ -1358,7 +1763,9 @@ Building a Personal LLM Knowledge Base with Recall 2.0
 more_vert
 
 📽️
-Beyond PowerPoint: Creating Dynamic HTML Presentations with Claude AI
+Beyond PowerPoint: Creating Dynamic
+HTML
+Presentations with Claude AI
 1 Source Apr 28, 2026 Owner
 more_vert
 
@@ -1583,7 +1990,8 @@ GitHub Actions Mastery: From Foundations to DevOps Systems
 more_vert
 
 🎮
-Building a Gamified AI Course Generator with React Native
+Building a Gamified AI Course Generator with
+React Native
 2 Sources May 9, 2026 Owner
 more_vert
 
@@ -1608,7 +2016,9 @@ Muscle Building Mastery and Metabolic Biology
 more_vert
 
 🤝
-The Thousand-Dimensional Handshake: Geoffrey Hinton on AI Understanding
+The Thousand-Dimensional Handshake:
+Geoffrey Hinton
+on AI Understanding
 1 Source May 9, 2026 Owner
 more_vert
 
@@ -1638,7 +2048,9 @@ Remix 3 Comprehensive API Reference and Core Principles
 more_vert
 
 🌍
-Portable JavaScript: Running Remix Everywhere Across Runtimes
+Portable
+JavaScript
+: Running Remix Everywhere Across Runtimes
 1 Source May 11, 2026 Owner
 more_vert
 
@@ -1908,7 +2320,9 @@ In Zukunft Gesund: A Guide to Proactive Health Management
 more_vert
 
 ⚛️
-The Svelte Playbook: Rich Harris on Building Modern Frameworks
+The Svelte Playbook:
+Rich Harris
+on Building Modern Frameworks
 4 Sources May 24, 2026 Owner
 more_vert
 
@@ -2121,90 +2535,35 @@ more_vert
 Architecting Educational Apps with Large Language Models
 1 Source Jun 8, 2026 Owner
 more_vert
-
-⚛️
-Building a React SPA with Cloudflare Workers Vite Plugin
-1 Source Jun 8, 2026 Owner
-more_vert
-
-🎩
-Full-Stack Development with Cloudflare Agents and Honk
-1 Source Jun 8, 2026 Owner
-more_vert
-
-📋
-Forward Planning: Task Management for AI Agents
-1 Source Jun 8, 2026 Owner
-more_vert
-
-🤖
-Deploying netxpert.ch: Cloudflare Pages, Workers, and Agent SDK Integration
-1 Source Jun 8, 2026 Owner
-more_vert
-
-🚀
-REST API Development with Hono and Best Practices
-1 Source Jun 8, 2026 Owner
-more_vert
-
-📔
-The Granite of Functional Programming: A Dialogue with Simon Jones
-1 Source Jun 9, 2026 Owner
-more_vert
-
-🧬
-Linq Language Integrated Monads
-1 Source Jun 9, 2026 Owner
-more_vert
-
-🏗️
-Functional Comprehensions
-1 Source Jun 9, 2026 Owner
-more_vert
-
-📦
-Zoltan Kochan and the Evolution of PNPM Dependency Management
-1 Source Jun 10, 2026 Owner
-more_vert
-
-📦
-npm vs pnpm: Monorepo Management and Windows Optimization
-1 Source Jun 10, 2026 Owner
-more_vert
 Featured notebooks
 Title Sources Created
 Visibility
 Role
 Actions
 
+The Science Fan's Guide To Visiting Yellowstone
+17 Sources May 12, 2025
+public
+Reader
+
+William Shakespeare: The Complete Works
+45 Sources Apr 26, 2025
+public
+Reader
+
 How to study
 36 Sources Feb 20, 2026
 public
 Reader
 
-Parenting Advice for the Digital Age
-21 Sources May 6, 2025
+Your Ultimate Guide to Home Buying
+40 Sources Dec 17, 2025
 public
 Reader
 
-Earnings Reports For Top 50 Corporations
-267 Sources Apr 17, 2025
+Secrets of the Super Agers
+17 Sources May 6, 2025
 public
 Reader
-
-OpenStax's Biology
-13 Sources Jul 31, 2025
-public
-Reader
-
-The Energy Setting Mexico in Motion 🚘⚡
-31 Sources Feb 22, 2026
-public
-Reader
-See all
 chevron_right
-
-Tab Context:
-- Executed on tabId: 1467899173
-- Available tabs:
-  • tabId 1467899173: "Gemini Notebook" (https://notebooklm.google.com/)
+See all

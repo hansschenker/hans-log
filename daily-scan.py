@@ -13,6 +13,11 @@ parsed records for the target day (default: today) so `log eod` can draft one
 hans-log entry per item; anything whose header is already in hans-log.md is
 flagged as already logged.
 
+Dedup compares whole slugs, not substrings: the header is slugified and matched
+against the slug field of each hans-log entry. A plain substring test would skip
+`js-fp` because it occurs inside `rxjs-fp` — a silent loss, since a false skip
+never reaches the drafts.
+
 Usage:
     python daily-scan.py                 # records for today
     python daily-scan.py --date 20.07.2026   # records for a specific day
@@ -30,9 +35,49 @@ DAILY = os.path.expanduser("~/Daily/daily.txt")
 HEADER_RE = re.compile(r"^\s*[A-Za-z]{2,3}\s+\d{1,2}:\d{2}\s+(\d{1,2}\.\d{1,2}\.\d{4})\s*$")
 RESOURCE_RE = re.compile(r"^(https?://|www\.|~|/|[A-Za-z]:[\\/])")
 
+# A daily.txt header may omit the prefix the stored slug carries, e.g. header
+# `agentic-rag` logged as `ai-claude-agentic-rag`.
+SLUG_PREFIXES = ("ai-claude-", "ai-google-", "ai-openai-", "ytl-")
+
 
 def is_resource(s):
     return bool(RESOURCE_RE.match(s.strip()))
+
+
+def slugify(s):
+    return re.sub(r"[^a-z0-9]+", "-", s.strip().lower()).strip("-")
+
+
+def logged_slugs(text):
+    """Slugs already stored in hans-log.md.
+
+    Entries are `- [tag] | [slug] | [title] — [desc] | [topic] | [link]`, so the
+    slug is the second pipe-separated field. Lines that predate the format are
+    simply not indexed — an unmatched item shows up as a draft for Hans to
+    reject, which is recoverable; a wrongly skipped one disappears silently.
+    """
+    slugs = set()
+    for line in text.splitlines():
+        s = line.strip()
+        if not s.startswith("-"):
+            continue
+        fields = [f.strip() for f in s.lstrip("- ").split("|")]
+        if len(fields) >= 2 and fields[1]:
+            slugs.add(fields[1].lower())
+    return slugs
+
+
+def match_logged(header, slugs):
+    """Return the logged slug this header duplicates, or "" if it is new."""
+    h = slugify(header)
+    if not h:
+        return ""
+    if h in slugs:
+        return h
+    for p in SLUG_PREFIXES:
+        if p + h in slugs:
+            return p + h
+    return ""
 
 
 def parse_record(line):
@@ -79,10 +124,10 @@ def main():
         raw = datetime.date.today().strftime("%d.%m.%Y")
     date_str = "%02d.%02d.%04d" % tuple(int(x) for x in raw.split("."))
 
-    already = ""
+    slugs = set()
     if os.path.exists(LOG_MD):
         with open(LOG_MD, encoding="utf-8") as f:
-            already = f.read()
+            slugs = logged_slugs(f.read())
 
     records = list(section_for(date_str))
     if not records:
@@ -92,8 +137,11 @@ def main():
     new, logged = [], []
     for line in records:
         header, link, desc = parse_record(line)
-        (logged if (header and header in already and not show_all) else new).append(
-            (header, link, desc))
+        hit = "" if show_all else match_logged(header, slugs)
+        if hit:
+            logged.append((header, hit))
+        else:
+            new.append((header, link, desc))
 
     print("Daily items for %s (%d records, %d new):\n" % (
         date_str, len(records), len(new)))
@@ -102,8 +150,9 @@ def main():
             i, header, link or "(none)", desc or "(none)"))
     if logged:
         print("\nAlready in hans-log.md (skipped, use --all to include):")
-        for header, link, desc in logged:
-            print("  - %s" % header)
+        for header, hit in logged:
+            extra = "" if hit == slugify(header) else "  (logged as: %s)" % hit
+            print("  - %s%s" % (header, extra))
 
 
 if __name__ == "__main__":
