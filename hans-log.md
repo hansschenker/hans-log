@@ -46,7 +46,7 @@ python log-link.py <url> <description>
 
 ### 2026-08-13 Thu
 - cs | fp-combinators | crocks Combinators — combinator helpers (composeB, substitution, applyTo) in the crocks FP library | FP/JavaScript | https://crocks.dev/docs/functions/combinators.html
-- cs | fp-monoids | crocks Prod Monoid — multiplicative monoid, concat/empty laws in the crocks library | FP/Monoids | https://crocks.dev/docs/monoids/Prod.html
+- cs | fp-monoids | crocks Prod Monoid — multiplicative monoid, concat/empty laws in the crocks library | FP/Monoids | https://crocks.dev/docs/monoids/Prod.html | summary: cs/fp-monoids.md
 - cs | fp-functions | crocks Functions — index of crocks' point-free helper functions | FP/JavaScript | https://crocks.dev/docs/functions/
 - cs | fp-guide | Mostly Adequate Guide (Brian Lonsdorf) — the classic FP-in-JavaScript book, currying → monads | FP/JavaScript | https://github.com/MostlyAdequate/mostly-adequate-guide | summary: cs/fp-guide.md
 - cs | js-fp | JavaScript: Functional Programming for JS Developers — Packt course code repo | FP/JavaScript | https://github.com/PacktPublishing/JavaScript--Functional-Programming-for-JavaScript-Developers
