@@ -49,7 +49,7 @@ python log-link.py <url> <description>
 - cs | fp-monoids | crocks Prod Monoid — multiplicative monoid, concat/empty laws in the crocks library | FP/Monoids | https://crocks.dev/docs/monoids/Prod.html | summary: cs/fp-monoids.md
 - cs | fp-functions | crocks Functions — index of crocks' point-free helper functions | FP/JavaScript | https://crocks.dev/docs/functions/ | summary: cs/fp-functions.md
 - cs | fp-guide | Mostly Adequate Guide (Brian Lonsdorf) — the classic FP-in-JavaScript book, currying → monads | FP/JavaScript | https://github.com/MostlyAdequate/mostly-adequate-guide | summary: cs/fp-guide.md
-- cs | js-fp | JavaScript: Functional Programming for JS Developers — Packt course code repo | FP/JavaScript | https://github.com/PacktPublishing/JavaScript--Functional-Programming-for-JavaScript-Developers
+- cs | js-fp | JavaScript: Functional Programming for JS Developers — Packt course code repo | FP/JavaScript | https://github.com/PacktPublishing/JavaScript--Functional-Programming-for-JavaScript-Developers | summary: cs/js-fp.md
 - rxjs | from-option-to-observable | From Options to Observables (Miłosz Piechocki, WarsawJS #43) — Option monad → Observable, a monadic journey (NotebookLM) | RxJS/Monads | D:\Learning-Local-Hanss\Rxjs-From-Option-to-Observable-Piechoki | summary: rxjs/from-option-to-observable.md
 
 ### 2026-08-11 Tue
