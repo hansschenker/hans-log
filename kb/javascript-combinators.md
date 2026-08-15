@@ -62,6 +62,7 @@ Reginald Braithwaite's "JavaScript Combinators" talk earns combinators instead o
 ## Related
 
 - [crocks Combinators — applyTo, composeB, converge, psi, substitution & friends](./fp-combinators.md) — the finished catalog this talk derives the front door to
+- [RxJS Operator Combinators — Deriving the Operator Zoo](./rxjs-operator-combinators.md) — the same derivation lifted to RxJS operators as unary functions
 - [Kleisli Compositions in JavaScript](./kleisli-compositions-js.md) — composition when functions return wrapped values, the next step up
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](./fp-guide.md) — the other classic FP-JS book, same territory as *JavaScript Allongé*
 - [Functional Programming in JavaScript — 12-Module NotebookLM Course](./js-functional-programming-nlm.md) — data-last curried unary style as house rule

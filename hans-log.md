@@ -45,6 +45,7 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-08-15 Sat
+- rxjs | rxjs-operator-combinators | RxJS Operator Combinators — pipe as B, identity as I, flattenWith derives the *Map family; original synthesis | RxJS/FP | summary: kb/rxjs-operator-combinators.md
 - yt | google-okf-agent-memory | Google OKF + Claude: Why We Stopped Using RAG — agent memory as a folder of linked markdown files; files+grep beat vector DBs | AI/Agent Memory | https://www.youtube.com/watch?v=l46NJXUL4PM | summary: kb/google-okf-agent-memory.md
 
 ### 2026-08-13 Thu
