@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""yt-note: fetch a YouTube transcript and scaffold a SUMMARY note in yt/.
+"""yt-note: fetch a YouTube transcript and scaffold a SUMMARY note in kb/.
 
 The full transcript is written to a temp file only (never into the repo).
-The note yt/<slug>.md gets frontmatter plus empty TL;DR / Key Concepts /
-Summary sections, to be filled by Claude from the temp transcript.
+The note kb/<slug>.md gets an OKF frontmatter index card plus empty TL;DR /
+Key Concepts / Summary sections, to be filled by Claude from the temp
+transcript (Claude also fills description + tags and links the note into
+its topic hub and kb/index.md).
 
 Usage:
     python yt-note.py <youtube-url> [slug]
@@ -17,7 +19,7 @@ from urllib.parse import urlparse, parse_qs
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-OUT_DIR = os.path.join(SCRIPT_DIR, "yt")
+OUT_DIR = os.path.join(SCRIPT_DIR, "kb")
 PARA_CHARS = 700  # paragraph size in the temp transcript
 
 def video_id(url):
@@ -118,13 +120,13 @@ def main():
     today = datetime.date.today().isoformat()
     with open(npath, "w", encoding="utf-8") as f:
         f.write("---\n")
-        f.write("slug: %s\n" % slug)
-        f.write("title: %s\n" % (title or "(unknown)"))
-        f.write("channel: %s\n" % (author or "(unknown)"))
-        f.write("date: %s\n" % today)
-        f.write("videoId: %s\n" % vid)
-        f.write("url: https://www.youtube.com/watch?v=%s\n" % vid)
-        f.write("type: summary\n")
+        f.write("type: video\n")
+        f.write('title: "%s"\n' % (title or "(unknown)").replace('"', "'"))
+        f.write("description: (fill: one line)\n")
+        f.write("resource: https://www.youtube.com/watch?v=%s\n" % vid)
+        f.write("tags: []\n")
+        f.write("timestamp: %s\n" % today)
+        f.write('channel: "%s"\n' % (author or "(unknown)").replace('"', "'"))
         if lang:
             f.write("language: %s\n" % lang)
         f.write("---\n\n# %s\n\n" % (title or vid))
@@ -132,7 +134,7 @@ def main():
         f.write("## Key Concepts\n\n_(to be filled)_\n\n")
         f.write("## Summary\n\n_(to be filled)_\n")
 
-    print("note      : yt/%s.md (scaffold)" % slug)
+    print("note      : kb/%s.md (scaffold)" % slug)
     print("transcript: %s (%d words, %d paragraphs — temp, not committed)" % (tpath, words, len(paras)))
     print("title     : %s | channel: %s" % (title, author))
 

@@ -2,7 +2,28 @@
 
 Personal knowledge log: daily entries, structured notes, and 3-goal weekly focus tracker.
 
-Notes live in one directory per tag: `yt/`, `ai/`, `rxjs/`, `cs/`, `fit/`, `age/`, `health/`. The old `notes/` directory is retired.
+## Knowledge base: `kb/` (OKF bundle)
+
+All notes live flat in **`kb/`** — an [Open Knowledge Format](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) v0.2 bundle. The old per-tag directories (`yt/`, `ai/`, `rxjs/`, `cs/`, ...) and the auto-generated `topics/` directory are retired; the tag now lives only in the `hans-log.md` log line and the note's frontmatter tags.
+
+Every `kb/*.md` file starts with an **index card** (frontmatter an agent can scan without reading the body):
+
+```yaml
+---
+type: video          # REQUIRED — video | course | concept | article | reference | topic | plan
+title: display name
+description: one line
+resource: URI        # source URL, or local path, or ./file.ext for a bundle asset
+tags: [rxjs, fp]     # domain tags, lowercase
+timestamp: 2026-08-15  # last change, ISO date
+---
+```
+
+Quote `title`/`description` values that contain `: ` — the card must stay parseable YAML.
+
+**Links are the knowledge graph.** Cross-reference notes with plain markdown links `[Title](./slug.md)` — never `[[wikilinks]]`. Links to not-yet-written notes are fine (OKF allows broken links; they mark future knowledge). Reserved files: `kb/index.md` is the bundle menu; supporting material (code dirs, exports) goes under `kb/references/`.
+
+**Topic hubs** (`type: topic`) are the graph's entry points: `rxjs`, `functional-programming`, `rag`, `claude-code`, `knowledge-graphs`, `ai-engineering`, `fitness`. On every new or renamed note, ALWAYS do all three: (1) add a `Part of: [Hub](./hub.md)` footer to the note, (2) add the note to the matching hub page(s), (3) add it to `kb/index.md` under its type. Create a new hub only when several notes share a topic no existing hub covers.
 
 ## Goals & Plans
 
@@ -45,7 +66,7 @@ There are two input variants depending on whether the entry has a local file or 
 
 **File-based tags (ai, rxjs, cs, fit, age, health):**
 - Input: `log [tag]: [title] | [file path] | [topic] | [description max 80 chars]`
-- Stored: `- [tag] | [slug] | [title] — [description] | [topic] | [tag]/[slug].[ext]`
+- Stored: `- [tag] | [slug] | [title] — [description] | [topic] | kb/[slug].[ext]`
 - Workflow: copy file → scaffold note → commit+push
 
 **URL-based tags (yt, ytl):**
@@ -56,8 +77,8 @@ There are two input variants depending on whether the entry has a local file or 
 Mnemonic: **ta-ti-urlfi-to-de** → `log tag: title | url-or-file | topic | description`
 
 For file-based entries, run this 3-step workflow automatically:
-1. Copy the file from `[file path]` into `[tag]/[slug].[ext]` (preserve the original file extension)
-2. Scaffold `[tag]/[slug].md` — synthesize TL;DR, Key Concepts, and Content from the copied file
+1. Copy the file from `[file path]` into `kb/[slug].[ext]` (preserve the original file extension)
+2. Scaffold `kb/[slug].md` — OKF index card (`resource: ./[slug].[ext]`) + synthesized TL;DR, Key Concepts, and Content from the copied file; link it into its topic hub and `kb/index.md`
 3. Commit both files and push
 If no file path is given, skip steps 1–2 and only commit the log entry.
 
@@ -91,11 +112,11 @@ Input shorthand for `ai` entries: the title may lead with the provider prefix, e
 
 <important if="the user says 'note [slug]', 'add note:', or 'show note'">
 
-Notes live in the tag directory of their log entry: `[tag]/[slug].md`.
+Notes live flat in the OKF bundle: `kb/[slug].md`.
 
-- `note [slug]` — create `[tag]/[slug].md` pre-filled from the matching log entry using the template below
-- `add note: [slug] | [section] | [file path]` (section = claude/nlm/recall/notes) — read the file at `[file path]` and paste its content into that section of `[tag]/[slug].md`. Must be a local file path — URLs won't work for authenticated services like Recall.ai or NotebookLM; export the content as a file first.
-- `show note [slug]` — find and display `[tag]/[slug].md`
+- `note [slug]` — create `kb/[slug].md` pre-filled from the matching log entry using the template below, then link it into its topic hub and `kb/index.md`
+- `add note: [slug] | [section] | [file path]` (section = claude/nlm/recall/notes) — read the file at `[file path]` and paste its content into that section of `kb/[slug].md`. Must be a local file path — URLs won't work for authenticated services like Recall.ai or NotebookLM; export the content as a file first.
+- `show note [slug]` — find and display `kb/[slug].md`
 
 **NotebookLM items — build the note from a local export dir, not the URL.** A NotebookLM resource is login-gated, so Hans downloads its exports into a per-item, topic-named subfolder under `D:/Learning-Local-Hanss/` (e.g. `D:/Learning-Local-Hanss/Rxjs-Operator-Heritage/`). When Hans points at such a directory (or gives one alongside a NotebookLM URL), build the note from it:
 1. Read only the `.md` and `.ppt`/`.pptx` exports in that dir; ignore `.mp4`, `.pdf`, `.png`, `.zip`, `.mm`, `.json`. De-dupe byte-identical files (NotebookLM often writes `name.md` and `name (1).md`).
@@ -104,7 +125,7 @@ Notes live in the tag directory of their log entry: `[tag]/[slug].md`.
 
 Note file structure:
 
-Frontmatter: `slug`, `title`, `date`, `tags`, `source` (yt/ytl/ai/rxjs/fit)
+Frontmatter: the OKF index card (`type`, `title`, `description`, `resource`, `tags`, `timestamp` — see the Knowledge base section)
 
 Sections in order:
 - **TL;DR** — 2–3 sentence synthesis
@@ -115,7 +136,8 @@ Sections in order:
 - **Recall.ai** — full Recall.ai summary content or link
 - **Source** — original url
 - **Notes** — own thoughts, insights, connections
-- **Related** — `[[slug]]` links to related notes
+- **Related** — `[Title](./slug.md)` markdown links to related notes
+- End with a `Part of: [Hub](./hub.md)` footer line
 </important>
 
 <important if="the user says 'log eod'">
@@ -173,11 +195,11 @@ YouTube consumption scan from Chrome history.
 
 <important if="the user says 'yt note [url]'">
 
-Fetch a YouTube video's transcript and save a SUMMARY note in `yt/[slug].md`. The full transcript never goes into the repo.
+Fetch a YouTube video's transcript and save a SUMMARY note in `kb/[slug].md`. The full transcript never goes into the repo.
 
-1. Run `python yt-note.py [url]` — names the note after the video title (slugified, first 8 words). It writes the raw transcript to a temp file and scaffolds `yt/[slug].md` with empty TL;DR / Key Concepts / Summary sections; both paths are printed
-2. Read the temp transcript and fill the note: TL;DR (2–3 sentences), Key Concepts (bullets), Summary (the video's actual argument in structured prose — skip sponsor segments)
-3. If the video isn't in `hans-log.md` yet, also add a `yt` log entry pointing to `yt/[slug].md`
+1. Run `python yt-note.py [url]` — names the note after the video title (slugified, first 8 words). It writes the raw transcript to a temp file and scaffolds `kb/[slug].md` with an OKF index card (`type: video`) and empty TL;DR / Key Concepts / Summary sections; both paths are printed
+2. Read the temp transcript and fill the note: card `description` + `tags`, TL;DR (2–3 sentences), Key Concepts (bullets), Summary (the video's actual argument in structured prose — skip sponsor segments). Link it into its topic hub(s) and `kb/index.md`, and add the `Part of:` footer
+3. If the video isn't in `hans-log.md` yet, also add a `yt` log entry pointing to `kb/[slug].md`
 4. Commit and push
 
 Requires the `youtube-transcript-api` pip package (installed 2026-07-04). Videos without captions will fail — report that plainly.

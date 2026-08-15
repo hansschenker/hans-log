@@ -45,12 +45,12 @@ python log-link.py <url> <description>
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
 ### 2026-08-13 Thu
-- cs | fp-combinators | crocks Combinators — combinator helpers (composeB, substitution, applyTo) in the crocks FP library | FP/JavaScript | https://crocks.dev/docs/functions/combinators.html | summary: cs/fp-combinators.md
-- cs | fp-monoids | crocks Prod Monoid — multiplicative monoid, concat/empty laws in the crocks library | FP/Monoids | https://crocks.dev/docs/monoids/Prod.html | summary: cs/fp-monoids.md
-- cs | fp-functions | crocks Functions — index of crocks' point-free helper functions | FP/JavaScript | https://crocks.dev/docs/functions/ | summary: cs/fp-functions.md
-- cs | fp-guide | Mostly Adequate Guide (Brian Lonsdorf) — the classic FP-in-JavaScript book, currying → monads | FP/JavaScript | https://github.com/MostlyAdequate/mostly-adequate-guide | summary: cs/fp-guide.md
-- cs | js-fp | JavaScript: Functional Programming for JS Developers — Packt course code repo | FP/JavaScript | https://github.com/PacktPublishing/JavaScript--Functional-Programming-for-JavaScript-Developers | summary: cs/js-fp.md
-- rxjs | from-option-to-observable | From Options to Observables (Miłosz Piechocki, WarsawJS #43) — Option monad → Observable, a monadic journey (NotebookLM) | RxJS/Monads | D:\Learning-Local-Hanss\Rxjs-From-Option-to-Observable-Piechoki | summary: rxjs/from-option-to-observable.md
+- cs | fp-combinators | crocks Combinators — combinator helpers (composeB, substitution, applyTo) in the crocks FP library | FP/JavaScript | https://crocks.dev/docs/functions/combinators.html | summary: kb/fp-combinators.md
+- cs | fp-monoids | crocks Prod Monoid — multiplicative monoid, concat/empty laws in the crocks library | FP/Monoids | https://crocks.dev/docs/monoids/Prod.html | summary: kb/fp-monoids.md
+- cs | fp-functions | crocks Functions — index of crocks' point-free helper functions | FP/JavaScript | https://crocks.dev/docs/functions/ | summary: kb/fp-functions.md
+- cs | fp-guide | Mostly Adequate Guide (Brian Lonsdorf) — the classic FP-in-JavaScript book, currying → monads | FP/JavaScript | https://github.com/MostlyAdequate/mostly-adequate-guide | summary: kb/fp-guide.md
+- cs | js-fp | JavaScript: Functional Programming for JS Developers — Packt course code repo | FP/JavaScript | https://github.com/PacktPublishing/JavaScript--Functional-Programming-for-JavaScript-Developers | summary: kb/js-fp.md
+- rxjs | from-option-to-observable | From Options to Observables (Miłosz Piechocki, WarsawJS #43) — Option monad → Observable, a monadic journey (NotebookLM) | RxJS/Monads | D:\Learning-Local-Hanss\Rxjs-From-Option-to-Observable-Piechoki | summary: kb/from-option-to-observable.md
 
 ### 2026-08-11 Tue
 - rxjs | rxjs-from-fp-js-to-rxjs | From FP-JS to RxJS — the RxJS payoff course: same 12 FP concepts rebuilt on streams | RxJS/FP | C:\Users\hanss\Web\Hans\rxjs-from-fp-js-to-rxjs
@@ -62,22 +62,22 @@ python log-link.py <url> <description>
 - cs | universal-algebra | Universal Algebra — explanation of algebra as a general theory of operations & laws | Algebra/Theory
 
 ### 2026-08-07 Fri
-- rxjs | rxjs-pipe-compose | Pipe vs Compose — Point-Free Composition in RxJS FP Architecture — currying, point-free style, hybrid FP-RxJS case study (NotebookLM) | RxJS/FP | D:\Learning-Local-Hanss\Rxjs-Fp | summary: rxjs/rxjs-pipe-compose.md
+- rxjs | rxjs-pipe-compose | Pipe vs Compose — Point-Free Composition in RxJS FP Architecture — currying, point-free style, hybrid FP-RxJS case study (NotebookLM) | RxJS/FP | D:\Learning-Local-Hanss\Rxjs-Fp | summary: kb/rxjs-pipe-compose.md
 
 ### 2026-08-05 Wed
-- rxjs | rxjs-fp | rxjs-fp — from-scratch functional RxJS: cold core, curried free operators, no prototype patching | RxJS/FP | https://github.com/hansschenker/rxjs-fp | summary: rxjs/rxjs-fp.md
-- rxjs | rxjs-operator-renaming | RxJS Operator Renaming — suffix grammar "keep the root, fix the suffix": curried roots × boundary combinators (NotebookLM) | RxJS/Operators | D:\Learning-Local-Hanss\Rxjs-Operator-Renaming | summary: rxjs/rxjs-operator-renaming.md
+- rxjs | rxjs-fp | rxjs-fp — from-scratch functional RxJS: cold core, curried free operators, no prototype patching | RxJS/FP | https://github.com/hansschenker/rxjs-fp | summary: kb/rxjs-fp.md
+- rxjs | rxjs-operator-renaming | RxJS Operator Renaming — suffix grammar "keep the root, fix the suffix": curried roots × boundary combinators (NotebookLM) | RxJS/Operators | D:\Learning-Local-Hanss\Rxjs-Operator-Renaming | summary: kb/rxjs-operator-renaming.md
 
 ### 2026-08-03 Sun
-- rxjs | rxjs-observable-taxonomy | A Formal Taxonomy of RxJS Observables — invariant semantics vs. variable execution characteristics vs. style; cold/hot ⟂ unicast/multicast (NotebookLM) | RxJS/Observable | https://notebooklm.google.com/notebook/96fb087f-ed97-49a7-b827-77053c0f2a66 | summary: rxjs/rxjs-observable-taxonomy.md
+- rxjs | rxjs-observable-taxonomy | A Formal Taxonomy of RxJS Observables — invariant semantics vs. variable execution characteristics vs. style; cold/hot ⟂ unicast/multicast (NotebookLM) | RxJS/Observable | https://notebooklm.google.com/notebook/96fb087f-ed97-49a7-b827-77053c0f2a66 | summary: kb/rxjs-observable-taxonomy.md
 
 ### 2026-08-02 Sat
 - rxjs | rxjs-dom | RxJS-DOM — DOM bindings & event helpers for RxJS (Reactive-Extensions), by Matthew Podwysocki | RxJS/DOM | https://github.com/Reactive-Extensions/RxJS-DOM.git
 - rxjs | frp-intro | Functional Reactive Programming with RxJS — SitePoint intro to FRP with RxJS, by Florian Rappl | RxJS/FRP | https://www.sitepoint.com/functional-reactive-programming-rxjs/
 
 ### 2026-08-01 Sat
-- yt | kg-lecture-2-basic-knowledge-graph-infrastructure | Knowledge Graphs Lecture 2 (Harald Sack) — URIs, RDF, Turtle, RDFS vocabularies, complex structures & RDFS inference (videos 2.1–2.6) | Knowledge Graphs/RDF | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF | summary: yt/kg-lecture-2-basic-knowledge-graph-infrastructure.md
-- yt | kg-lecture-1-knowledge-representation-with-graphs | Knowledge Graphs Lecture 1 (Harald Sack) — DIKW → triples/graphs → knowledge graphs → Semantic Web stack & Linked Data (videos 1.1–1.7) | Knowledge Graphs/Semantic Web | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF | summary: yt/kg-lecture-1-knowledge-representation-with-graphs.md
+- yt | kg-lecture-2-basic-knowledge-graph-infrastructure | Knowledge Graphs Lecture 2 (Harald Sack) — URIs, RDF, Turtle, RDFS vocabularies, complex structures & RDFS inference (videos 2.1–2.6) | Knowledge Graphs/RDF | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF | summary: kb/kg-lecture-2-basic-knowledge-graph-infrastructure.md
+- yt | kg-lecture-1-knowledge-representation-with-graphs | Knowledge Graphs Lecture 1 (Harald Sack) — DIKW → triples/graphs → knowledge graphs → Semantic Web stack & Linked Data (videos 1.1–1.7) | Knowledge Graphs/Semantic Web | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF | summary: kb/kg-lecture-1-knowledge-representation-with-graphs.md
 - cs | ontology-expert | Ontology Expert — Harald Sack's presentation slides on knowledge graphs & semantic web | Ontology/Semantic Web | https://github.com/lysander07/Presentations.git
 - rxjs | rxjs-questions | RxJS Questions — curated gist of RxJS interview/practice questions | RxJS | https://gist.github.com/GeoffMahugu/bf4d16609b3a3eec02b9819f6ce92161
 
@@ -85,18 +85,18 @@ python log-link.py <url> <description>
 - cs | protege-cellfie | Cellfie — Protégé Excel-import plugin — imports spreadsheet data into an OWL ontology via transformation rules | Ontology/OWL | https://github.com/protegeproject/cellfie-plugin
 
 ### 2026-07-30 Thu
-- cs | protege-pizza | Protégé Pizza Tutorial — classic hands-on pizza.owl OWL ontology tutorial for Protégé (Yasen/DeBellis) | Ontology/OWL | https://yasenstar.github.io/protege_pizza/ | summary: cs/protege-pizza.md
-- ytl | ytl-pizza-owl | Ontology Practice — Build pizza.owl in Protégé — 49-video hands-on OWL ontology-engineering course (Yasen Zhao); analyzed first video | Ontology/OWL | https://www.youtube.com/playlist?list=PL6DEHvciXKeUx4P32B3hKMK1t6mC8RhsW | summary: yt/build-ontology-in-protege-pizzaowl-01-opening-introduction.md
-- cs | protege-author-matthew-horridge | Matthew Horridge — author of the original Protégé/OWL ontology-building guide (GitHub) | Ontology/OWL | https://github.com/matthewhorridge | summary: cs/protege-author-matthew-horridge.md
-- ytl | ytl-modelling-knowledge | Knowledge Modelling and Semantic Technologies — Plaban Kumar Bhowmik academic Semantic Web course (RDF, SPARQL, OWL, Linked Data); analyzed first video | Knowledge modelling/Semantic web | https://www.youtube.com/playlist?list=PLvr5jbmh57-JMThwJ-d6NEnt_X3xRVL2p | summary: yt/01-course-introduction-kmst.md
-- cs | turtle-syntax | Turtle (syntax) — Terse RDF Triple Language, compact text serialization for RDF graphs | RDF/Turtle | https://en.wikipedia.org/wiki/Turtle_(syntax) | summary: cs/turtle-syntax.md
+- cs | protege-pizza | Protégé Pizza Tutorial — classic hands-on pizza.owl OWL ontology tutorial for Protégé (Yasen/DeBellis) | Ontology/OWL | https://yasenstar.github.io/protege_pizza/ | summary: kb/protege-pizza.md
+- ytl | ytl-pizza-owl | Ontology Practice — Build pizza.owl in Protégé — 49-video hands-on OWL ontology-engineering course (Yasen Zhao); analyzed first video | Ontology/OWL | https://www.youtube.com/playlist?list=PL6DEHvciXKeUx4P32B3hKMK1t6mC8RhsW | summary: kb/build-ontology-in-protege-pizzaowl-01-opening-introduction.md
+- cs | protege-author-matthew-horridge | Matthew Horridge — author of the original Protégé/OWL ontology-building guide (GitHub) | Ontology/OWL | https://github.com/matthewhorridge | summary: kb/protege-author-matthew-horridge.md
+- ytl | ytl-modelling-knowledge | Knowledge Modelling and Semantic Technologies — Plaban Kumar Bhowmik academic Semantic Web course (RDF, SPARQL, OWL, Linked Data); analyzed first video | Knowledge modelling/Semantic web | https://www.youtube.com/playlist?list=PLvr5jbmh57-JMThwJ-d6NEnt_X3xRVL2p | summary: kb/01-course-introduction-kmst.md
+- cs | turtle-syntax | Turtle (syntax) — Terse RDF Triple Language, compact text serialization for RDF graphs | RDF/Turtle | https://en.wikipedia.org/wiki/Turtle_(syntax) | summary: kb/turtle-syntax.md
 
 ### 2026-07-29 Wed
-- yt | what-is-json-ld | What is JSON-LD? — JSON-based format for linked data on the semantic web | Knowledge graphs/Linked data | https://www.youtube.com/watch?v=vioCbTo3C-4 | summary: yt/what-is-json-ld.md
-- yt | rxjs-74-subjects | Subjects in RxJS (#74, A Complete Angular Course) — Subject as both observer and observable, multicasting | RxJS/Subjects | https://www.youtube.com/watch?v=Rh1YHbFg-Tw | summary: yt/rxjs-74-subjects.md
-- yt | understanding-owl-2 | Understanding OWL 2: The Semantic Web's Secret Weapon — OWL 2 ontology language for the semantic web | Ontology/OWL | https://www.youtube.com/watch?v=CWXiNNLuJow | summary: yt/owl-web-ontology-language.md
-- yt | owl-basics | OWL Basics — introduction to the Web Ontology Language | Ontology/OWL | https://www.youtube.com/watch?v=cIyBZ15Q65I | summary: yt/owl-web-ontology-language.md
-- yt | web-ontology-language-owl-42 | 4.2 Web Ontology Language OWL — lecture on OWL for the semantic web | Ontology/OWL | https://www.youtube.com/watch?v=x7GtYNEWIKE | summary: yt/owl-web-ontology-language.md
+- yt | what-is-json-ld | What is JSON-LD? — JSON-based format for linked data on the semantic web | Knowledge graphs/Linked data | https://www.youtube.com/watch?v=vioCbTo3C-4 | summary: kb/what-is-json-ld.md
+- yt | rxjs-74-subjects | Subjects in RxJS (#74, A Complete Angular Course) — Subject as both observer and observable, multicasting | RxJS/Subjects | https://www.youtube.com/watch?v=Rh1YHbFg-Tw | summary: kb/rxjs-74-subjects.md
+- yt | understanding-owl-2 | Understanding OWL 2: The Semantic Web's Secret Weapon — OWL 2 ontology language for the semantic web | Ontology/OWL | https://www.youtube.com/watch?v=CWXiNNLuJow | summary: kb/owl-web-ontology-language.md
+- yt | owl-basics | OWL Basics — introduction to the Web Ontology Language | Ontology/OWL | https://www.youtube.com/watch?v=cIyBZ15Q65I | summary: kb/owl-web-ontology-language.md
+- yt | web-ontology-language-owl-42 | 4.2 Web Ontology Language OWL — lecture on OWL for the semantic web | Ontology/OWL | https://www.youtube.com/watch?v=x7GtYNEWIKE | summary: kb/owl-web-ontology-language.md
 
 ### 2026-07-28 Tue
 - cs | graph-rag | Graph RAG — IBM explainer on retrieval-augmented generation over knowledge graphs | RAG/knowledge graphs | https://x.com/Av1dlive/status/2081396999388307826/video/1
@@ -106,14 +106,14 @@ python log-link.py <url> <description>
 - cs | ontology-tool-ontop | Ontop VKG — virtual knowledge graph plugin for Protégé | Ontology/VKG | https://ontop-vkg.org/guide/?utm_source=chatgpt.com
 - cs | stanford-protege-owlviz | OWLViz — Protégé plugin for visualizing OWL class hierarchies | Ontology/visualization | https://protegewiki.stanford.edu/wiki/OWLViz
 - ytl | ytl-knowledge-graphs | Knowledge Graphs — Foundations and Applications (OpenHPI 2023) — ISE Karlsruhe 6-week course (Harald Sack): KGs, RDF, SPARQL, OWL, embeddings | Knowledge graphs/Semantic web | https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF
-- yt | knowledge-graphs-00-lecture-overview | Knowledge Graphs - 0.0 Lecture Overview — first video: course roadmap across all 6 weeks | Knowledge graphs | https://www.youtube.com/watch?v=CiU1sMbL3k4 | summary: yt/knowledge-graphs-00-lecture-overview.md
-- yt | knowledge-graphs-10-knowledge-representation-with-graphs | Knowledge Graphs - 1.0 Knowledge Representation with Graphs — week-1 intro: DIKW ladder, graphs/triples, ontologies, Semantic Web, Linked Data | Knowledge graphs | https://www.youtube.com/watch?v=NTyzkmDyRFs | summary: yt/knowledge-graphs-10-knowledge-representation-with-graphs.md
+- yt | knowledge-graphs-00-lecture-overview | Knowledge Graphs - 0.0 Lecture Overview — first video: course roadmap across all 6 weeks | Knowledge graphs | https://www.youtube.com/watch?v=CiU1sMbL3k4 | summary: kb/knowledge-graphs-00-lecture-overview.md
+- yt | knowledge-graphs-10-knowledge-representation-with-graphs | Knowledge Graphs - 1.0 Knowledge Representation with Graphs — week-1 intro: DIKW ladder, graphs/triples, ontologies, Semantic Web, Linked Data | Knowledge graphs | https://www.youtube.com/watch?v=NTyzkmDyRFs | summary: kb/knowledge-graphs-10-knowledge-representation-with-graphs.md
 
 ### 2026-07-21 Tue
 - cs | javascript-combinators | JavaScript Combinators — learn combinators like apply, leftApply, compose | Functional programming | D:\Learning-Local-Hanss\Javascript-Combinators
-- rxjs | couchdb-repo | Offline-First Apps with Angular, Ionic & CouchDB — offline-first sample app repo | Offline-first/CouchDB | https://github.com/deroux/offline-first-apps-angular-ionic-couchdb | summary: rxjs/couchdb-repo.md
-- rxjs | pouchdb-article | RxJS & PouchDB Persistent Data Flows — Luis Atencio on persistent data flows with RxJS + PouchDB | RxJS/PouchDB | https://medium.com/@luijar/rxjs-pouchdb-persistent-data-flows-480f503ee41f | summary: rxjs/pouchdb-article.md
-- cs | kleisli-compositions-js | Kleisli Compositions in JavaScript — Luis Atencio on Kleisli composition in JS | Functional composition | https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4 | summary: cs/kleisli-compositions-js.md
+- rxjs | couchdb-repo | Offline-First Apps with Angular, Ionic & CouchDB — offline-first sample app repo | Offline-first/CouchDB | https://github.com/deroux/offline-first-apps-angular-ionic-couchdb | summary: kb/couchdb-repo.md
+- rxjs | pouchdb-article | RxJS & PouchDB Persistent Data Flows — Luis Atencio on persistent data flows with RxJS + PouchDB | RxJS/PouchDB | https://medium.com/@luijar/rxjs-pouchdb-persistent-data-flows-480f503ee41f | summary: kb/pouchdb-article.md
+- cs | kleisli-compositions-js | Kleisli Compositions in JavaScript — Luis Atencio on Kleisli composition in JS | Functional composition | https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4 | summary: kb/kleisli-compositions-js.md
 - rxjs | rxjs-course-modules-drive | RxJS Deep Dive Course Modules (Drive) — Google Drive folder with course modules | RxJS course | https://drive.google.com/drive/folders/1QxSVIiAjzs2QXV9s85qfX9RjW-dwkFSN
 
 ### 2026-07-20 Mon
@@ -121,20 +121,20 @@ python log-link.py <url> <description>
 - rxjs | rxjava-flowable | rxjava-flowable — how to handle backpressure | RxJava/backpressure | https://kdmalviyan.medium.com/introduction-to-rxjava-flowable-179274bf998c
 - rxjs | rxjava-intro | rxjava-intro — rxjava concepts | RxJava | https://medium.com/@gabrieldemattosleon/fundamentals-of-rxjava-with-kotlin-for-absolute-beginners-3d811350b701
 - rxjs | rxjs-taxonomy | rxjs-taxonomy — RxJS operator taxonomy | RxJS operators | https://claude.ai/share/7be433c6-31f0-4851-be17-bc82d0e52a7d
-- rxjs | rxjs-heritage | rxjs-heritage — RxJS heritage from LINQ and Rx.NET (NotebookLM) | RxJS history | https://notebooklm.google.com/notebook/be007d52-5763-4203-9abb-f9cf360637e5 | summary: rxjs/rxjs-heritage.md
+- rxjs | rxjs-heritage | rxjs-heritage — RxJS heritage from LINQ and Rx.NET (NotebookLM) | RxJS history | https://notebooklm.google.com/notebook/be007d52-5763-4203-9abb-f9cf360637e5 | summary: kb/rxjs-heritage.md
 
 ### 2026-07-15 Wed
 - fit | walk-run-walk-6k-53min | walk-run-walk — slow walk-run 6k in 53 min, problems with stiff left calf | davos taper
 - rxjs | operators-semantics | operators-semantics — created rxjs operator semantic map, published on GitHub | RxJS operators | https://github.com/hansschenker/rxjs-operator-semantics
-- ai | rag-video | Building Production RAG Over Complex Documents — Databricks talk on production RAG over complex docs | RAG concepts | https://www.youtube.com/watch?v=dI_TmTW9S4c | summary: yt/building-production-rag-over-complex-documents.md
+- ai | rag-video | Building Production RAG Over Complex Documents — Databricks talk on production RAG over complex docs | RAG concepts | https://www.youtube.com/watch?v=dI_TmTW9S4c | summary: kb/building-production-rag-over-complex-documents.md
 
 ### 2026-07-10 Fri
-- cs | what-is-a-model | What Is a Model — Understand Model as a concept | Model is an Abstraction | cs/what-is-a-model.pdf
+- cs | what-is-a-model | What Is a Model — Understand Model as a concept | Model is an Abstraction | kb/what-is-a-model.pdf
 - yt | visually-create-state-machines | Visually Create State Machines — build and visualize state machines with a visual editor | State Machines | https://www.youtube.com/watch?v=RYQ_HG7vVZw
-- yt | staltz-visualizing-data-flow-cyclejs | ReactiveConf 2016 — André Staltz: Visualizing the data flow with Cycle.js — visualize reactive dataflow in Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=3a98OPJWFPY | summary: yt/reactiveconf-2016-andr-staltz-visualizing-the-data-flow.md
+- yt | staltz-visualizing-data-flow-cyclejs | ReactiveConf 2016 — André Staltz: Visualizing the data flow with Cycle.js — visualize reactive dataflow in Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=3a98OPJWFPY | summary: kb/reactiveconf-2016-andr-staltz-visualizing-the-data-flow.md
 - yt | staltz-cyclejs-functional-reactive-uis | Cycle.js and functional reactive user interfaces (André Staltz, Reactive 2015) — FRP user interfaces with Cycle.js | RxJS/Cycle.js | https://www.youtube.com/watch?v=uNZnftSksYg
 - yt | alfoni-state-ui-and-stuff-in-between | State, UI and the stuff in between (Christian Alfoni, Reactive 2015) — managing state between UI and app logic | State management | https://www.youtube.com/watch?v=MnFV6wEqKFE
-- yt | feldman-effects-as-data | Effects as Data (Richard Feldman, Reactive 2015) — modeling side effects as data, the Elm architecture | FP/Elm | https://www.youtube.com/watch?v=6EdXaWfoslc | summary: yt/effects-as-data-richard-feldman-reactive-2015.md
+- yt | feldman-effects-as-data | Effects as Data (Richard Feldman, Reactive 2015) — modeling side effects as data, the Elm architecture | FP/Elm | https://www.youtube.com/watch?v=6EdXaWfoslc | summary: kb/effects-as-data-richard-feldman-reactive-2015.md
 - yt | rxdb-in-100-seconds | RxDB in 100 Seconds — quick intro to the RxDB reactive local database | RxDB | https://www.youtube.com/watch?v=tj7AaDDHv2g
 - yt | easiest-way-to-store-data | The Easiest Way to Store Data — simplest way to persist data in the browser | Client storage | https://www.youtube.com/watch?v=tDWmfenF2AM
 - yt | power-react-app-with-indexeddb | How I power my React app with IndexedDB — using IndexedDB for local data in a React app | IndexedDB/React | https://www.youtube.com/watch?v=kImH1afFRNk
@@ -145,27 +145,27 @@ python log-link.py <url> <description>
 ### 2026-07-08 Wed
 - fit | run-walk-17k-3hrs-600m | run-walk-17k-3hrs-600m — Had a hard time because of stiff legs | trail training for davos
 - ai | ai-claude-agentic-rag-architecture | agentic rag architecture with claude — learn Agentic RAG | Agentic RAG | https://claude.ai/share/e7351b38-1232-4df8-9a22-e094a3571b43
-- yt | build-agentic-rag-with-claude-code | Build Agentic RAG With Claude Code — four-layer codebase RAG pipeline in Claude Code; ~10x less token burn | Agentic RAG | https://www.youtube.com/watch?v=j0D-i_O_cPw | summary: yt/build-agentic-rag-with-claude-code.md
+- yt | build-agentic-rag-with-claude-code | Build Agentic RAG With Claude Code — four-layer codebase RAG pipeline in Claude Code; ~10x less token burn | Agentic RAG | https://www.youtube.com/watch?v=j0D-i_O_cPw | summary: kb/build-agentic-rag-with-claude-code.md
 - yt | self-healing-ci-ai-monorepos-conf | Self-Healing CI (James Henry, AI ❤️ Monorepos Conf) — agents that auto-diagnose and fix failing CI in a monorepo | CI/Agentic | https://www.youtube.com/watch?v=kozGpPxgYUo
 - yt | karpathy-new-ai-workflow | Andrej Karpathy Just Revealed His New AI Workflow — Karpathy's latest AI-assisted coding workflow | AI Workflow | https://www.youtube.com/watch?v=eMVaGOsfYs8
 - yt | boris-cherny-method-build-10x-faster | Paste this into Claude to build 10x faster (Boris Cherny Method) — prompt method for faster Claude builds | Claude Code | https://www.youtube.com/watch?v=9nTG1B1No_E
 - yt | skill-10x-every-claude-output | This Skill Instantly 10x's Every Claude Output — a skill that lifts Claude output quality | Claude Skills | https://www.youtube.com/watch?v=d2XiTDzoizc
 - yt | anthropic-guide-better-claude-output | Anthropic Just Dropped a Guide for WAY Better Claude Output — Anthropic's guide to better output | Claude prompting | https://www.youtube.com/watch?v=pw79ro49CzU
-- yt | production-rag-langchain-vector-databases | Production RAG with LangChain & Vector Databases – Full Course — end-to-end production RAG build | RAG | https://www.youtube.com/watch?v=mHxLXzYjQRE | summary: yt/production-rag-with-langchain-vector-databases-full-course.md
+- yt | production-rag-langchain-vector-databases | Production RAG with LangChain & Vector Databases – Full Course — end-to-end production RAG build | RAG | https://www.youtube.com/watch?v=mHxLXzYjQRE | summary: kb/production-rag-with-langchain-vector-databases-full-course.md
 - yt | rag-fundamentals-and-advanced-techniques | RAG Fundamentals and Advanced Techniques – Full Course — fundamentals through advanced RAG | RAG | https://www.youtube.com/watch?v=ea2W8IogX80
 - yt | rag-explained-complete-visual-guide | RAG Explained: A Complete Visual Guide — visual walkthrough of how RAG works | RAG | https://www.youtube.com/watch?v=ZMI_7flKxjA
 
 ### 2026-07-07 Tue
-- yt | claude-fable-5-vs-opus-which-model | Claude Fable 5 vs Opus: Which AI Model Should You Use? — when to pick Fable 5 vs Opus for coding | Claude Models | https://www.youtube.com/watch?v=2XhM_8DlgnQ | summary: yt/claude-fable-5-is-back-should-you-still.md
-- yt | intent-driven-development-claude-fable5 | Intent-driven development with Claude Code & Fable 5 — spec/intent-first workflow driving Claude Code | Claude Code | https://www.youtube.com/watch?v=6ERUGFurDHY | summary: yt/intentdriven-development-with-claude-code-fable-5.md
-- yt | 12-concepts-ai-software-development | 12 Important Concepts In the Age of AI Software Development — mental models for AI-era dev | AI Engineering | https://www.youtube.com/watch?v=IJ-FAcYq_08 | summary: yt/12-important-concepts-in-the-age-of-ai.md
+- yt | claude-fable-5-vs-opus-which-model | Claude Fable 5 vs Opus: Which AI Model Should You Use? — when to pick Fable 5 vs Opus for coding | Claude Models | https://www.youtube.com/watch?v=2XhM_8DlgnQ | summary: kb/claude-fable-5-is-back-should-you-still.md
+- yt | intent-driven-development-claude-fable5 | Intent-driven development with Claude Code & Fable 5 — spec/intent-first workflow driving Claude Code | Claude Code | https://www.youtube.com/watch?v=6ERUGFurDHY | summary: kb/intentdriven-development-with-claude-code-fable-5.md
+- yt | 12-concepts-ai-software-development | 12 Important Concepts In the Age of AI Software Development — mental models for AI-era dev | AI Engineering | https://www.youtube.com/watch?v=IJ-FAcYq_08 | summary: kb/12-important-concepts-in-the-age-of-ai.md
 - yt | rag-crash-course-for-beginners | RAG Crash Course for Beginners — end-to-end intro to retrieval-augmented generation | RAG | https://www.youtube.com/watch?v=swvzKSOEluc
 - yt | why-ai-tokens-are-so-expensive | Why AI Tokens are so Expensive (Computerphile) — token economics and why LLM inference costs add up | LLM internals | https://www.youtube.com/watch?v=-0HRzXk8vlk
 - yt | containers-dont-make-ai-agent-safe | Containers Don't Make Your AI Agent Safe — why container sandboxing isn't enough for agent safety | Agent security | https://www.youtube.com/watch?v=7Z7ID5BbZU4
-- yt | ai-engineering-explained-in-17-mins | AI Engineering Explained in 17 Minutes (Reganti) — LLM + Tools/Knowledge/Memory = agent; evals, multi-agent, AI Ops | AI Engineering | https://www.youtube.com/watch?v=L6TSmylZT2g | summary: yt/ai-engineering-explained-in-17-mins-the-ultimate.md
+- yt | ai-engineering-explained-in-17-mins | AI Engineering Explained in 17 Minutes (Reganti) — LLM + Tools/Knowledge/Memory = agent; evals, multi-agent, AI Ops | AI Engineering | https://www.youtube.com/watch?v=L6TSmylZT2g | summary: kb/ai-engineering-explained-in-17-mins-the-ultimate.md
 - yt | claude-code-masterclass | Claude Code Masterclass — deep-dive walkthrough of Claude Code workflows and features | Claude Code | https://www.youtube.com/watch?v=9UdZhTnMrTA
 - yt | rag-agentic-design-42min-n8n-masterclass | 800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass) — condensed RAG + agentic design in n8n | RAG/Agentic | https://www.youtube.com/watch?v=HAFqyN7RExc
-- yt | google-agentic-engineering-masterclass | Google Just Dropped a Masterclass on Agentic Engineering — walkthrough of Google's agentic engineering guide | Agentic Engineering | https://www.youtube.com/watch?v=zbmuiaPuiNM | summary: yt/google-just-dropped-a-masterclass-on-agentic-engineering.md
+- yt | google-agentic-engineering-masterclass | Google Just Dropped a Masterclass on Agentic Engineering — walkthrough of Google's agentic engineering guide | Agentic Engineering | https://www.youtube.com/watch?v=zbmuiaPuiNM | summary: kb/google-just-dropped-a-masterclass-on-agentic-engineering.md
 - yt | staltz-see-data-flowing-through-app | See the data flowing through your app (André Staltz, Full Stack Fest 2016) — visualize reactive data flow | RxJS/FRP | https://www.youtube.com/watch?v=R-GzJgEccEQ
 - yt | staltz-you-will-learn-rxjs-ng-europe | You will learn RxJS (André Staltz, ng-europe 2016) — RxJS fundamentals talk | RxJS | https://www.youtube.com/watch?v=uQ1zhJHclvs
 - yt | staltz-return-of-stream-io-goto | The Return of Stream I/O (André Staltz, GOTO 2016) — streams as a fundamental I/O abstraction | RxJS/FRP | https://www.youtube.com/watch?v=Tkjg179M-Nc
@@ -184,21 +184,21 @@ python log-link.py <url> <description>
 
 ### 2026-07-05 Sat
 - fit | run-walk-30k-1000m | run-walk-30k-1000m — run 30k 1000m elevation 6hrs 12mins, nice long run with sunrise | trailrun training
-- yt | rag-vs-agentic-ai-llm-data | RAG vs Agentic AI: How LLMs Connect Data for Smarter AI — when retrieval beats agents and vice versa | RAG/Agentic AI | https://www.youtube.com/watch?v=fB2JQXEH_94 | summary: yt/rag-vs-agentic-ai-how-llms-connect-data.md
-- yt | every-rag-strategy-13-minutes | Every RAG Strategy Explained in 13 Minutes — compact no-fluff tour of RAG strategy options | RAG | https://www.youtube.com/watch?v=tLMViADvSNE | summary: yt/every-rag-strategy-explained-in-13-minutes-no.md
-- yt | ai-engineering-10-concepts | AI Engineering was HARD until I Learned these 10 Concepts — core AI engineering mental models | AI Engineering | https://www.youtube.com/watch?v=-qC_1A_WZbs | summary: yt/ai-engineering-was-hard-until-i-learned-these.md
+- yt | rag-vs-agentic-ai-llm-data | RAG vs Agentic AI: How LLMs Connect Data for Smarter AI — when retrieval beats agents and vice versa | RAG/Agentic AI | https://www.youtube.com/watch?v=fB2JQXEH_94 | summary: kb/rag-vs-agentic-ai-how-llms-connect-data.md
+- yt | every-rag-strategy-13-minutes | Every RAG Strategy Explained in 13 Minutes — compact no-fluff tour of RAG strategy options | RAG | https://www.youtube.com/watch?v=tLMViADvSNE | summary: kb/every-rag-strategy-explained-in-13-minutes-no.md
+- yt | ai-engineering-10-concepts | AI Engineering was HARD until I Learned these 10 Concepts — core AI engineering mental models | AI Engineering | https://www.youtube.com/watch?v=-qC_1A_WZbs | summary: kb/ai-engineering-was-hard-until-i-learned-these.md
 - ai | ai-claude-auto-draft-3x-daily | Auto-draft rework — hans-log auto-draft moved from 17:00 single draft to 3x daily checks 09/12/15 | Claude Code | https://github.com/hansschenker/hans-log
-- yt | day-with-anthropic-engineers-workflow | I Spent a Day With Anthropic Engineers — no secret workflow: plan light, verify where users meet the change, review loops | Claude Code | https://www.youtube.com/watch?v=hMgB1bjkI7o | summary: yt/i-spent-a-day-with-anthropic-engineers-heres.md
-- yt | github-claude-skills-ai-employees | 3 FREE AI Employees via GitHub Claude Skills — LLM council, last-30-days sentiment scan, virtual dev team | Claude Skills | https://www.youtube.com/watch?v=cBgT0PG4JkM | summary: yt/160000-cloned-these-3-free-ai-employees-heres.md
+- yt | day-with-anthropic-engineers-workflow | I Spent a Day With Anthropic Engineers — no secret workflow: plan light, verify where users meet the change, review loops | Claude Code | https://www.youtube.com/watch?v=hMgB1bjkI7o | summary: kb/i-spent-a-day-with-anthropic-engineers-heres.md
+- yt | github-claude-skills-ai-employees | 3 FREE AI Employees via GitHub Claude Skills — LLM council, last-30-days sentiment scan, virtual dev team | Claude Skills | https://www.youtube.com/watch?v=cBgT0PG4JkM | summary: kb/160000-cloned-these-3-free-ai-employees-heres.md
 
 ### 2026-07-04 Fri
-- ai | ai-claude-rag-architecture | Learn RAG Architecture — chunking strategies: fixed-size, semantic, hierarchical small-to-big | RAG | ai/ai-claude-rag-architecture.md
+- ai | ai-claude-rag-architecture | Learn RAG Architecture — chunking strategies: fixed-size, semantic, hierarchical small-to-big | RAG | kb/ai-claude-rag-architecture.md
 - yt | rag-architecture-ai-engineer | The RAG Architecture Every AI Engineer Needs to Know — RAG pipeline end to end; pairs with ai-claude-rag-architecture | RAG | https://www.youtube.com/watch?v=KhLJ7CbJZqU
 - ytl | ytl-llm-agentic-ai-zero-to-consultant | LLM & Agentic AI: From Zero to Consultant — curated path from LLM foundations to agentic AI practice | Agentic AI | https://www.youtube.com/playlist?list=PLr03p0fNnSPcwrgAEOjXafrkDHwKSrg86
-- yt | stanford-cme295-transformers-llms-lecture-2 | Stanford CME295 Transformers & LLMs Lecture 2 — RoPE, RMSNorm, MQA/GQA, T5 vs BERT vs decoder-only | Transformers/LLM | https://www.youtube.com/watch?v=yT84Y5zCnaA | summary: yt/stanford-cme295-transformers-llms-autumn-2025-lecture-2.md
+- yt | stanford-cme295-transformers-llms-lecture-2 | Stanford CME295 Transformers & LLMs Lecture 2 — RoPE, RMSNorm, MQA/GQA, T5 vs BERT vs decoder-only | Transformers/LLM | https://www.youtube.com/watch?v=yT84Y5zCnaA | summary: kb/stanford-cme295-transformers-llms-autumn-2025-lecture-2.md
 - ai | ai-claude-hans-log-tooling | Hans-log tooling day with Claude Code — tag rework, yt-scan + yt-note tools, tag dirs, auto-draft routine | Claude Code | https://github.com/hansschenker/hans-log
-- yt | multimodal-rag-with-docling | Multi-modal RAG with Docling — PDF images captioned via LLM into enriched text, Milvus + LangGraph agent | RAG/Docling | https://www.youtube.com/watch?v=Uky2eJ25oHY | summary: yt/multimodal-rag-with-docling-from-pdf-to-agentic.md
-- yt | import-everything-rag-docling-llamaparse | Import EVERYTHING Into Your RAG Agent — 95+ formats to markdown: LlamaParse vs Docling vs Mistral OCR | RAG ingestion | https://www.youtube.com/watch?v=eHw_6jhK8AM | summary: yt/import-everything-into-your-rag-agent-docling-llamaparse.md
+- yt | multimodal-rag-with-docling | Multi-modal RAG with Docling — PDF images captioned via LLM into enriched text, Milvus + LangGraph agent | RAG/Docling | https://www.youtube.com/watch?v=Uky2eJ25oHY | summary: kb/multimodal-rag-with-docling-from-pdf-to-agentic.md
+- yt | import-everything-rag-docling-llamaparse | Import EVERYTHING Into Your RAG Agent — 95+ formats to markdown: LlamaParse vs Docling vs Mistral OCR | RAG ingestion | https://www.youtube.com/watch?v=eHw_6jhK8AM | summary: kb/import-everything-into-your-rag-agent-docling-llamaparse.md
 
 ### 2026-07-03 Thu
 - fit | walk-run-walk | walk-run-walk — 32k 6h05min 1200m elevation, 1hr heavy rain thunder and lightning | trailrun training
@@ -216,11 +216,11 @@ python log-link.py <url> <description>
 - rxjs | rxjs-deep-dive-course | RxJS Deep Dive Course — full day building and publishing the course repo on GitHub with Claude Code | RxJS | https://github.com/hansschenker/rxjs-deep-dive-course
 
 ### 2026-06-25 Thu
-- ai | master-claude-030-045 | Master Claude Code Lectures 030–045: Manage Claude.md — Claude AI | Claude Hierarchical Structure | ai/master-claude-030-045.md
+- ai | master-claude-030-045 | Master Claude Code Lectures 030–045: Manage Claude.md — Claude AI | Claude Hierarchical Structure | kb/master-claude-030-045.md
 - ai | vo2max | Vo2max fifth vital sign — vo2max is the result of all 5 vital signs working together | vo2max | https://share.google/aimode/9Z0HEDjt9JuNZRk4k
 - yt | claude-cowork-private-lesson | Claude Cowork private lesson — different ways to use Claude Cowork | Claude Cowork | https://www.youtube.com/watch?v=DW4a1Cm8nG4
 - yt | training-older-athlete | Training for the Older Athlete — run | https://www.youtube.com/watch?v=cgoBjMc1r9U
-- yt | rxjs-switchmap-deep-dive | RxJS switchMap Explained — when to cancel vs merge inner observables, key for HTTP autocomplete | https://www.youtube.com/watch?v=rUZ9CjcaCEw | summary: yt/rxjs-switchmap-deep-dive.md
+- yt | rxjs-switchmap-deep-dive | RxJS switchMap Explained — when to cancel vs merge inner observables, key for HTTP autocomplete | https://www.youtube.com/watch?v=rUZ9CjcaCEw | summary: kb/rxjs-switchmap-deep-dive.md
 
 ### 2026-06-24 Tue
 - daily-summary | end-of-day | sport: trail run 33.5k 1200m 6h33min ✅ — claude: lectures 15-30 + course plan created ✅ — rxjs: course setup + plan created ✅ — set up hans-log as personal PM tool with daily briefing, 3 goal plans, CLAUDE.md
