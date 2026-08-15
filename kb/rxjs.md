@@ -17,12 +17,13 @@ Everything reactive: the RxJS Deep Dive Course feeds on these notes — operator
 
 ## Concepts
 
-- [What Is a Model](./what-is-a-model.md) — model as static blueprint vs dynamic state machine — from FSM theory to distributed retry architecture
 - [From Options to Observables — a monadic journey (Miłosz Piechocki, WarsawJS](./from-option-to-observable.md) — Option monad → Observable, a monadic journey (NotebookLM)
 - [RxJS Heritage — from LINQ and Rx.NET](./rxjs-heritage.md) — RxJS heritage from LINQ and Rx.NET (NotebookLM)
 - [A Formal Taxonomy of RxJS Observables](./rxjs-observable-taxonomy.md) — invariant semantics vs. variable execution characteristics vs. style; cold/hot ⟂ unicast/multicast (NotebookLM)
 - [RxJS Operator Renaming — The Suffix Grammar](./rxjs-operator-renaming.md) — suffix grammar 'keep the root, fix the suffix': curried roots × boundary combinators (NotebookLM)
 - [Pipe vs Compose — Point-Free Composition in RxJS FP Architecture](./rxjs-pipe-compose.md) — Point-Free Composition in RxJS FP Architecture — currying, point-free style, hybrid FP-RxJS case study (NotebookLM)
+- [RxJS Operator Taxonomy — The 22-Axis Fingerprint Model](./rxjs-taxonomy.md) — every operator is a point in a 22-axis behavior space — lossy/lossless is one axis, and confused operators are neighbors differing on a single axis
+- [What Is a Model](./what-is-a-model.md) — model as static blueprint vs dynamic state machine — from FSM theory to distributed retry architecture
 
 ## Articles
 
