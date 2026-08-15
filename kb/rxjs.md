@@ -32,4 +32,5 @@ Everything reactive: the RxJS Deep Dive Course feeds on these notes — operator
 ## References
 
 - [Offline-First Apps with Angular, Ionic & CouchDB](./couchdb-repo.md) — offline-first sample app repo
+- [IxJS — Interactive Extensions for JavaScript](./interactive-rx.md) — the pull-based dual of RxJS — LINQ-style operators over Iterable/AsyncIterable, where the consumer controls the pace
 - [rxjs-fp — A Functional-Style RxJS Built From Scratch](./rxjs-fp.md) — from-scratch functional RxJS: cold core, curried free operators, no prototype patching

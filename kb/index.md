@@ -89,6 +89,7 @@ between files form the knowledge graph. Start at a topic hub and follow the link
 - [crocks Functions — the whole library index, by category](./fp-functions.md) — index of crocks' point-free helper functions
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](./fp-guide.md) — the classic FP-in-JavaScript book, currying → monads
 - [crocks Monoids — Prod, and the shared empty/concat interface](./fp-monoids.md) — multiplicative monoid, concat/empty laws in the crocks library
+- [IxJS — Interactive Extensions for JavaScript](./interactive-rx.md) — the pull-based dual of RxJS — LINQ-style operators over Iterable/AsyncIterable, where the consumer controls the pace
 - [Harald Sack — Presentations (Knowledge Graphs & Ontologies)](./ontology-expert.md) — Harald Sack's presentation slides on knowledge graphs & semantic web
 - [Matthew Horridge (Protégé / OWL author)](./protege-author-matthew-horridge.md) — author of the original Protégé/OWL ontology-building guide (GitHub)
 - [rxjs-fp — A Functional-Style RxJS Built From Scratch](./rxjs-fp.md) — from-scratch functional RxJS: cold core, curried free operators, no prototype patching

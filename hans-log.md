@@ -120,7 +120,7 @@ python log-link.py <url> <description>
 - rxjs | rxjs-course-modules-drive | RxJS Deep Dive Course Modules (Drive) — Google Drive folder with course modules | RxJS course | https://drive.google.com/drive/folders/1QxSVIiAjzs2QXV9s85qfX9RjW-dwkFSN
 
 ### 2026-07-20 Mon
-- rxjs | interactive-rx | interactive-rx — interactive version of RxJS | RxJS | https://github.com/ReactiveX/IxJS
+- rxjs | interactive-rx | interactive-rx — interactive version of RxJS | RxJS | https://github.com/ReactiveX/IxJS | summary: kb/interactive-rx.md
 - rxjs | rxjava-flowable | rxjava-flowable — how to handle backpressure | RxJava/backpressure | https://kdmalviyan.medium.com/introduction-to-rxjava-flowable-179274bf998c
 - rxjs | rxjava-intro | rxjava-intro — rxjava concepts | RxJava | https://medium.com/@gabrieldemattosleon/fundamentals-of-rxjava-with-kotlin-for-absolute-beginners-3d811350b701
 - rxjs | rxjs-taxonomy | rxjs-taxonomy — RxJS operator taxonomy | RxJS operators | https://claude.ai/share/7be433c6-31f0-4851-be17-bc82d0e52a7d | summary: kb/rxjs-taxonomy.md
