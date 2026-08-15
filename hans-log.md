@@ -62,7 +62,7 @@ python log-link.py <url> <description>
 - rxjs | rxjs-contributor | RxJS Contributors — Brian Cavalier (most.js), central error handling patterns | RxJS/Community
 - cs | js-functional-programming-nlm | FP in JavaScript (NotebookLM course) — 12-module course, expression-orientation → FizzBuzz capstone | FP/JavaScript | C:\Users\hanss\Web\javascript\js-functional-programming-nlm
 - cs | typescript-workshop | TypeScript Workshop (Frontend Masters) — Adam Rackis's fm-typescript-workshop repo, FEM course exercises | TypeScript | https://github.com/arackaf/fm-typescript-workshop
-- cs | universal-algebra | Universal Algebra — explanation of algebra as a general theory of operations & laws | Algebra/Theory
+- cs | universal-algebra | Universal Algebra — explanation of algebra as a general theory of operations & laws | Algebra/Theory | summary: kb/universal-algebra.md
 
 ### 2026-08-07 Fri
 - rxjs | rxjs-pipe-compose | Pipe vs Compose — Point-Free Composition in RxJS FP Architecture — currying, point-free style, hybrid FP-RxJS case study (NotebookLM) | RxJS/FP | D:\Learning-Local-Hanss\Rxjs-Fp | summary: kb/rxjs-pipe-compose.md

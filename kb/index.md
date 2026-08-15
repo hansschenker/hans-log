@@ -75,6 +75,7 @@ between files form the knowledge graph. Start at a topic hub and follow the link
 - [Pipe vs Compose — Point-Free Composition in RxJS FP Architecture](./rxjs-pipe-compose.md) — Point-Free Composition in RxJS FP Architecture — currying, point-free style, hybrid FP-RxJS case study (NotebookLM)
 - [RxJS Operator Taxonomy — The 22-Axis Fingerprint Model](./rxjs-taxonomy.md) — every operator is a point in a 22-axis behavior space — lossy/lossless is one axis, and confused operators are neighbors differing on a single axis
 - [Turtle (Terse RDF Triple Language)](./turtle-syntax.md) — Terse RDF Triple Language, compact text serialization for RDF graphs
+- [Universal Algebra — Operations + Laws as a General Theory](./universal-algebra.md) — an algebra is just a set with operations satisfying equational laws — the single lens behind monoids, functor laws, and lawful APIs
 - [Vo2max — Fifth Vital Sign](./vo2max.md) — vo2max is the result of all 5 vital signs working together
 - [What Is a Model](./what-is-a-model.md) — model as static blueprint vs dynamic state machine — from FSM theory to distributed retry architecture
 
