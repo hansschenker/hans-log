@@ -97,7 +97,7 @@ _(none)_
 - [js-functional-programming-nlm](./js-functional-programming-nlm.md) — the 12-module NotebookLM FP-in-JavaScript course
 - [crocks Functions — the whole library index, by category](./fp-functions.md) · [crocks Combinators — applyTo, composeB, converge, psi, substitution & friends](./fp-combinators.md) · [crocks Monoids — Prod, and the shared empty/concat interface](./fp-monoids.md) — the crocks reference side
 - [rxjs-from-fp-js-to-rxjs](./rxjs-from-fp-js-to-rxjs.md) — the same concepts rebuilt on streams
-- [typescript-workshop](./typescript-workshop.md) — the other course-repo entry of the same week
+- [TypeScript Workshop — TypeScript in the Age of AI (Adam Rackis)](./typescript-workshop.md) — the other course-repo entry of the same week
 
 ---
 

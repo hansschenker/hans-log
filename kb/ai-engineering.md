@@ -11,6 +11,7 @@ Mental models for building with LLMs: AI engineering concept tours, agentic engi
 ## Courses
 
 - [Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 2 - Transformer-Based Models & Tricks](./stanford-cme295-transformers-llms-autumn-2025-lecture-2.md) — RoPE, RMSNorm, MQA/GQA, T5 vs BERT vs decoder-only
+- [TypeScript Workshop — TypeScript in the Age of AI (Adam Rackis)](./typescript-workshop.md) — advanced type-system workshop — generics, conditional/mapped/template-literal types, variance — aimed at reading and verifying AI-generated code
 
 ## Videos
 
