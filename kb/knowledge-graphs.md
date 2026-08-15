@@ -20,6 +20,7 @@ The OpenHPI Knowledge Graphs course (Harald Sack) plus the hands-on Protege/OWL 
 
 ## Videos
 
+- [Google OKF + Claude : Why We Stopped Using RAG](./google-okf-agent-memory.md) — agent memory as a folder of linked markdown files — OKF standardizes it; files + grep beat vector DBs
 - [OWL (Web Ontology Language) — three-video primer](./owl-web-ontology-language.md) — OWL 2 ontology language for the semantic web
 - [What is JSON-LD?](./what-is-json-ld.md) — JSON-based format for linked data on the semantic web
 

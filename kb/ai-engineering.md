@@ -20,6 +20,7 @@ Mental models for building with LLMs: AI engineering concept tours, agentic engi
 - [AI Engineering was HARD until I Learned these 10 Concepts](./ai-engineering-was-hard-until-i-learned-these.md) — core AI engineering mental models
 - [Build Agentic RAG With Claude Code](./build-agentic-rag-with-claude-code.md) — four-layer codebase RAG pipeline in Claude Code; ~10x less token burn
 - [Google Just Dropped a Masterclass on Agentic Engineering (It's SO Good)](./google-just-dropped-a-masterclass-on-agentic-engineering.md) — walkthrough of Google's agentic engineering guide
+- [Google OKF + Claude : Why We Stopped Using RAG](./google-okf-agent-memory.md) — agent memory as a folder of linked markdown files — OKF standardizes it; files + grep beat vector DBs
 - [RAG vs Agentic AI: How LLMs Connect Data for Smarter AI](./rag-vs-agentic-ai-how-llms-connect-data.md) — when retrieval beats agents and vice versa
 
 ## References

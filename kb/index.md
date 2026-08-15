@@ -50,6 +50,7 @@ between files form the knowledge graph. Start at a topic hub and follow the link
 - [Effects as Data | Richard Feldman | Reactive 2015](./effects-as-data-richard-feldman-reactive-2015.md) — modeling side effects as data, the Elm architecture
 - [Every RAG Strategy Explained in 13 Minutes (No Fluff)](./every-rag-strategy-explained-in-13-minutes-no.md) — compact no-fluff tour of RAG strategy options
 - [Google Just Dropped a Masterclass on Agentic Engineering (It's SO Good)](./google-just-dropped-a-masterclass-on-agentic-engineering.md) — walkthrough of Google's agentic engineering guide
+- [Google OKF + Claude : Why We Stopped Using RAG](./google-okf-agent-memory.md) — agent memory as a folder of linked markdown files — OKF standardizes it; files + grep beat vector DBs
 - [I Spent a Day With Anthropic Engineers. Here's Their REAL Workflow.](./i-spent-a-day-with-anthropic-engineers-heres.md) — no secret workflow: plan light, verify where users meet the change, review loops
 - [Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)](./import-everything-into-your-rag-agent-docling-llamaparse.md) — 95+ formats to markdown: LlamaParse vs Docling vs Mistral OCR
 - [Intent-driven development with Claude Code & Fable 5](./intentdriven-development-with-claude-code-fable-5.md) — spec/intent-first workflow driving Claude Code

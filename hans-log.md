@@ -44,6 +44,9 @@ python log-link.py <url> <description>
 
 *Quick log: tell Claude, or `python log-entry.py tag [description] [url]` — newest day first.*
 
+### 2026-08-15 Sat
+- yt | google-okf-agent-memory | Google OKF + Claude: Why We Stopped Using RAG — agent memory as a folder of linked markdown files; files+grep beat vector DBs | AI/Agent Memory | https://www.youtube.com/watch?v=l46NJXUL4PM | summary: kb/google-okf-agent-memory.md
+
 ### 2026-08-13 Thu
 - cs | fp-combinators | crocks Combinators — combinator helpers (composeB, substitution, applyTo) in the crocks FP library | FP/JavaScript | https://crocks.dev/docs/functions/combinators.html | summary: kb/fp-combinators.md
 - cs | fp-monoids | crocks Prod Monoid — multiplicative monoid, concat/empty laws in the crocks library | FP/Monoids | https://crocks.dev/docs/monoids/Prod.html | summary: kb/fp-monoids.md

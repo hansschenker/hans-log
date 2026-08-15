@@ -19,6 +19,7 @@ From first RAG build to production: pattern catalogs, agentic RAG, and the docum
 - [Building Production RAG Over Complex Documents](./building-production-rag-over-complex-documents.md) — Databricks talk on production RAG over complex docs
 - [Docling — prepare pdf and other doc formats for working with AI and RAG](./docling-pdf-for-ai-rag.md) — prepare pdf and other doc formats for working with AI and RAG
 - [Every RAG Strategy Explained in 13 Minutes (No Fluff)](./every-rag-strategy-explained-in-13-minutes-no.md) — compact no-fluff tour of RAG strategy options
+- [Google OKF + Claude : Why We Stopped Using RAG](./google-okf-agent-memory.md) — agent memory as a folder of linked markdown files — OKF standardizes it; files + grep beat vector DBs
 - [Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)](./import-everything-into-your-rag-agent-docling-llamaparse.md) — 95+ formats to markdown: LlamaParse vs Docling vs Mistral OCR
 - [Multi-modal RAG with Docling: From PDF to Agentic AI Chatbot](./multimodal-rag-with-docling-from-pdf-to-agentic.md) — PDF images captioned via LLM into enriched text, Milvus + LangGraph agent
 - [RAG Explained in 14 Minutes | 10 RAG Patterns Every AI Engineer Must Know (2026)](./rag-explained-in-14-minutes-10-rag-patterns.md) — 10 RAG patterns every AI engineer must know, in 14 minutes

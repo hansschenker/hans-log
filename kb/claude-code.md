@@ -19,5 +19,6 @@ Claude Code as daily project manager: the Master Claude Code course notes, real-
 - [Build Agentic RAG With Claude Code](./build-agentic-rag-with-claude-code.md) — four-layer codebase RAG pipeline in Claude Code; ~10x less token burn
 - [Claude Cowork Private Lesson](./claude-cowork-private-lesson.md) — different ways to use Claude Cowork
 - [Claude Fable 5 Is BACK! Should You Still Use Opus? (Real Test)](./claude-fable-5-is-back-should-you-still.md) — when to pick Fable 5 vs Opus for coding
+- [Google OKF + Claude : Why We Stopped Using RAG](./google-okf-agent-memory.md) — agent memory as a folder of linked markdown files — OKF standardizes it; files + grep beat vector DBs
 - [I Spent a Day With Anthropic Engineers. Here's Their REAL Workflow.](./i-spent-a-day-with-anthropic-engineers-heres.md) — no secret workflow: plan light, verify where users meet the change, review loops
 - [Intent-driven development with Claude Code & Fable 5](./intentdriven-development-with-claude-code-fable-5.md) — spec/intent-first workflow driving Claude Code
