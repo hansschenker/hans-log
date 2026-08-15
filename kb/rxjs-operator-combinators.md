@@ -71,7 +71,7 @@ Braithwaite's combinator method transfers to RxJS without modification, because 
 
 ## Notes
 
-- Next concrete step if pursued: the `combinators.ts` spike in rxjs-fp (item list above) — the monoid-law tests are the cheap high-value start.
+- **Spike landed 2026-08-15**: `src/operators/combinators.ts` in rxjs-fp implements the set (`identityOperator`, `when`, `flattenWith`, `liftInner`, `around`, `applyN`; `compose` already existed as the repo's B combinator), with an 11-test spec covering the monoid laws (associativity + both identity laws), `flattenWith` rebuilding `mergeMap` and `switchMap` (including cancellation parity under fake timers), and each combinator's behavior. Full suite 362 tests green.
 - Open question worth its own exploration: is there a `liftInner`-style combinator for *time* (lifting an operator to act on windows/buffers uniformly), and does it relate to `windowTime` + `liftInner` + `mergeAll` the way `flattenWith` relates to the `*Map` family?
 
 ## Related
