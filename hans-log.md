@@ -58,7 +58,7 @@ python log-link.py <url> <description>
 ### 2026-08-11 Tue
 - rxjs | rxjs-from-fp-js-to-rxjs | From FP-JS to RxJS — the RxJS payoff course: same 12 FP concepts rebuilt on streams | RxJS/FP | C:\Users\hanss\Web\Hans\rxjs-from-fp-js-to-rxjs | summary: kb/rxjs-from-fp-js-to-rxjs.md
 - rxjs | rxjs-from-js-to-rxjs | From JS to RxJS — teach RxJS from the perspective of plain JavaScript | RxJS/Teaching
-- rxjs | erik-meijer | Erik Meijer — Duality — Iterable/Observable duality as the mathematical root of Rx | RxJS/Theory
+- rxjs | erik-meijer | Erik Meijer — Duality — Iterable/Observable duality as the mathematical root of Rx | RxJS/Theory | summary: kb/erik-meijer.md
 - rxjs | rxjs-contributor | RxJS Contributors — Brian Cavalier (most.js), central error handling patterns | RxJS/Community
 - cs | js-functional-programming-nlm | FP in JavaScript (NotebookLM course) — 12-module course, expression-orientation → FizzBuzz capstone | FP/JavaScript | C:\Users\hanss\Web\javascript\js-functional-programming-nlm
 - cs | typescript-workshop | TypeScript Workshop (Frontend Masters) — Adam Rackis's fm-typescript-workshop repo, FEM course exercises | TypeScript | https://github.com/arackaf/fm-typescript-workshop

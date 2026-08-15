@@ -80,6 +80,7 @@ between files form the knowledge graph. Start at a topic hub and follow the link
 
 ### Articles
 
+- [Erik Meijer — Subject/Observer is Dual to Iterator (the Rx Duality)](./erik-meijer.md) — the two-page paper where Rx is derived, not designed — dualize IEnumerable/IEnumerator mechanically and IObservable/IObserver falls out
 - [Kleisli Compositions in JavaScript](./kleisli-compositions-js.md) — Luis Atencio on Kleisli composition in JS
 - [RxJS & PouchDB — Persistent Data Flows](./pouchdb-article.md) — Luis Atencio on persistent data flows with RxJS + PouchDB
 

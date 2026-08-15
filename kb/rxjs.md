@@ -31,6 +31,7 @@ Everything reactive: the RxJS Deep Dive Course feeds on these notes — operator
 
 ## Articles
 
+- [Erik Meijer — Subject/Observer is Dual to Iterator (the Rx Duality)](./erik-meijer.md) — the two-page paper where Rx is derived, not designed — dualize IEnumerable/IEnumerator mechanically and IObservable/IObserver falls out
 - [RxJS & PouchDB — Persistent Data Flows](./pouchdb-article.md) — Luis Atencio on persistent data flows with RxJS + PouchDB
 
 ## References
