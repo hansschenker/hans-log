@@ -49,7 +49,7 @@ Matthew Horridge is a Stanford-affiliated (Palo Alto) developer and researcher w
 - [Protégé Pizza Tutorial (yasenstar/protege_pizza)](./protege-pizza.md) — the pizza tutorial his original guide seeded
 - [Build Ontology in Protege (pizza.owl) - 01 Opening & Introduction](./build-ontology-in-protege-pizzaowl-01-opening-introduction.md) — companion video series
 - [ontology-tool-protege](./ontology-tool-protege.md) — the Stanford Protégé editor
-- [understanding-owl-2](./understanding-owl-2.md) — the OWL 2 language his tooling targets
+- [OWL (Web Ontology Language) — three-video primer](./owl-web-ontology-language.md) — the OWL 2 language his tooling targets
 
 ---
 

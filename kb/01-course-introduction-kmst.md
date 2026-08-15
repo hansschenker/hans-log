@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=-LAyRLK0QjQ — playlist: [Knowledge Modelling a
 - [Protégé Pizza Tutorial (yasenstar/protege_pizza)](./protege-pizza.md)
 - [Build Ontology in Protege (pizza.owl) - 01 Opening & Introduction](./build-ontology-in-protege-pizzaowl-01-opening-introduction.md)
 - [Knowledge Graphs - 0.0 Lecture Overview](./knowledge-graphs-00-lecture-overview.md)
-- [understanding-owl-2](./understanding-owl-2.md)
+- [OWL (Web Ontology Language) — three-video primer](./owl-web-ontology-language.md)
 
 ---
 

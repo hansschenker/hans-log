@@ -66,7 +66,7 @@ timestamp: 2026-07-30
 - [What is JSON-LD?](./what-is-json-ld.md) — JSON serialization of the same RDF model
 - [Protégé Pizza Tutorial (yasenstar/protege_pizza)](./protege-pizza.md) — OWL ontologies serialized as RDF/Turtle
 - [01 Course Introduction - KMST](./01-course-introduction-kmst.md) — why RDF is the web-of-data standard
-- [understanding-owl-2](./understanding-owl-2.md) — OWL builds on the RDF triple model
+- [OWL (Web Ontology Language) — three-video primer](./owl-web-ontology-language.md) — OWL builds on the RDF triple model
 
 ---
 
