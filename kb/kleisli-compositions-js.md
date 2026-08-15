@@ -89,7 +89,7 @@ abstraction (express the logical flow, let the monad manage effects), makes edge
 ## Related
 
 - [RxJS & PouchDB — Persistent Data Flows](./pouchdb-article.md) — Luis Atencio threading effects through the Observable monad (same author)
-- [javascript-combinators](./javascript-combinators.md) — apply/compose/leftApply building blocks that precede monadic composition
+- [JavaScript Combinators — Deriving leftApply, rightApply, and Friends](./javascript-combinators.md) — apply/compose/leftApply building blocks that precede monadic composition
 - [RxJS Heritage — from LINQ and Rx.NET](./rxjs-heritage.md) — `SelectMany`/`chain` as the flatten operation behind RxJS concurrency operators
 
 ---

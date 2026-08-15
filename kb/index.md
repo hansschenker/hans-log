@@ -71,6 +71,7 @@ between files form the knowledge graph. Start at a topic hub and follow the link
 
 - [Learn RAG Architecture](./ai-claude-rag-architecture.md) — chunking strategies: fixed-size, semantic, hierarchical small-to-big
 - [From Options to Observables — a monadic journey (Miłosz Piechocki, WarsawJS](./from-option-to-observable.md) — Option monad → Observable, a monadic journey (NotebookLM)
+- [JavaScript Combinators — Deriving leftApply, rightApply, and Friends](./javascript-combinators.md) — Braithwaite's derivation — partial application decomposes a function's interface outside-in, and repeated extraction ends at named combinators like C
 - [RxJS Heritage — from LINQ and Rx.NET](./rxjs-heritage.md) — RxJS heritage from LINQ and Rx.NET (NotebookLM)
 - [A Formal Taxonomy of RxJS Observables](./rxjs-observable-taxonomy.md) — invariant semantics vs. variable execution characteristics vs. style; cold/hot ⟂ unicast/multicast (NotebookLM)
 - [RxJS Operator Renaming — The Suffix Grammar](./rxjs-operator-renaming.md) — suffix grammar 'keep the root, fix the suffix': curried roots × boundary combinators (NotebookLM)

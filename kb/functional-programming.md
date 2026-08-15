@@ -21,6 +21,7 @@ The FP foundation under the RxJS work: crocks, the Mostly Adequate Guide, Kleisl
 ## Concepts
 
 - [From Options to Observables — a monadic journey (Miłosz Piechocki, WarsawJS](./from-option-to-observable.md) — Option monad → Observable, a monadic journey (NotebookLM)
+- [JavaScript Combinators — Deriving leftApply, rightApply, and Friends](./javascript-combinators.md) — Braithwaite's derivation — partial application decomposes a function's interface outside-in, and repeated extraction ends at named combinators like C
 - [Pipe vs Compose — Point-Free Composition in RxJS FP Architecture](./rxjs-pipe-compose.md) — Point-Free Composition in RxJS FP Architecture — currying, point-free style, hybrid FP-RxJS case study (NotebookLM)
 - [Universal Algebra — Operations + Laws as a General Theory](./universal-algebra.md) — an algebra is just a set with operations satisfying equational laws — the single lens behind monoids, functor laws, and lawful APIs
 

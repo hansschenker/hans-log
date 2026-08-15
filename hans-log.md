@@ -113,7 +113,7 @@ python log-link.py <url> <description>
 - yt | knowledge-graphs-10-knowledge-representation-with-graphs | Knowledge Graphs - 1.0 Knowledge Representation with Graphs — week-1 intro: DIKW ladder, graphs/triples, ontologies, Semantic Web, Linked Data | Knowledge graphs | https://www.youtube.com/watch?v=NTyzkmDyRFs | summary: kb/knowledge-graphs-10-knowledge-representation-with-graphs.md
 
 ### 2026-07-21 Tue
-- cs | javascript-combinators | JavaScript Combinators — learn combinators like apply, leftApply, compose | Functional programming | D:\Learning-Local-Hanss\Javascript-Combinators
+- cs | javascript-combinators | JavaScript Combinators — learn combinators like apply, leftApply, compose | Functional programming | D:\Learning-Local-Hanss\Javascript-Combinators | summary: kb/javascript-combinators.md
 - rxjs | couchdb-repo | Offline-First Apps with Angular, Ionic & CouchDB — offline-first sample app repo | Offline-first/CouchDB | https://github.com/deroux/offline-first-apps-angular-ionic-couchdb | summary: kb/couchdb-repo.md
 - rxjs | pouchdb-article | RxJS & PouchDB Persistent Data Flows — Luis Atencio on persistent data flows with RxJS + PouchDB | RxJS/PouchDB | https://medium.com/@luijar/rxjs-pouchdb-persistent-data-flows-480f503ee41f | summary: kb/pouchdb-article.md
 - cs | kleisli-compositions-js | Kleisli Compositions in JavaScript — Luis Atencio on Kleisli composition in JS | Functional composition | https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4 | summary: kb/kleisli-compositions-js.md
