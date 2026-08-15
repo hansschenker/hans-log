@@ -26,6 +26,7 @@ between files form the knowledge graph. Start at a topic hub and follow the link
 - [Build Ontology in Protege (pizza.owl) - 01 Opening & Introduction](./build-ontology-in-protege-pizzaowl-01-opening-introduction.md) — Build pizza.owl in Protégé — 49-video hands-on OWL ontology-engineering course (Yasen Zhao); analyzed first video
 - [Claude Mastery Lessons 031–045](./claude-mastery-031-045.md) — Master Claude Code lessons 031-045 — AskUserQuestion, spec developer, CLAUDE.md, MCP servers
 - [JavaScript — Functional Programming for JavaScript Developers (Packt code repo)](./js-fp.md) — Packt course code repo
+- [Functional Programming in JavaScript — 12-Module NotebookLM Course](./js-functional-programming-nlm.md) — NLM-authored 12-module video course — expression-orientation to Functional FizzBuzz, the source course the RxJS payoff course rebuilds on streams
 - [Knowledge Graphs — Lecture 1: Knowledge Representation with Graphs (1.1–1.7)](./kg-lecture-1-knowledge-representation-with-graphs.md) — DIKW → triples/graphs → knowledge graphs → Semantic Web stack & Linked Data (videos 1.1–1.7)
 - [Knowledge Graphs — Lecture 2: Basic Knowledge Graph Infrastructure (2.1–2.6)](./kg-lecture-2-basic-knowledge-graph-infrastructure.md) — URIs, RDF, Turtle, RDFS vocabularies, complex structures & RDFS inference (videos 2.1–2.6)
 - [Knowledge Graphs - 0.0 Lecture Overview](./knowledge-graphs-00-lecture-overview.md) — first video: course roadmap across all 6 weeks

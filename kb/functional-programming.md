@@ -11,6 +11,7 @@ The FP foundation under the RxJS work: crocks, the Mostly Adequate Guide, Kleisl
 ## Courses
 
 - [JavaScript — Functional Programming for JavaScript Developers (Packt code repo)](./js-fp.md) — Packt course code repo
+- [Functional Programming in JavaScript — 12-Module NotebookLM Course](./js-functional-programming-nlm.md) — NLM-authored 12-module video course — expression-orientation to Functional FizzBuzz, the source course the RxJS payoff course rebuilds on streams
 - [From FP-JS to RxJS — The RxJS Payoff Course](./rxjs-from-fp-js-to-rxjs.md) — the RxJS payoff course — the same 12 FP-in-JavaScript concepts, one per module, rebuilt on streams with runnable strict-TS demos
 
 ## Videos
