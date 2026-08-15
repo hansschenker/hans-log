@@ -33,6 +33,7 @@ between files form the knowledge graph. Start at a topic hub and follow the link
 - [Master Claude Code Lectures 030–045 — Manage Claude.md](./master-claude-030-045.md) — managing CLAUDE.md — hierarchical files, project vs user rules, best practices
 - [Production RAG with LangChain & Vector Databases – Full Course](./production-rag-with-langchain-vector-databases-full-course.md) — end-to-end production RAG build
 - [Protégé Pizza Tutorial (yasenstar/protege_pizza)](./protege-pizza.md) — classic hands-on pizza.owl OWL ontology tutorial for Protégé (Yasen/DeBellis)
+- [From FP-JS to RxJS — The RxJS Payoff Course](./rxjs-from-fp-js-to-rxjs.md) — the RxJS payoff course — the same 12 FP-in-JavaScript concepts, one per module, rebuilt on streams with runnable strict-TS demos
 - [Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 2 - Transformer-Based Models & Tricks](./stanford-cme295-transformers-llms-autumn-2025-lecture-2.md) — RoPE, RMSNorm, MQA/GQA, T5 vs BERT vs decoder-only
 
 ### Videos

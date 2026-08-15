@@ -56,7 +56,7 @@ python log-link.py <url> <description>
 - rxjs | from-option-to-observable | From Options to Observables (Miłosz Piechocki, WarsawJS #43) — Option monad → Observable, a monadic journey (NotebookLM) | RxJS/Monads | D:\Learning-Local-Hanss\Rxjs-From-Option-to-Observable-Piechoki | summary: kb/from-option-to-observable.md
 
 ### 2026-08-11 Tue
-- rxjs | rxjs-from-fp-js-to-rxjs | From FP-JS to RxJS — the RxJS payoff course: same 12 FP concepts rebuilt on streams | RxJS/FP | C:\Users\hanss\Web\Hans\rxjs-from-fp-js-to-rxjs
+- rxjs | rxjs-from-fp-js-to-rxjs | From FP-JS to RxJS — the RxJS payoff course: same 12 FP concepts rebuilt on streams | RxJS/FP | C:\Users\hanss\Web\Hans\rxjs-from-fp-js-to-rxjs | summary: kb/rxjs-from-fp-js-to-rxjs.md
 - rxjs | rxjs-from-js-to-rxjs | From JS to RxJS — teach RxJS from the perspective of plain JavaScript | RxJS/Teaching
 - rxjs | erik-meijer | Erik Meijer — Duality — Iterable/Observable duality as the mathematical root of Rx | RxJS/Theory
 - rxjs | rxjs-contributor | RxJS Contributors — Brian Cavalier (most.js), central error handling patterns | RxJS/Community

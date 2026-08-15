@@ -8,6 +8,10 @@ timestamp: 2026-08-15
 
 Everything reactive: the RxJS Deep Dive Course feeds on these notes — operator semantics, the Rx heritage from LINQ, observables as a formal taxonomy, and the FP architecture behind pipe/compose.
 
+## Courses
+
+- [From FP-JS to RxJS — The RxJS Payoff Course](./rxjs-from-fp-js-to-rxjs.md) — the RxJS payoff course — the same 12 FP-in-JavaScript concepts, one per module, rebuilt on streams with runnable strict-TS demos
+
 ## Videos
 
 - [Effects as Data | Richard Feldman | Reactive 2015](./effects-as-data-richard-feldman-reactive-2015.md) — modeling side effects as data, the Elm architecture
